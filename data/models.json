@@ -1,0 +1,10 @@
+[
+  {
+    "id": "sample-model",
+    "name": "Sample Model",
+    "name_raw": "Sample Model",
+    "release_id": "sample-2026-08",
+    "tags": ["sample"],
+    "notes": "Replace or remove this sample entry after your first scrape."
+  }
+]

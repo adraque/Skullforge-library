@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Skullforge Library</title>
+  <meta name="description" content="Personal searchable catalog of Skullforge Studios releases.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <p class="eyebrow">Release catalog</p>
+      <h1>Skullforge Library</h1>
+      <p class="lede">Search models, tags, and monthly releases.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="Catalog filters">
+      <label>
+        <span>Search</span>
+        <input id="search" type="search" placeholder="Model name, tag, month…" autocomplete="off">
+      </label>
+
+      <label>
+        <span>Year</span>
+        <select id="year-filter">
+          <option value="">All years</option>
+        </select>
+      </label>
+    </section>
+
+    <p id="status" class="status">Loading catalog…</p>
+    <section id="results" class="grid" aria-live="polite"></section>
+  </main>
+
+  <template id="release-card-template">
+    <article class="card">
+      <div class="image-wrap">
+        <img class="release-image" alt="" hidden>
+        <div class="image-placeholder">No preview image</div>
+      </div>
+      <div class="card-body">
+        <p class="month"></p>
+        <h2 class="title"></h2>
+        <div class="models"></div>
+        <a class="post-link" target="_blank" rel="noopener noreferrer" hidden>Open Patreon post</a>
+      </div>
+    </article>
+  </template>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>
