@@ -49,3 +49,10 @@ input, select { width: 100%; padding: .85rem 1rem; border: 1px solid color-mix(i
   grid-row: span 2;
   height: 100%;
 }
+
+/* MMF-inspired release card hierarchy */
+.image-wrap{aspect-ratio:auto!important;background:transparent!important;overflow:visible!important;}
+.release-cover{display:block;width:100%;max-height:520px;object-fit:contain;background:#313137;}
+.release-thumbnails{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:4px;margin-top:4px;}
+.release-thumbnails img{display:block;width:100%;aspect-ratio:1/1;object-fit:contain;background:#313137;}
+.card .title{margin-top:18px;}

@@ -74,15 +74,14 @@
   {
     "id": "discord-2026-08",
     "release_month": "2026-08",
-    "title": "2026-08 Skullforge Release",
-    "post_url": "https://discord.com/channels/843878121052045332/917566648720977940/1535216919098040470",
-    "post_date": "",
-    "image": "images/2026/08/company_salvagers.jpg",
+    "title": "August 2026",
+    "cover_image": "images/2026/08/company_salvagers.jpg",
     "images": [
       "images/2026/08/company_salvagers.jpg",
       "images/2026/08/heavy_breachers.jpg",
       "images/2026/08/rapid_response_breachers.jpg"
     ],
+    "store_url": "https://skullforgestudios.gumroad.com/",
     "source": "discord"
   }
 ]
