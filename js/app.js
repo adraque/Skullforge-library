@@ -26,6 +26,33 @@ function searchableText(release) {
   ].filter(Boolean).join(' ').toLowerCase();
 }
 
+function renderReleaseImages(wrap, release) {
+  const paths = Array.isArray(release.images) && release.images.length
+    ? release.images
+    : (release.image ? [release.image] : []);
+
+  wrap.replaceChildren();
+
+  if (!paths.length) {
+    const placeholder = document.createElement('div');
+    placeholder.className = 'image-placeholder';
+    placeholder.textContent = 'No preview image';
+    wrap.appendChild(placeholder);
+    return;
+  }
+
+  wrap.classList.toggle('multi', paths.length > 1);
+
+  for (const path of paths) {
+    const img = document.createElement('img');
+    img.className = 'release-image';
+    img.src = path;
+    img.alt = `${release.title || 'Release'} preview`;
+    img.loading = 'lazy';
+    wrap.appendChild(img);
+  }
+}
+
 function render() {
   const query = searchInput.value.trim().toLowerCase();
   const year = yearFilter.value;
@@ -52,14 +79,7 @@ function render() {
     node.querySelector('.month').textContent = release.release_month || 'Unknown month';
     node.querySelector('.title').textContent = release.title || 'Untitled release';
 
-    const image = node.querySelector('.release-image');
-    const placeholder = node.querySelector('.image-placeholder');
-    if (release.image) {
-      image.src = release.image;
-      image.alt = `${release.title || 'Release'} preview`;
-      image.hidden = false;
-      placeholder.hidden = true;
-    }
+    renderReleaseImages(node.querySelector('.image-wrap'), release);
 
     const modelWrap = node.querySelector('.models');
     const releaseModels = modelsForRelease(release.id);
@@ -80,6 +100,7 @@ function render() {
     const link = node.querySelector('.post-link');
     if (release.post_url) {
       link.href = release.post_url;
+      link.textContent = release.source === 'discord' ? 'Open Discord source' : 'Open source post';
       link.hidden = false;
     }
 

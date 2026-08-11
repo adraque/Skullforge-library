@@ -29,3 +29,23 @@ input, select { width: 100%; padding: .85rem 1rem; border: 1px solid color-mix(i
 .post-link { font-size: .9rem; }
 .empty { padding: 3rem 0; opacity: .7; }
 @media (max-width: 650px) { .controls { grid-template-columns: 1fr; } .site-header { padding-top: 2.5rem; } }
+
+/* Multi-image release gallery */
+.image-wrap.multi {
+  aspect-ratio: auto;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2px;
+  background: color-mix(in srgb, Canvas 86%, currentColor 14%);
+}
+.image-wrap.multi .release-image {
+  aspect-ratio: 1 / 1;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  background: color-mix(in srgb, Canvas 90%, currentColor 10%);
+}
+.image-wrap.multi .release-image:first-child:nth-last-child(3) {
+  grid-row: span 2;
+  height: 100%;
+}

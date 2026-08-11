@@ -1,10 +1,26 @@
 [
   {
-    "id": "sample-model",
-    "name": "Sample Model",
-    "name_raw": "Sample Model",
-    "release_id": "sample-2026-08",
-    "tags": ["sample"],
-    "notes": "Replace or remove this sample entry after your first scrape."
+    "id": "discord-2026-08-company-salvagers",
+    "name": "Company Salvagers",
+    "name_raw": "Company Salvagers",
+    "release_id": "discord-2026-08",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-08-heavy-breachers",
+    "name": "Heavy Breachers",
+    "name_raw": "Heavy Breachers",
+    "release_id": "discord-2026-08",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-08-rapid-response-breachers",
+    "name": "Rapid Response Breachers",
+    "name_raw": "Rapid Response Breachers",
+    "release_id": "discord-2026-08",
+    "tags": [],
+    "notes": ""
   }
 ]
