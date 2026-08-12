@@ -685,3 +685,151 @@ init().catch(e=>{console.error(e);status.textContent=`Catalog failed to load: ${
   setTimeout(repairAll, 300);
   setTimeout(repairAll, 900);
 })();
+
+/* Skullforge TRUE targeted image centering fix */
+(() => {
+  "use strict";
+
+  if (window.__SFS_TRUE_IMAGE_CENTER_FIX__) return;
+  window.__SFS_TRUE_IMAGE_CENTER_FIX__ = true;
+
+  const TARGETS = new Set([
+    "February 2026",
+    "November 2025",
+    "September 2024"
+  ]);
+
+  function targetHeadingElements() {
+    return [...document.querySelectorAll("h1,h2,h3,h4,strong")]
+      .filter(el => TARGETS.has((el.textContent || "").trim()));
+  }
+
+  function findCard(heading) {
+    let node = heading.parentElement;
+    let best = null;
+
+    while (node && node !== document.body) {
+      const targetHeadings = [...node.querySelectorAll("h1,h2,h3,h4,strong")]
+        .filter(el => TARGETS.has((el.textContent || "").trim()));
+
+      if (targetHeadings.length === 1 && node.querySelector("img")) {
+        best = node;
+      }
+
+      if (targetHeadings.length > 1) break;
+      node = node.parentElement;
+    }
+
+    return best;
+  }
+
+  function findCarousel(card, heading) {
+    const imgs = [...card.querySelectorAll("img")];
+    if (!imgs.length) return null;
+
+    let node = imgs[0].parentElement;
+    let best = node;
+
+    while (node && node !== card) {
+      if (!node.contains(heading) && node.querySelector("img")) {
+        best = node;
+      }
+      node = node.parentElement;
+    }
+
+    return best;
+  }
+
+  function imageVisibility(img, carousel) {
+    const style = getComputedStyle(img);
+
+    if (
+      style.display === "none" ||
+      style.visibility === "hidden" ||
+      Number(style.opacity || 1) === 0
+    ) {
+      return 0;
+    }
+
+    const r = img.getBoundingClientRect();
+    const c = carousel.getBoundingClientRect();
+
+    const overlapX = Math.max(
+      0,
+      Math.min(r.right, c.right) - Math.max(r.left, c.left)
+    );
+
+    const overlapY = Math.max(
+      0,
+      Math.min(r.bottom, c.bottom) - Math.max(r.top, c.top)
+    );
+
+    return overlapX * overlapY;
+  }
+
+  function centerTarget(heading) {
+    const card = findCard(heading);
+    if (!card) return;
+
+    const carousel = findCarousel(card, heading);
+    if (!carousel) return;
+
+    const images = [...carousel.querySelectorAll("img")];
+    if (!images.length) return;
+
+    // Remove our class from all images first, then apply it only to whichever
+    // image has the greatest visible overlap with the carousel.
+    images.forEach(img => img.classList.remove("sfs-true-centered-image"));
+
+    let visibleImage = null;
+    let bestArea = 0;
+
+    images.forEach(img => {
+      const area = imageVisibility(img, carousel);
+
+      if (area > bestArea) {
+        bestArea = area;
+        visibleImage = img;
+      }
+    });
+
+    if (visibleImage) {
+      visibleImage.classList.add("sfs-true-centered-image");
+    }
+  }
+
+  function repairAll() {
+    targetHeadingElements().forEach(centerTarget);
+  }
+
+  let timer = null;
+
+  function schedule(delay = 40) {
+    clearTimeout(timer);
+    timer = setTimeout(repairAll, delay);
+  }
+
+  // Re-center after carousel navigation.
+  document.addEventListener("click", event => {
+    if (event.target.closest("button,[role='button']")) {
+      schedule(20);
+      setTimeout(repairAll, 120);
+      setTimeout(repairAll, 300);
+    }
+  }, true);
+
+  new MutationObserver(() => schedule(50)).observe(document.body, {
+    childList: true,
+    subtree: true,
+    attributes: true,
+    attributeFilter: ["class", "style", "src"]
+  });
+
+  window.addEventListener("resize", () => schedule(20));
+  window.addEventListener("load", repairAll);
+  document.addEventListener("DOMContentLoaded", repairAll);
+
+  repairAll();
+  setTimeout(repairAll, 300);
+  setTimeout(repairAll, 900);
+})();
