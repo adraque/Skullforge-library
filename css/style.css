@@ -248,3 +248,36 @@ body.lightbox-open{overflow:hidden;}
   transform: scale(.86) !important;
   transform-origin: center !important;
 }
+
+/* Skullforge targeted carousel centering fix */
+
+.sfs-target-center-carousel {
+  position: relative !important;
+  overflow: hidden !important;
+}
+
+.sfs-target-center-slide {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  left: 0 !important;
+  right: 0 !important;
+  box-sizing: border-box !important;
+}
+
+.sfs-target-center-slide.sfs-target-visible {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.sfs-target-center-slide.sfs-target-visible img {
+  display: block !important;
+  max-width: 100% !important;
+  height: auto !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  object-fit: contain !important;
+  object-position: center center !important;
+}

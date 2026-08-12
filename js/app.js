@@ -494,3 +494,194 @@ init().catch(e=>{console.error(e);status.textContent=`Catalog failed to load: ${
   setTimeout(repairAll, 900);
   setTimeout(repairAll, 1800);
 })();
+
+/* Skullforge targeted carousel centering fix */
+(() => {
+  "use strict";
+
+  if (window.__SFS_TARGETED_CENTER_FIX__) return;
+  window.__SFS_TARGETED_CENTER_FIX__ = true;
+
+  const TARGET_MONTHS = new Set([
+    "February 2026",
+    "November 2025",
+    "September 2024"
+  ]);
+
+  function findHeading() {
+    return [...document.querySelectorAll("h1,h2,h3,h4,strong")]
+      .filter(el => TARGET_MONTHS.has((el.textContent || "").trim()));
+  }
+
+  function findCard(heading) {
+    let node = heading.parentElement;
+    let best = null;
+
+    while (node && node !== document.body) {
+      const targetHeadings = [...node.querySelectorAll("h1,h2,h3,h4,strong")]
+        .filter(el => TARGET_MONTHS.has((el.textContent || "").trim()));
+
+      const images = node.querySelectorAll("img");
+
+      if (targetHeadings.length === 1 && images.length >= 1) {
+        best = node;
+      }
+
+      if (targetHeadings.length > 1) break;
+      node = node.parentElement;
+    }
+
+    return best;
+  }
+
+  function findCarousel(card, heading) {
+    const imgs = [...card.querySelectorAll("img")];
+    if (!imgs.length) return null;
+
+    const first = imgs[0];
+    let node = first.parentElement;
+    let best = first.parentElement;
+
+    while (node && node !== card) {
+      if (!node.contains(heading) && node.querySelectorAll("img").length >= 1) {
+        best = node;
+      }
+      node = node.parentElement;
+    }
+
+    return best;
+  }
+
+  function slideForImage(img, carousel) {
+    let node = img.parentElement;
+    let best = img.parentElement;
+
+    while (node && node !== carousel) {
+      const rect = node.getBoundingClientRect();
+      const carouselRect = carousel.getBoundingClientRect();
+
+      if (
+        rect.width > 0 &&
+        carouselRect.width > 0 &&
+        rect.width <= carouselRect.width * 1.25
+      ) {
+        best = node;
+      }
+
+      node = node.parentElement;
+    }
+
+    return best;
+  }
+
+  function isVisibleSlide(slide, carousel) {
+    const style = getComputedStyle(slide);
+    if (
+      style.display === "none" ||
+      style.visibility === "hidden" ||
+      Number(style.opacity || 1) === 0
+    ) {
+      return false;
+    }
+
+    const rect = slide.getBoundingClientRect();
+    const c = carousel.getBoundingClientRect();
+
+    const overlap =
+      Math.min(rect.right, c.right) -
+      Math.max(rect.left, c.left);
+
+    return overlap > Math.min(rect.width, c.width) * 0.35;
+  }
+
+  function repairOne(heading) {
+    const card = findCard(heading);
+    if (!card) return;
+
+    const carousel = findCarousel(card, heading);
+    if (!carousel) return;
+
+    carousel.classList.add("sfs-target-center-carousel");
+
+    const images = [...carousel.querySelectorAll("img")];
+    const slides = [];
+
+    images.forEach(img => {
+      const slide = slideForImage(img, carousel);
+      if (slide && !slides.includes(slide)) {
+        slides.push(slide);
+      }
+    });
+
+    slides.forEach(slide => {
+      slide.classList.add("sfs-target-center-slide");
+      slide.classList.remove("sfs-target-visible");
+
+      /*
+        Remove only horizontal offsets left behind by the carousel.
+        We do NOT touch vertical sizing, dots, arrows, or hidden-slide state.
+      */
+      slide.style.removeProperty("margin-left");
+      slide.style.removeProperty("margin-right");
+
+      if (isVisibleSlide(slide, carousel)) {
+        slide.classList.add("sfs-target-visible");
+
+        slide.style.transform = "none";
+        slide.style.translate = "none";
+        slide.style.left = "0px";
+        slide.style.right = "0px";
+        slide.style.marginLeft = "auto";
+        slide.style.marginRight = "auto";
+        slide.style.width = "100%";
+        slide.style.maxWidth = "100%";
+
+        [...slide.querySelectorAll("img")].forEach(img => {
+          img.style.transform = "none";
+          img.style.translate = "none";
+          img.style.left = "auto";
+          img.style.right = "auto";
+          img.style.marginLeft = "auto";
+          img.style.marginRight = "auto";
+          img.style.maxWidth = "100%";
+          img.style.height = "auto";
+          img.style.objectFit = "contain";
+          img.style.objectPosition = "center center";
+        });
+      }
+    });
+  }
+
+  function repairAll() {
+    findHeading().forEach(repairOne);
+  }
+
+  let timer = null;
+
+  function schedule() {
+    clearTimeout(timer);
+    timer = setTimeout(repairAll, 60);
+  }
+
+  new MutationObserver(schedule).observe(document.body, {
+    childList: true,
+    subtree: true,
+    attributes: true,
+    attributeFilter: ["class", "style", "src"]
+  });
+
+  document.addEventListener("click", event => {
+    if (event.target.closest("button,[role='button']")) {
+      setTimeout(repairAll, 20);
+      setTimeout(repairAll, 150);
+    }
+  }, true);
+
+  window.addEventListener("resize", schedule);
+  window.addEventListener("load", schedule);
+  document.addEventListener("DOMContentLoaded", schedule);
+
+  schedule();
+  setTimeout(repairAll, 300);
+  setTimeout(repairAll, 900);
+})();
