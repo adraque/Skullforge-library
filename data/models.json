@@ -5301,20 +5301,20 @@
     "notes": ""
   },
   {
-    "id": "discord-2026-04-april-fools",
-    "name": "April Fools",
-    "name_raw": "April Fools",
-    "release_id": "discord-2026-04",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
     "id": "discord-2026-04-arsenal-fireteam-zeta",
     "name": "Arsenal Fireteam Zeta",
     "name_raw": "Arsenal Fireteam Zeta",
     "release_id": "discord-2026-04",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/cvgkyc?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-bot-divers-leviathan-tank",
+    "name": "Bot Divers Leviathan Tank",
+    "name_raw": "Bot Divers Leviathan Tank",
+    "release_id": "discord-2026-04",
+    "store_url": "https://skullforgestudios.gumroad.com/l/uemltl?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5323,16 +5323,7 @@
     "name": "Castle Klad Terrain Kit",
     "name_raw": "Castle Klad Terrain Kit",
     "release_id": "discord-2026-04",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-04-dec5b36f60d59407bdcb3d827e8b52bc",
-    "name": "Dec5B36F60D59407Bdcb3D827E8B52Bc",
-    "name_raw": "Dec5B36F60D59407Bdcb3D827E8B52Bc",
-    "release_id": "discord-2026-04",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/vkqduw?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5341,25 +5332,7 @@
     "name": "Firmament Corporate Reclaimers",
     "name_raw": "Firmament Corporate Reclaimers",
     "release_id": "discord-2026-04",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-04-firmament-layout",
-    "name": "Firmament Layout",
-    "name_raw": "Firmament Layout",
-    "release_id": "discord-2026-04",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-04-hades-patrol-layout",
-    "name": "Hades Patrol Layout",
-    "name_raw": "Hades Patrol Layout",
-    "release_id": "discord-2026-04",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/jztnffa?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5368,7 +5341,25 @@
     "name": "Hades Patrol Shock Troopers",
     "name_raw": "Hades Patrol Shock Troopers",
     "release_id": "discord-2026-04",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/eahmpn?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-janos-detective",
+    "name": "Janos Detective",
+    "name_raw": "Janos Detective",
+    "release_id": "discord-2026-04",
+    "store_url": "https://skullforgestudios.gumroad.com/l/nndant?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-janos-security-troopers",
+    "name": "Janos Security Troopers",
+    "name_raw": "Janos Security Troopers",
+    "release_id": "discord-2026-04",
+    "store_url": "https://skullforgestudios.gumroad.com/l/hxevyc?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5377,7 +5368,7 @@
     "name": "Samsara Stalker",
     "name_raw": "Samsara Stalker",
     "release_id": "discord-2026-04",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/eyqhva?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5386,7 +5377,16 @@
     "name": "Stalk And Survive Display Model",
     "name_raw": "Stalk And Survive Display Model",
     "release_id": "discord-2026-04",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/edliew?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-the-renegade-shadow",
+    "name": "The Renegade Shadow",
+    "name_raw": "The Renegade Shadow",
+    "release_id": "discord-2026-04",
+    "store_url": "https://skullforgestudios.gumroad.com/l/snnsh?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5395,7 +5395,16 @@
     "name": "Wardens Vol 1",
     "name_raw": "Wardens Vol 1",
     "release_id": "discord-2026-04",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/modka?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-zephys-the-hunter",
+    "name": "Zephys the Hunter",
+    "name_raw": "Zephys the Hunter",
+    "release_id": "discord-2026-04",
+    "store_url": "https://skullforgestudios.gumroad.com/l/lfinm?layout=profile",
     "tags": [],
     "notes": ""
   },

@@ -92,18 +92,23 @@
     "id": "discord-2026-04",
     "release_month": "2026-04",
     "title": "April 2026",
-    "cover_image": "images/2026/04/CASTLE_KLAD_terrain_kit.jpg",
+    "cover_image": "images/2026/04/last_chance_april.jpg",
     "images": [
+      "images/2026/04/last_chance_april.jpg",
       "images/2026/04/CASTLE_KLAD_terrain_kit.jpg",
       "images/2026/04/Arsenal_Fireteam_Zeta.jpg",
       "images/2026/04/samsara_stalker.jpg",
       "images/2026/04/stalk_and_survive_display_model.jpg",
       "images/2026/04/zeta_pilots.jpg",
       "images/2026/04/hades_patrol_shock_troopers.jpg",
-      "images/2026/04/hades_patrol_layout.jpg",
       "images/2026/04/wardens_vol_1.jpg",
       "images/2026/04/firmament_layout.jpg",
-      "images/2026/04/firmament_corporate_reclaimers.jpg"
+      "images/2026/04/firmament_corporate_reclaimers.jpg",
+      "images/2026/04/bot_divers_leviathan_tank.jpg",
+      "images/2026/04/the_renegade_shadow.jpg",
+      "images/2026/04/zephys_the_hunuter.jpg",
+      "images/2026/04/janos_detective.jpg",
+      "images/2026/04/janos_security_troopers.jpg"
     ],
     "source": "discord"
   },
