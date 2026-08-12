@@ -50,7 +50,6 @@
       "images/2026/06/Samsara_Sentry.jpg",
       "images/2026/06/captain_vulpes.jpg",
       "images/2026/06/heck_divers_trench_guardians.jpg",
-      "images/2026/06/image.png",
       "images/2026/06/fox_squadron.jpg",
       "images/2026/06/lieutenant_lagos.jpg",
       "images/2026/06/wingman_osprey.jpg",
@@ -193,10 +192,11 @@
     "id": "discord-2025-12",
     "release_month": "2025-12",
     "title": "December 2025",
-    "cover_image": "images/2025/12/the_scofflaw.jpg",
+    "cover_image": "images/2025/12/1_5.jpg",
     "images": [
-      "images/2025/12/the_scofflaw.jpg",
+      "images/2025/12/1_5.jpg",
       "images/2025/12/tango_guardians.jpg",
+      "images/2025/12/the_scofflaw.jpg",
       "images/2025/12/dust_scavs.jpg",
       "images/2025/12/milano_brigade.jpg",
       "images/2025/12/patrol_bronco.jpg",
@@ -210,8 +210,8 @@
       "images/2025/12/skullmas_5.jpg",
       "images/2025/12/skullmas_11.jpg",
       "images/2025/12/skullmas_12.jpg",
-      "images/2025/12/skullmas_9.jpg",
-      "images/2025/12/skullmas_10.jpg"
+      "images/2025/12/1_4.jpg",
+      "images/2025/12/1_2_3.jpg"
     ],
     "source": "discord"
   },
@@ -427,7 +427,10 @@
       "images/2025/02/fighter_pilots_2.jpg",
       "images/2025/02/tundra_marines.jpg",
       "images/2025/02/volunteer_force.jpg",
-      "images/2025/02/assault_transport.png"
+      "images/2025/02/assault_transport.png",
+      "images/2025/02/1_2.jpg",
+      "images/2025/02/1_3.jpg",
+      "images/2025/02/1.jpg"
     ],
     "source": "discord"
   },
@@ -787,7 +790,6 @@
       "images/2023/11/cloud_skipper.jpg",
       "images/2023/11/gangers.jpg",
       "images/2023/11/homestead.jpg",
-      "images/2023/11/outriders.jpg",
       "images/2023/11/pilgrims_2.jpg"
     ],
     "source": "discord"
@@ -798,9 +800,6 @@
     "title": "October 2023",
     "cover_image": "images/2023/10/image.png",
     "images": [
-      "images/2023/10/image.png",
-      "images/2023/10/image.png",
-      "images/2023/10/image.png",
       "images/2023/10/image.png",
       "images/2023/10/veldt_hounds.jpg",
       "images/2023/10/spartican_clones.jpg",
@@ -862,7 +861,6 @@
       "images/2023/07/wooly_rider.jpg",
       "images/2023/07/legendary_hunter.jpg",
       "images/2023/07/offworld_raiders.jpg",
-      "images/2023/07/alien_set_1.jpg",
       "images/2023/07/bureau.jpg",
       "images/2023/07/spec_ops_team.jpg"
     ],
@@ -946,8 +944,6 @@
     "title": "January 2023",
     "cover_image": "images/2023/01/image.png",
     "images": [
-      "images/2023/01/image.png",
-      "images/2023/01/image.png",
       "images/2023/01/image.png"
     ],
     "source": "discord"
@@ -985,7 +981,6 @@
     "cover_image": "images/2022/11/banner_small.jpg",
     "images": [
       "images/2022/11/banner_small.jpg",
-      "images/2022/11/image.png",
       "images/2022/11/image.png"
     ],
     "source": "discord"
@@ -1036,8 +1031,6 @@
     "title": "July 2022",
     "cover_image": "images/2022/07/unknown.png",
     "images": [
-      "images/2022/07/unknown.png",
-      "images/2022/07/unknown.png",
       "images/2022/07/unknown.png",
       "images/2022/07/cloud_capital_guards.jpg",
       "images/2022/07/galactic_civis.jpg"
@@ -1111,7 +1104,6 @@
     "title": "January 2022",
     "cover_image": "images/2022/01/unknown.png",
     "images": [
-      "images/2022/01/unknown.png",
       "images/2022/01/unknown.png"
     ],
     "source": "discord"
