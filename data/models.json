@@ -1,5 +1,5747 @@
 [
   {
+    "id": "discord-2021-12-crimson-dawn",
+    "name": "Crimson Dawn",
+    "name_raw": "Crimson Dawn",
+    "release_id": "discord-2021-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2021-12-crimson-dawn-gang-squad",
+    "name": "Crimson Dawn gang squad",
+    "name_raw": "Crimson Dawn gang squad",
+    "release_id": "discord-2021-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2021-12-daredevil-mcu",
+    "name": "Daredevil MCU",
+    "name_raw": "Daredevil MCU",
+    "release_id": "discord-2021-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2021-12-darth-maul-crime-lord",
+    "name": "Darth Maul Crime Lord",
+    "name_raw": "Darth Maul Crime Lord",
+    "release_id": "discord-2021-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2021-12-dryden-vos",
+    "name": "Dryden vos",
+    "name_raw": "Dryden vos",
+    "release_id": "discord-2021-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2021-12-golden-sun-syndicate",
+    "name": "Golden Sun Syndicate",
+    "name_raw": "Golden Sun Syndicate",
+    "release_id": "discord-2021-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2021-12-house-atreus-soldiers",
+    "name": "House Atreus soldiers",
+    "name_raw": "House Atreus soldiers",
+    "release_id": "discord-2021-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2021-12-inquisitor-shuttle",
+    "name": "Inquisitor shuttle",
+    "name_raw": "Inquisitor shuttle",
+    "release_id": "discord-2021-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2021-12-qira-in-adventure-outfit",
+    "name": "Qira in adventure outfit",
+    "name_raw": "Qira in adventure outfit",
+    "release_id": "discord-2021-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2021-12-spice-oligarchs",
+    "name": "Spice Oligarchs",
+    "name_raw": "Spice Oligarchs",
+    "release_id": "discord-2021-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2021-12-spider-man-2099",
+    "name": "Spider man 2099",
+    "name_raw": "Spider man 2099",
+    "release_id": "discord-2021-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2021-12-weapon-x-wolverine-edited",
+    "name": "Weapon X wolverine (edited)",
+    "name_raw": "Weapon X wolverine (edited)",
+    "release_id": "discord-2021-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-black-panther-t-chala",
+    "name": "Black Panther T'chala",
+    "name_raw": "Black Panther T'chala",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-book-of-boba-fett",
+    "name": "Book of Boba fett",
+    "name_raw": "Book of Boba fett",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-border-tribe-squad",
+    "name": "Border Tribe squad",
+    "name_raw": "Border Tribe squad",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-dora-milaje",
+    "name": "Dora Milaje",
+    "name_raw": "Dora Milaje",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-final-order-sith-troopers",
+    "name": "Final Order Sith Troopers",
+    "name_raw": "Final Order Sith Troopers",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-first-order-flame-specialist",
+    "name": "First order Flame Specialist",
+    "name_raw": "First order Flame Specialist",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-first-order-shuttle",
+    "name": "First Order Shuttle",
+    "name_raw": "First Order Shuttle",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-first-order-snow-troopers",
+    "name": "First Order snow troopers",
+    "name_raw": "First Order snow troopers",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-killmonger-in-panther-armor",
+    "name": "Killmonger in panther armor",
+    "name_raw": "Killmonger in panther armor",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-m-r-g",
+    "name": "M R G",
+    "name_raw": "M R G",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-okoye",
+    "name": "Okoye",
+    "name_raw": "Okoye",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-quinjet",
+    "name": "QuinJet",
+    "name_raw": "QuinJet",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-talon-shuttle",
+    "name": "Talon shuttle",
+    "name_raw": "Talon shuttle",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-w-kabi",
+    "name": "W'kabi",
+    "name_raw": "W'kabi",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-01-wakanda",
+    "name": "Wakanda",
+    "name_raw": "Wakanda",
+    "release_id": "discord-2022-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-02-dancer",
+    "name": "Dancer",
+    "name_raw": "Dancer",
+    "release_id": "discord-2022-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-03-gunship-my-own-design-inspired-by-very-early-u-wing-concepts",
+    "name": "Gunship (my own design inspired by very early U-wing concepts)",
+    "name_raw": "Gunship (my own design inspired by very early U-wing concepts)",
+    "release_id": "discord-2022-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-03-imperial-remnants",
+    "name": "Imperial Remnants",
+    "name_raw": "Imperial Remnants",
+    "release_id": "discord-2022-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-03-sabine-wren",
+    "name": "Sabine Wren",
+    "name_raw": "Sabine Wren",
+    "release_id": "discord-2022-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-03-zeb-orelios",
+    "name": "Zeb Orelios",
+    "name_raw": "Zeb Orelios",
+    "release_id": "discord-2022-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-04-2-graphic",
+    "name": "2 Graphic",
+    "name_raw": "2 Graphic",
+    "release_id": "discord-2022-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-04-big",
+    "name": "Big",
+    "name_raw": "Big",
+    "release_id": "discord-2022-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-04-duel-img",
+    "name": "Duel Img",
+    "name_raw": "Duel Img",
+    "release_id": "discord-2022-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-05-mid",
+    "name": "Mid",
+    "name_raw": "Mid",
+    "release_id": "discord-2022-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-06-authority-hq-shuttle",
+    "name": "Authority Hq Shuttle",
+    "name_raw": "Authority Hq Shuttle",
+    "release_id": "discord-2022-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-06-darklord",
+    "name": "Darklord",
+    "name_raw": "Darklord",
+    "release_id": "discord-2022-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-06-mr-vengeance-grey",
+    "name": "Mr Vengeance Grey",
+    "name_raw": "Mr Vengeance Grey",
+    "release_id": "discord-2022-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-07-cloud-capital-guards",
+    "name": "Cloud Capital Guards",
+    "name_raw": "Cloud Capital Guards",
+    "release_id": "discord-2022-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-07-galactic-civis",
+    "name": "Galactic Civis",
+    "name_raw": "Galactic Civis",
+    "release_id": "discord-2022-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-07-img-7692",
+    "name": "Img 7692",
+    "name_raw": "Img 7692",
+    "release_id": "discord-2022-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-08-rising-hunter",
+    "name": "Rising Hunter",
+    "name_raw": "Rising Hunter",
+    "release_id": "discord-2022-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-08-set-1",
+    "name": "Set 1",
+    "name_raw": "Set 1",
+    "release_id": "discord-2022-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-08-set-2",
+    "name": "Set 2",
+    "name_raw": "Set 2",
+    "release_id": "discord-2022-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-08-set-3",
+    "name": "Set 3",
+    "name_raw": "Set 3",
+    "release_id": "discord-2022-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-08-set-4",
+    "name": "Set 4",
+    "name_raw": "Set 4",
+    "release_id": "discord-2022-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-10-authority-guards",
+    "name": "Authority Guards",
+    "name_raw": "Authority Guards",
+    "release_id": "discord-2022-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-10-authority-officer-heads",
+    "name": "Authority Officer Heads",
+    "name_raw": "Authority Officer Heads",
+    "release_id": "discord-2022-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-10-bord",
+    "name": "Bord",
+    "name_raw": "Bord",
+    "release_id": "discord-2022-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-10-bunker",
+    "name": "Bunker",
+    "name_raw": "Bunker",
+    "release_id": "discord-2022-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-10-spymaster",
+    "name": "Spymaster",
+    "name_raw": "Spymaster",
+    "release_id": "discord-2022-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-10-wet-works",
+    "name": "Wet Works",
+    "name_raw": "Wet Works",
+    "release_id": "discord-2022-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-a47d4c36-5ddf-4544-8eea-4c64d6f73a1f",
+    "name": "A47D4C36 5Ddf 4544 8Eea 4C64D6F73A1F",
+    "name_raw": "A47D4C36 5Ddf 4544 8Eea 4C64D6F73A1F",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-elite-field-troopers",
+    "name": "Elite Field Troopers",
+    "name_raw": "Elite Field Troopers",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-ext-weather-troopers2",
+    "name": "Ext Weather Troopers2",
+    "name_raw": "Ext Weather Troopers2",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-frozen-fracas",
+    "name": "Frozen Fracas",
+    "name_raw": "Frozen Fracas",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-gunship",
+    "name": "Gunship",
+    "name_raw": "Gunship",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-gunship-orthos",
+    "name": "Gunship Orthos",
+    "name_raw": "Gunship Orthos",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-insurgent-cold-marines",
+    "name": "Insurgent Cold Marines",
+    "name_raw": "Insurgent Cold Marines",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-shock-trooper",
+    "name": "Shock Trooper",
+    "name_raw": "Shock Trooper",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-stone-and-sky",
+    "name": "Stone And Sky",
+    "name_raw": "Stone And Sky",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-the-analyst",
+    "name": "The Analyst",
+    "name_raw": "The Analyst",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-the-bullseye",
+    "name": "The Bullseye",
+    "name_raw": "The Bullseye",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-the-contruct",
+    "name": "The Contruct",
+    "name_raw": "The Contruct",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-the-heavy",
+    "name": "The Heavy",
+    "name_raw": "The Heavy",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-the-sister",
+    "name": "The Sister",
+    "name_raw": "The Sister",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2022-12-the-venator",
+    "name": "The Venator",
+    "name_raw": "The Venator",
+    "release_id": "discord-2022-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-02-fireteam-black-delta",
+    "name": "Fireteam Black Delta",
+    "name_raw": "Fireteam Black Delta",
+    "release_id": "discord-2023-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-02-fireteam-red-apex",
+    "name": "Fireteam Red Apex",
+    "name_raw": "Fireteam Red Apex",
+    "release_id": "discord-2023-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-02-march",
+    "name": "March",
+    "name_raw": "March",
+    "release_id": "discord-2023-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-02-wip",
+    "name": "Wip",
+    "name_raw": "Wip",
+    "release_id": "discord-2023-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-03-333524495-3396171667337224-8767195021783536784-n",
+    "name": "333524495 3396171667337224 8767195021783536784 N",
+    "name_raw": "333524495 3396171667337224 8767195021783536784 N",
+    "release_id": "discord-2023-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-03-april-sneak-peek",
+    "name": "April Sneak Peek",
+    "name_raw": "April Sneak Peek",
+    "release_id": "discord-2023-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-03-moth-militia",
+    "name": "Moth Militia",
+    "name_raw": "Moth Militia",
+    "release_id": "discord-2023-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-03-os-annihilator",
+    "name": "Os Annihilator",
+    "name_raw": "Os Annihilator",
+    "release_id": "discord-2023-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-04-captain-jack",
+    "name": "Captain Jack",
+    "name_raw": "Captain Jack",
+    "release_id": "discord-2023-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-04-grey-maker-recovered",
+    "name": "Grey Maker Recovered",
+    "name_raw": "Grey Maker Recovered",
+    "release_id": "discord-2023-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-05-june",
+    "name": "June",
+    "name_raw": "June",
+    "release_id": "discord-2023-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-05-nu-grey-maker",
+    "name": "Nu Grey Maker",
+    "name_raw": "Nu Grey Maker",
+    "release_id": "discord-2023-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-05-roadmap",
+    "name": "Roadmap",
+    "name_raw": "Roadmap",
+    "release_id": "discord-2023-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-05-the-hero-1",
+    "name": "The Hero 1",
+    "name_raw": "The Hero 1",
+    "release_id": "discord-2023-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-05-warrior-wizards",
+    "name": "Warrior Wizards",
+    "name_raw": "Warrior Wizards",
+    "release_id": "discord-2023-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-armored-engineer-squad",
+    "name": "Armored Engineer Squad",
+    "name_raw": "Armored Engineer Squad",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-authority-garrison-full",
+    "name": "Authority Garrison Full",
+    "name_raw": "Authority Garrison Full",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-authority-recon-walker",
+    "name": "Authority Recon Walker",
+    "name_raw": "Authority Recon Walker",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-badland-raiders",
+    "name": "Badland Raiders",
+    "name_raw": "Badland Raiders",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-blaster-vol-5-dbl",
+    "name": "Blaster Vol 5 Dbl",
+    "name_raw": "Blaster Vol 5 Dbl",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-catepilar",
+    "name": "Catepilar",
+    "name_raw": "Catepilar",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-garrison-18",
+    "name": "Garrison 18",
+    "name_raw": "Garrison 18",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-garrison-crew",
+    "name": "Garrison Crew",
+    "name_raw": "Garrison Crew",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-heavy-infantry-specialists",
+    "name": "Heavy Infantry Specialists",
+    "name_raw": "Heavy Infantry Specialists",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-heavy-infantry-standard",
+    "name": "Heavy Infantry Standard",
+    "name_raw": "Heavy Infantry Standard",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-longfellow-wizard",
+    "name": "Longfellow Wizard",
+    "name_raw": "Longfellow Wizard",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-marines",
+    "name": "Marines",
+    "name_raw": "Marines",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-outlaw-droid",
+    "name": "Outlaw Droid",
+    "name_raw": "Outlaw Droid",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-rebel-hero",
+    "name": "Rebel Hero",
+    "name_raw": "Rebel Hero",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-sp-hero",
+    "name": "Sp Hero",
+    "name_raw": "Sp Hero",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-tactical-stormtroopers",
+    "name": "Tactical Stormtroopers",
+    "name_raw": "Tactical Stormtroopers",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-06-whatabout-squad-bundle",
+    "name": "Whatabout Squad Bundle",
+    "name_raw": "Whatabout Squad Bundle",
+    "release_id": "discord-2023-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-07-alien-set-1",
+    "name": "Alien Set 1",
+    "name_raw": "Alien Set 1",
+    "release_id": "discord-2023-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-07-august",
+    "name": "August",
+    "name_raw": "August",
+    "release_id": "discord-2023-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-07-big-rocks",
+    "name": "Big Rocks",
+    "name_raw": "Big Rocks",
+    "release_id": "discord-2023-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-07-bureau",
+    "name": "Bureau",
+    "name_raw": "Bureau",
+    "release_id": "discord-2023-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-07-desert-remnants",
+    "name": "Desert Remnants",
+    "name_raw": "Desert Remnants",
+    "release_id": "discord-2023-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-07-desert-troopers",
+    "name": "Desert Troopers",
+    "name_raw": "Desert Troopers",
+    "release_id": "discord-2023-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-07-fireteam-ghost-salvo",
+    "name": "Fireteam Ghost Salvo",
+    "name_raw": "Fireteam Ghost Salvo",
+    "release_id": "discord-2023-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-07-fit-mysto-wizard",
+    "name": "Fit Mysto Wizard",
+    "name_raw": "Fit Mysto Wizard",
+    "release_id": "discord-2023-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-07-legendary-hunter",
+    "name": "Legendary Hunter",
+    "name_raw": "Legendary Hunter",
+    "release_id": "discord-2023-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-07-offworld-raiders",
+    "name": "Offworld Raiders",
+    "name_raw": "Offworld Raiders",
+    "release_id": "discord-2023-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-07-spec-ops-team",
+    "name": "Spec Ops Team",
+    "name_raw": "Spec Ops Team",
+    "release_id": "discord-2023-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-07-wooly-rider",
+    "name": "Wooly Rider",
+    "name_raw": "Wooly Rider",
+    "release_id": "discord-2023-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-08-beachtroopers",
+    "name": "Beachtroopers",
+    "name_raw": "Beachtroopers",
+    "release_id": "discord-2023-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-08-commando-drones",
+    "name": "Commando Drones",
+    "name_raw": "Commando Drones",
+    "release_id": "discord-2023-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-08-covert-raider-2",
+    "name": "Covert Raider 2",
+    "name_raw": "Covert Raider 2",
+    "release_id": "discord-2023-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-08-executioner-dropship",
+    "name": "Executioner Dropship",
+    "name_raw": "Executioner Dropship",
+    "release_id": "discord-2023-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-08-grey-cell-merc-team",
+    "name": "Grey Cell Merc Team",
+    "name_raw": "Grey Cell Merc Team",
+    "release_id": "discord-2023-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-08-necrotroopers",
+    "name": "Necrotroopers",
+    "name_raw": "Necrotroopers",
+    "release_id": "discord-2023-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-09-dark-duchess",
+    "name": "Dark Duchess",
+    "name_raw": "Dark Duchess",
+    "release_id": "discord-2023-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-09-dusk-sp-october",
+    "name": "Dusk Sp October",
+    "name_raw": "Dusk Sp October",
+    "release_id": "discord-2023-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-09-engineer",
+    "name": "Engineer",
+    "name_raw": "Engineer",
+    "release_id": "discord-2023-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-09-mech",
+    "name": "Mech",
+    "name_raw": "Mech",
+    "release_id": "discord-2023-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-09-new-alliance-fleet-troopers",
+    "name": "New Alliance Fleet Troopers",
+    "name_raw": "New Alliance Fleet Troopers",
+    "release_id": "discord-2023-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-09-prawns",
+    "name": "Prawns",
+    "name_raw": "Prawns",
+    "release_id": "discord-2023-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-09-rapid-response-unit",
+    "name": "Rapid Response Unit",
+    "name_raw": "Rapid Response Unit",
+    "release_id": "discord-2023-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-09-spitfury-fighter",
+    "name": "Spitfury Fighter",
+    "name_raw": "Spitfury Fighter",
+    "release_id": "discord-2023-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-09-the-awakened-ronin",
+    "name": "The Awakened Ronin",
+    "name_raw": "The Awakened Ronin",
+    "release_id": "discord-2023-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-09-the-chimera",
+    "name": "The Chimera",
+    "name_raw": "The Chimera",
+    "release_id": "discord-2023-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-09-the-dark-shadow",
+    "name": "The Dark Shadow",
+    "name_raw": "The Dark Shadow",
+    "release_id": "discord-2023-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-09-vnsa-militia-force",
+    "name": "Vnsa Militia Force",
+    "name_raw": "Vnsa Militia Force",
+    "release_id": "discord-2023-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-10-muthers",
+    "name": "Muthers",
+    "name_raw": "Muthers",
+    "release_id": "discord-2023-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-10-spartican-clones",
+    "name": "Spartican Clones",
+    "name_raw": "Spartican Clones",
+    "release_id": "discord-2023-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-10-veldt-hounds",
+    "name": "Veldt Hounds",
+    "name_raw": "Veldt Hounds",
+    "release_id": "discord-2023-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-cars",
+    "name": "Cars",
+    "name_raw": "Cars",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-citypolice",
+    "name": "Citypolice",
+    "name_raw": "Citypolice",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-cloud-skipper",
+    "name": "Cloud Skipper",
+    "name_raw": "Cloud Skipper",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-crabs",
+    "name": "Crabs",
+    "name_raw": "Crabs",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-exiled-nomad",
+    "name": "Exiled Nomad",
+    "name_raw": "Exiled Nomad",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-exiled-wizard",
+    "name": "Exiled Wizard",
+    "name_raw": "Exiled Wizard",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-frontier-troopers",
+    "name": "Frontier Troopers",
+    "name_raw": "Frontier Troopers",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-gangers",
+    "name": "Gangers",
+    "name_raw": "Gangers",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-goons",
+    "name": "Goons",
+    "name_raw": "Goons",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-goons-idle",
+    "name": "Goons Idle",
+    "name_raw": "Goons Idle",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-homestead",
+    "name": "Homestead",
+    "name_raw": "Homestead",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-king-of-ash",
+    "name": "King Of Ash",
+    "name_raw": "King Of Ash",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-last-chance",
+    "name": "Last Chance",
+    "name_raw": "Last Chance",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-outriders",
+    "name": "Outriders",
+    "name_raw": "Outriders",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-pilgrims",
+    "name": "Pilgrims",
+    "name_raw": "Pilgrims",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-pilgrims-2",
+    "name": "Pilgrims 2",
+    "name_raw": "Pilgrims 2",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-resistance-1",
+    "name": "Resistance 1",
+    "name_raw": "Resistance 1",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-soldiers",
+    "name": "Soldiers",
+    "name_raw": "Soldiers",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-11-young-yokel",
+    "name": "Young Yokel",
+    "name_raw": "Young Yokel",
+    "release_id": "discord-2023-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-12-basic-soldier",
+    "name": "Basic Soldier",
+    "name_raw": "Basic Soldier",
+    "release_id": "discord-2023-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-12-elite-soldier",
+    "name": "Elite Soldier",
+    "name_raw": "Elite Soldier",
+    "release_id": "discord-2023-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-12-foxes",
+    "name": "Foxes",
+    "name_raw": "Foxes",
+    "release_id": "discord-2023-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-12-hazmat-soldier",
+    "name": "Hazmat Soldier",
+    "name_raw": "Hazmat Soldier",
+    "release_id": "discord-2023-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-12-inspiration-board",
+    "name": "Inspiration Board",
+    "name_raw": "Inspiration Board",
+    "release_id": "discord-2023-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-12-ninja",
+    "name": "Ninja",
+    "name_raw": "Ninja",
+    "release_id": "discord-2023-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-12-scientist",
+    "name": "Scientist",
+    "name_raw": "Scientist",
+    "release_id": "discord-2023-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-12-silverburgh",
+    "name": "Silverburgh",
+    "name_raw": "Silverburgh",
+    "release_id": "discord-2023-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-12-snake",
+    "name": "Snake",
+    "name_raw": "Snake",
+    "release_id": "discord-2023-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2023-12-tundra-soldiers",
+    "name": "Tundra Soldiers",
+    "name_raw": "Tundra Soldiers",
+    "release_id": "discord-2023-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-01-authority-auxillaries",
+    "name": "Authority Auxillaries",
+    "name_raw": "Authority Auxillaries",
+    "release_id": "discord-2024-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-01-bloc-marauders",
+    "name": "Bloc Marauders",
+    "name_raw": "Bloc Marauders",
+    "release_id": "discord-2024-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-01-insurgent-exfiltrators",
+    "name": "Insurgent Exfiltrators",
+    "name_raw": "Insurgent Exfiltrators",
+    "release_id": "discord-2024-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-01-muck-infantry-sp",
+    "name": "Muck Infantry Sp",
+    "name_raw": "Muck Infantry Sp",
+    "release_id": "discord-2024-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-01-scrapper-crew",
+    "name": "Scrapper Crew",
+    "name_raw": "Scrapper Crew",
+    "release_id": "discord-2024-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-01-solidarity-fighters",
+    "name": "Solidarity Fighters",
+    "name_raw": "Solidarity Fighters",
+    "release_id": "discord-2024-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-01-the-griz",
+    "name": "The Griz",
+    "name_raw": "The Griz",
+    "release_id": "discord-2024-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-01-trench-flame-troopers",
+    "name": "Trench Flame Troopers",
+    "name_raw": "Trench Flame Troopers",
+    "release_id": "discord-2024-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-02-anomura-parasite",
+    "name": "Anomura Parasite",
+    "name_raw": "Anomura Parasite",
+    "release_id": "discord-2024-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-02-armored-transport",
+    "name": "Armored Transport",
+    "name_raw": "Armored Transport",
+    "release_id": "discord-2024-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-02-assassin",
+    "name": "Assassin",
+    "name_raw": "Assassin",
+    "release_id": "discord-2024-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-02-chief-intelligence-officer",
+    "name": "Chief Intelligence Officer",
+    "name_raw": "Chief Intelligence Officer",
+    "release_id": "discord-2024-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-02-democratic-fighters",
+    "name": "Democratic Fighters",
+    "name_raw": "Democratic Fighters",
+    "release_id": "discord-2024-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-02-evil-scientists",
+    "name": "Evil Scientists",
+    "name_raw": "Evil Scientists",
+    "release_id": "discord-2024-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-02-facility-officers",
+    "name": "Facility Officers",
+    "name_raw": "Facility Officers",
+    "release_id": "discord-2024-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-02-red-edge",
+    "name": "Red Edge",
+    "name_raw": "Red Edge",
+    "release_id": "discord-2024-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-02-researchers",
+    "name": "Researchers",
+    "name_raw": "Researchers",
+    "release_id": "discord-2024-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-02-smuggler-crew",
+    "name": "Smuggler Crew",
+    "name_raw": "Smuggler Crew",
+    "release_id": "discord-2024-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-02-smuggler-crew-cantina-poses",
+    "name": "Smuggler Crew Cantina Poses",
+    "name_raw": "Smuggler Crew Cantina Poses",
+    "release_id": "discord-2024-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-02-the-magistrate",
+    "name": "The Magistrate",
+    "name_raw": "The Magistrate",
+    "release_id": "discord-2024-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-03-liberator-hardsuit",
+    "name": "Liberator Hardsuit",
+    "name_raw": "Liberator Hardsuit",
+    "release_id": "discord-2024-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-03-skullforge",
+    "name": "Skullforge",
+    "name_raw": "Skullforge",
+    "release_id": "discord-2024-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-dead-divers",
+    "name": "Dead Divers",
+    "name_raw": "Dead Divers",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-digicom-destructor",
+    "name": "Digicom Destructor",
+    "name_raw": "Digicom Destructor",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-digicom-goliath",
+    "name": "Digicom Goliath",
+    "name_raw": "Digicom Goliath",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-digicom-titan",
+    "name": "Digicom Titan",
+    "name_raw": "Digicom Titan",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-digicom-tower",
+    "name": "Digicom Tower",
+    "name_raw": "Digicom Tower",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-digicom-troopers",
+    "name": "Digicom Troopers",
+    "name_raw": "Digicom Troopers",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-dwellers-5",
+    "name": "Dwellers 5",
+    "name_raw": "Dwellers 5",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-dwellers-5a",
+    "name": "Dwellers 5A",
+    "name_raw": "Dwellers 5A",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-heck-diver-scouts",
+    "name": "Heck Diver Scouts",
+    "name_raw": "Heck Diver Scouts",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-joao-the-hunter",
+    "name": "Joao The Hunter",
+    "name_raw": "Joao The Hunter",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-killer-ruxpins",
+    "name": "Killer Ruxpins",
+    "name_raw": "Killer Ruxpins",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-proto-troopers",
+    "name": "Proto Troopers",
+    "name_raw": "Proto Troopers",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-recon-walker",
+    "name": "Recon Walker",
+    "name_raw": "Recon Walker",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-royal-commander",
+    "name": "Royal Commander",
+    "name_raw": "Royal Commander",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-sporse",
+    "name": "Sporse",
+    "name_raw": "Sporse",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-support-horse",
+    "name": "Support Horse",
+    "name_raw": "Support Horse",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-04-the-reformed",
+    "name": "The Reformed",
+    "name_raw": "The Reformed",
+    "release_id": "discord-2024-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-alpha-charge-fireteam",
+    "name": "Alpha Charge Fireteam",
+    "name_raw": "Alpha Charge Fireteam",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-armored-troopers",
+    "name": "Armored Troopers",
+    "name_raw": "Armored Troopers",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-city-guard",
+    "name": "City Guard",
+    "name_raw": "City Guard",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-crate-divers",
+    "name": "Crate Divers",
+    "name_raw": "Crate Divers",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-floating-mongers",
+    "name": "Floating Mongers",
+    "name_raw": "Floating Mongers",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-galactic-delegates",
+    "name": "Galactic Delegates",
+    "name_raw": "Galactic Delegates",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-harbinger-blade-mongers",
+    "name": "Harbinger Blade Mongers",
+    "name_raw": "Harbinger Blade Mongers",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-heck-divers-patriot-troopers",
+    "name": "Heck Divers Patriot Troopers",
+    "name_raw": "Heck Divers Patriot Troopers",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-heck-divers-recon-elites",
+    "name": "Heck Divers Recon Elites",
+    "name_raw": "Heck Divers Recon Elites",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-last-chance",
+    "name": "Last Chance",
+    "name_raw": "Last Chance",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-may-4th-2024",
+    "name": "May 4Th 2024",
+    "name_raw": "May 4Th 2024",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-oasis-snipers",
+    "name": "Oasis Snipers",
+    "name_raw": "Oasis Snipers",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-pod-divers",
+    "name": "Pod Divers",
+    "name_raw": "Pod Divers",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-rangers",
+    "name": "Rangers",
+    "name_raw": "Rangers",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-refinforcement-forces",
+    "name": "Refinforcement Forces",
+    "name_raw": "Refinforcement Forces",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-senate-troopers",
+    "name": "Senate Troopers",
+    "name_raw": "Senate Troopers",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-shadow-strike",
+    "name": "Shadow Strike",
+    "name_raw": "Shadow Strike",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-strike-mongers",
+    "name": "Strike Mongers",
+    "name_raw": "Strike Mongers",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-the-prince",
+    "name": "The Prince",
+    "name_raw": "The Prince",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-wraith-lord",
+    "name": "Wraith Lord",
+    "name_raw": "Wraith Lord",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-05-wraith-lord-1",
+    "name": "Wraith Lord 1",
+    "name_raw": "Wraith Lord 1",
+    "release_id": "discord-2024-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-6mm-battlebox",
+    "name": "6Mm Battlebox",
+    "name_raw": "6Mm Battlebox",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-6mm-combat-walker",
+    "name": "6Mm Combat Walker",
+    "name_raw": "6Mm Combat Walker",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-6mm-epsilon-shuttle",
+    "name": "6Mm Epsilon Shuttle",
+    "name_raw": "6Mm Epsilon Shuttle",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-6mm-gunboat",
+    "name": "6Mm Gunboat",
+    "name_raw": "6Mm Gunboat",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-6mm-landing-pad",
+    "name": "6Mm Landing Pad",
+    "name_raw": "6Mm Landing Pad",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-6mm-recon-troopers",
+    "name": "6Mm Recon Troopers",
+    "name_raw": "6Mm Recon Troopers",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-atiquity-warriors",
+    "name": "Atiquity Warriors",
+    "name_raw": "Atiquity Warriors",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-droid-researcher",
+    "name": "Droid Researcher",
+    "name_raw": "Droid Researcher",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-duel-of-vengence",
+    "name": "Duel Of Vengence",
+    "name_raw": "Duel Of Vengence",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-july",
+    "name": "July",
+    "name_raw": "July",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-oasis-strikers",
+    "name": "Oasis Strikers",
+    "name_raw": "Oasis Strikers",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-ossis-strider-elites",
+    "name": "Ossis Strider Elites",
+    "name_raw": "Ossis Strider Elites",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-painting-contest",
+    "name": "Painting Contest",
+    "name_raw": "Painting Contest",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-phase-1-commandos",
+    "name": "Phase 1 Commandos",
+    "name_raw": "Phase 1 Commandos",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-sage-cadre",
+    "name": "Sage Cadre",
+    "name_raw": "Sage Cadre",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-sniffler",
+    "name": "Sniffler",
+    "name_raw": "Sniffler",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-the-heretic",
+    "name": "The Heretic",
+    "name_raw": "The Heretic",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-wastelanders-2",
+    "name": "Wastelanders 2",
+    "name_raw": "Wastelanders 2",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-06-wasterlanders",
+    "name": "Wasterlanders",
+    "name_raw": "Wasterlanders",
+    "release_id": "discord-2024-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-airborne-troopers",
+    "name": "Airborne Troopers",
+    "name_raw": "Airborne Troopers",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-airborne-troopers-2",
+    "name": "Airborne Troopers 2",
+    "name_raw": "Airborne Troopers 2",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-airstrike-fighter-authority-fs",
+    "name": "Airstrike Fighter Authority Fs",
+    "name_raw": "Airstrike Fighter Authority Fs",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-battle-bundle-2-full",
+    "name": "Battle Bundle 2 Full",
+    "name_raw": "Battle Bundle 2 Full",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-bulwark-hunter",
+    "name": "Bulwark Hunter",
+    "name_raw": "Bulwark Hunter",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-cargo-walker",
+    "name": "Cargo Walker",
+    "name_raw": "Cargo Walker",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-clone-divers",
+    "name": "Clone Divers",
+    "name_raw": "Clone Divers",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-combat-troopers",
+    "name": "Combat Troopers",
+    "name_raw": "Combat Troopers",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-exo-thermal-troopers",
+    "name": "Exo Thermal Troopers",
+    "name_raw": "Exo Thermal Troopers",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-fs-garrison-terrain",
+    "name": "Fs Garrison Terrain",
+    "name_raw": "Fs Garrison Terrain",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-fs-infantry-authority",
+    "name": "Fs Infantry Authority",
+    "name_raw": "Fs Infantry Authority",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-fs-scythe-transport",
+    "name": "Fs Scythe Transport",
+    "name_raw": "Fs Scythe Transport",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-fs-strike-fighter-insurgent",
+    "name": "Fs Strike Fighter Insurgent",
+    "name_raw": "Fs Strike Fighter Insurgent",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-fs-support-fighter-insurgent",
+    "name": "Fs Support Fighter Insurgent",
+    "name_raw": "Fs Support Fighter Insurgent",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-infantry-commandos",
+    "name": "Infantry Commandos",
+    "name_raw": "Infantry Commandos",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-junqa-fenn",
+    "name": "Junqa Fenn",
+    "name_raw": "Junqa Fenn",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-prime-authority",
+    "name": "Prime Authority",
+    "name_raw": "Prime Authority",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-protocol",
+    "name": "Protocol",
+    "name_raw": "Protocol",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-scoundrel-sunday-bundle",
+    "name": "Scoundrel Sunday Bundle",
+    "name_raw": "Scoundrel Sunday Bundle",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-squad-commanders",
+    "name": "Squad Commanders",
+    "name_raw": "Squad Commanders",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-swift-hunter-fighter",
+    "name": "Swift Hunter Fighter",
+    "name_raw": "Swift Hunter Fighter",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-07-the-jackal",
+    "name": "The Jackal",
+    "name_raw": "The Jackal",
+    "release_id": "discord-2024-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-admin-set",
+    "name": "Admin Set",
+    "name_raw": "Admin Set",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-administrative-tiles",
+    "name": "Administrative Tiles",
+    "name_raw": "Administrative Tiles",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-banished-kith",
+    "name": "Banished Kith",
+    "name_raw": "Banished Kith",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-corpo-liasons1",
+    "name": "Corpo Liasons1",
+    "name_raw": "Corpo Liasons1",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-ct-clear-sky",
+    "name": "Ct Clear Sky",
+    "name_raw": "Ct Clear Sky",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-drone-stalkers-full1",
+    "name": "Drone Stalkers Full1",
+    "name_raw": "Drone Stalkers Full1",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-drone-stalkers11",
+    "name": "Drone Stalkers11",
+    "name_raw": "Drone Stalkers11",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-garage-set",
+    "name": "Garage Set",
+    "name_raw": "Garage Set",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-horizon-wardens",
+    "name": "Horizon Wardens",
+    "name_raw": "Horizon Wardens",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-img-8701",
+    "name": "Img 8701",
+    "name_raw": "Img 8701",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-img-8702",
+    "name": "Img 8702",
+    "name_raw": "Img 8702",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-indusrtrial-set",
+    "name": "Indusrtrial Set",
+    "name_raw": "Indusrtrial Set",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-industrial-corridors",
+    "name": "Industrial Corridors",
+    "name_raw": "Industrial Corridors",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-jawas",
+    "name": "Jawas",
+    "name_raw": "Jawas",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-mega-set",
+    "name": "Mega Set",
+    "name_raw": "Mega Set",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-offworld-colony-megabundle",
+    "name": "Offworld Colony Megabundle",
+    "name_raw": "Offworld Colony Megabundle",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-offworld-marines1",
+    "name": "Offworld Marines1",
+    "name_raw": "Offworld Marines1",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-scatter-terrain",
+    "name": "Scatter Terrain",
+    "name_raw": "Scatter Terrain",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-scropion-creature",
+    "name": "Scropion Creature",
+    "name_raw": "Scropion Creature",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-september",
+    "name": "September",
+    "name_raw": "September",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-08-stalwart-governor",
+    "name": "Stalwart Governor",
+    "name_raw": "Stalwart Governor",
+    "release_id": "discord-2024-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-ampersand",
+    "name": "Ampersand",
+    "name_raw": "Ampersand",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-board",
+    "name": "Board",
+    "name_raw": "Board",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-corpo-sec-troopers",
+    "name": "Corpo Sec Troopers",
+    "name_raw": "Corpo Sec Troopers",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-fireteam-alpha",
+    "name": "Fireteam Alpha",
+    "name_raw": "Fireteam Alpha",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-fireteam-hunter-securities",
+    "name": "Fireteam Hunter Securities",
+    "name_raw": "Fireteam Hunter Securities",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-fireteam-new-palisades",
+    "name": "Fireteam New Palisades",
+    "name_raw": "Fireteam New Palisades",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-freelancers",
+    "name": "Freelancers",
+    "name_raw": "Freelancers",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-frontier-spacers",
+    "name": "Frontier Spacers",
+    "name_raw": "Frontier Spacers",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-gambits-edge-cava-sans",
+    "name": "Gambits Edge Cava Sans",
+    "name_raw": "Gambits Edge Cava Sans",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-hess-valex",
+    "name": "Hess Valex",
+    "name_raw": "Hess Valex",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-human-crew-1",
+    "name": "Human Crew 1",
+    "name_raw": "Human Crew 1",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-infantimorphs",
+    "name": "Infantimorphs",
+    "name_raw": "Infantimorphs",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-key-vess",
+    "name": "Key Vess",
+    "name_raw": "Key Vess",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-kudzu-minis",
+    "name": "Kudzu Minis",
+    "name_raw": "Kudzu Minis",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-mcv-dagger",
+    "name": "Mcv Dagger",
+    "name_raw": "Mcv Dagger",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-mcv-dagger-parts",
+    "name": "Mcv Dagger Parts",
+    "name_raw": "Mcv Dagger Parts",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-mcv-glaive",
+    "name": "Mcv Glaive",
+    "name_raw": "Mcv Glaive",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-mcv-glaive-layout",
+    "name": "Mcv Glaive Layout",
+    "name_raw": "Mcv Glaive Layout",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-mcv-scimitar",
+    "name": "Mcv Scimitar",
+    "name_raw": "Mcv Scimitar",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-screenshot-2024-09-09-213700",
+    "name": "Screenshot 2024 09 09 213700",
+    "name_raw": "Screenshot 2024 09 09 213700",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-screenshot-2024-09-09-213721",
+    "name": "Screenshot 2024 09 09 213721",
+    "name_raw": "Screenshot 2024 09 09 213721",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-screenshot-2024-09-09-213726",
+    "name": "Screenshot 2024 09 09 213726",
+    "name_raw": "Screenshot 2024 09 09 213726",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-screenshot-2024-09-09-213732",
+    "name": "Screenshot 2024 09 09 213732",
+    "name_raw": "Screenshot 2024 09 09 213732",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-the-offspring",
+    "name": "The Offspring",
+    "name_raw": "The Offspring",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-the-outlaws",
+    "name": "The Outlaws",
+    "name_raw": "The Outlaws",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-the-rooch",
+    "name": "The Rooch",
+    "name_raw": "The Rooch",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-tiberius-station",
+    "name": "Tiberius Station",
+    "name_raw": "Tiberius Station",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-tiberius-station-2",
+    "name": "Tiberius Station 2",
+    "name_raw": "Tiberius Station 2",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-tribute",
+    "name": "Tribute",
+    "name_raw": "Tribute",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-veteran-pilot-exlusive",
+    "name": "Veteran Pilot Exlusive",
+    "name_raw": "Veteran Pilot Exlusive",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-09-zarack-bash",
+    "name": "Zarack Bash",
+    "name_raw": "Zarack Bash",
+    "release_id": "discord-2024-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-clone-spec-ops-team",
+    "name": "Clone Spec Ops Team",
+    "name_raw": "Clone Spec Ops Team",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-clone-spec-ops-team-a",
+    "name": "Clone Spec Ops Team A",
+    "name_raw": "Clone Spec Ops Team A",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-crashed-transport-terrain",
+    "name": "Crashed Transport Terrain",
+    "name_raw": "Crashed Transport Terrain",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-deepspace-miner",
+    "name": "Deepspace Miner",
+    "name_raw": "Deepspace Miner",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-fireteam-beta",
+    "name": "Fireteam Beta",
+    "name_raw": "Fireteam Beta",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-harvesters",
+    "name": "Harvesters",
+    "name_raw": "Harvesters",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-img-1448",
+    "name": "Img 1448",
+    "name_raw": "Img 1448",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-level-1-fullquality",
+    "name": "Level 1 Fullquality",
+    "name_raw": "Level 1 Fullquality",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-level-builder",
+    "name": "Level Builder",
+    "name_raw": "Level Builder",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-mcv-kriegsmesser",
+    "name": "Mcv Kriegsmesser",
+    "name_raw": "Mcv Kriegsmesser",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-mcv-machete",
+    "name": "Mcv Machete",
+    "name_raw": "Mcv Machete",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-mercenarios",
+    "name": "Mercenarios",
+    "name_raw": "Mercenarios",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-pac-maintenance-fullquality",
+    "name": "Pac Maintenance Fullquality",
+    "name_raw": "Pac Maintenance Fullquality",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-rat-hound-scavs",
+    "name": "Rat Hound Scavs",
+    "name_raw": "Rat Hound Scavs",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-retro-haunts",
+    "name": "Retro Haunts",
+    "name_raw": "Retro Haunts",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-sfs",
+    "name": "Sfs",
+    "name_raw": "Sfs",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-syndicate-security",
+    "name": "Syndicate Security",
+    "name_raw": "Syndicate Security",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-10-undead-coven",
+    "name": "Undead Coven",
+    "name_raw": "Undead Coven",
+    "release_id": "discord-2024-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-11-forest-rebels",
+    "name": "Forest Rebels",
+    "name_raw": "Forest Rebels",
+    "release_id": "discord-2024-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-11-gambits-edge-ithaca5",
+    "name": "Gambits Edge Ithaca5",
+    "name_raw": "Gambits Edge Ithaca5",
+    "release_id": "discord-2024-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-11-gambits-edge-tracer-bullet",
+    "name": "Gambits Edge Tracer Bullet",
+    "name_raw": "Gambits Edge Tracer Bullet",
+    "release_id": "discord-2024-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-11-human-crew-vol-2",
+    "name": "Human Crew Vol 2",
+    "name_raw": "Human Crew Vol 2",
+    "release_id": "discord-2024-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-11-insurgent-officers",
+    "name": "Insurgent Officers",
+    "name_raw": "Insurgent Officers",
+    "release_id": "discord-2024-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-11-pal-babo",
+    "name": "Pal Babo",
+    "name_raw": "Pal Babo",
+    "release_id": "discord-2024-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-11-scavengers-reign",
+    "name": "Scavengers Reign",
+    "name_raw": "Scavengers Reign",
+    "release_id": "discord-2024-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-2-fullquality",
+    "name": "2 Fullquality",
+    "name_raw": "2 Fullquality",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-basilisk",
+    "name": "Basilisk",
+    "name_raw": "Basilisk",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-crimson-sun-enforcers",
+    "name": "Crimson Sun Enforcers",
+    "name_raw": "Crimson Sun Enforcers",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-drop-trooprs",
+    "name": "Drop Trooprs",
+    "name_raw": "Drop Trooprs",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-frost-infantry",
+    "name": "Frost Infantry",
+    "name_raw": "Frost Infantry",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-galactic-pirates",
+    "name": "Galactic Pirates",
+    "name_raw": "Galactic Pirates",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-gremlins",
+    "name": "Gremlins",
+    "name_raw": "Gremlins",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-hex-bundle",
+    "name": "Hex Bundle",
+    "name_raw": "Hex Bundle",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-holiday-heist",
+    "name": "Holiday Heist",
+    "name_raw": "Holiday Heist",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-img-3654",
+    "name": "Img 3654",
+    "name_raw": "Img 3654",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-jolly-bundle",
+    "name": "Jolly Bundle",
+    "name_raw": "Jolly Bundle",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-mr-cowboy",
+    "name": "Mr Cowboy",
+    "name_raw": "Mr Cowboy",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-odst-art",
+    "name": "Odst Art",
+    "name_raw": "Odst Art",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-office-terrain",
+    "name": "Office Terrain",
+    "name_raw": "Office Terrain",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-orcs",
+    "name": "Orcs",
+    "name_raw": "Orcs",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-skullforge-set-up-clean",
+    "name": "Skullforge Set Up Clean",
+    "name_raw": "Skullforge Set Up Clean",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-the-badguys",
+    "name": "The Badguys",
+    "name_raw": "The Badguys",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-trench-crusade-ic",
+    "name": "Trench Crusade Ic",
+    "name_raw": "Trench Crusade Ic",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2024-12-wardens-set-3",
+    "name": "Wardens Set 3",
+    "name_raw": "Wardens Set 3",
+    "release_id": "discord-2024-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-armaments-vol1",
+    "name": "Armaments Vol1",
+    "name_raw": "Armaments Vol1",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-armaments-vol1-layout",
+    "name": "Armaments Vol1 Layout",
+    "name_raw": "Armaments Vol1 Layout",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-combat-botz",
+    "name": "Combat Botz",
+    "name_raw": "Combat Botz",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-crew-mutineer",
+    "name": "Crew Mutineer",
+    "name_raw": "Crew Mutineer",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-cross-bones-crew",
+    "name": "Cross Bones Crew",
+    "name_raw": "Cross Bones Crew",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-droptrooper-specialits",
+    "name": "Droptrooper Specialits",
+    "name_raw": "Droptrooper Specialits",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-first-matey",
+    "name": "First Matey",
+    "name_raw": "First Matey",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-full-crew",
+    "name": "Full Crew",
+    "name_raw": "Full Crew",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-gallus-hardsuit",
+    "name": "Gallus Hardsuit",
+    "name_raw": "Gallus Hardsuit",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-infiltrators-1",
+    "name": "Infiltrators 1",
+    "name_raw": "Infiltrators 1",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-infiltrators2",
+    "name": "Infiltrators2",
+    "name_raw": "Infiltrators2",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-mcv-tanto",
+    "name": "Mcv Tanto",
+    "name_raw": "Mcv Tanto",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-mcv-tanto-parts",
+    "name": "Mcv Tanto Parts",
+    "name_raw": "Mcv Tanto Parts",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-sfs-februaru",
+    "name": "Sfs Februaru",
+    "name_raw": "Sfs Februaru",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-shadow-daimyo",
+    "name": "Shadow Daimyo",
+    "name_raw": "Shadow Daimyo",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-skullforge-set-up-clean",
+    "name": "Skullforge Set Up Clean",
+    "name_raw": "Skullforge Set Up Clean",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-01-western-protectorate",
+    "name": "Western Protectorate",
+    "name_raw": "Western Protectorate",
+    "release_id": "discord-2025-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-arsenal-fireteam-gamma",
+    "name": "Arsenal Fireteam Gamma",
+    "name_raw": "Arsenal Fireteam Gamma",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-assault-transport",
+    "name": "Assault Transport",
+    "name_raw": "Assault Transport",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-drop-troopers",
+    "name": "Drop Troopers",
+    "name_raw": "Drop Troopers",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-fighter-pilots",
+    "name": "Fighter Pilots",
+    "name_raw": "Fighter Pilots",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-fighter-pilots-2",
+    "name": "Fighter Pilots 2",
+    "name_raw": "Fighter Pilots 2",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-firmament-astros-2",
+    "name": "Firmament Astros 2",
+    "name_raw": "Firmament Astros 2",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-firmament-astros1",
+    "name": "Firmament Astros1",
+    "name_raw": "Firmament Astros1",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-gamma-multipart",
+    "name": "Gamma Multipart",
+    "name_raw": "Gamma Multipart",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-img-5755",
+    "name": "Img 5755",
+    "name_raw": "Img 5755",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-img-5759",
+    "name": "Img 5759",
+    "name_raw": "Img 5759",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-multipart-kit",
+    "name": "Multipart Kit",
+    "name_raw": "Multipart Kit",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-scavengers-of-the-green",
+    "name": "Scavengers Of The Green",
+    "name_raw": "Scavengers Of The Green",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-tundra-marines",
+    "name": "Tundra Marines",
+    "name_raw": "Tundra Marines",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-02-volunteer-force",
+    "name": "Volunteer Force",
+    "name_raw": "Volunteer Force",
+    "release_id": "discord-2025-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-03-bushido-wars-heroes",
+    "name": "Bushido Wars Heroes",
+    "name_raw": "Bushido Wars Heroes",
+    "release_id": "discord-2025-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-03-chitiga-clan-trppers",
+    "name": "Chitiga Clan Trppers",
+    "name_raw": "Chitiga Clan Trppers",
+    "release_id": "discord-2025-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-03-find-franky",
+    "name": "Find Franky",
+    "name_raw": "Find Franky",
+    "release_id": "discord-2025-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-03-kemujin-raiders",
+    "name": "Kemujin Raiders",
+    "name_raw": "Kemujin Raiders",
+    "release_id": "discord-2025-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-03-pioneer-mulecraft",
+    "name": "Pioneer Mulecraft",
+    "name_raw": "Pioneer Mulecraft",
+    "release_id": "discord-2025-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-03-python-elites",
+    "name": "Python Elites",
+    "name_raw": "Python Elites",
+    "release_id": "discord-2025-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-03-python-recon-variants",
+    "name": "Python Recon Variants",
+    "name_raw": "Python Recon Variants",
+    "release_id": "discord-2025-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-03-pythos-trooper",
+    "name": "Pythos Trooper",
+    "name_raw": "Pythos Trooper",
+    "release_id": "discord-2025-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-03-vanguard-edge",
+    "name": "Vanguard Edge",
+    "name_raw": "Vanguard Edge",
+    "release_id": "discord-2025-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-03-viper-commander",
+    "name": "Viper Commander",
+    "name_raw": "Viper Commander",
+    "release_id": "discord-2025-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-april",
+    "name": "April",
+    "name_raw": "April",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-arsenal-mcv-gladius",
+    "name": "Arsenal Mcv Gladius",
+    "name_raw": "Arsenal Mcv Gladius",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-doomghast-snipers",
+    "name": "Doomghast Snipers",
+    "name_raw": "Doomghast Snipers",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-fleet-security-troopers",
+    "name": "Fleet Security Troopers",
+    "name_raw": "Fleet Security Troopers",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-gladius-parts",
+    "name": "Gladius Parts",
+    "name_raw": "Gladius Parts",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-goomghast",
+    "name": "Goomghast",
+    "name_raw": "Goomghast",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-indigo-blade-wizard",
+    "name": "Indigo Blade Wizard",
+    "name_raw": "Indigo Blade Wizard",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-oathkeeper-guards",
+    "name": "Oathkeeper Guards",
+    "name_raw": "Oathkeeper Guards",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-oathkeeper-leader",
+    "name": "Oathkeeper Leader",
+    "name_raw": "Oathkeeper Leader",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-shadow-ninja",
+    "name": "Shadow Ninja",
+    "name_raw": "Shadow Ninja",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-test-pilots",
+    "name": "Test Pilots",
+    "name_raw": "Test Pilots",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-the-director",
+    "name": "The Director",
+    "name_raw": "The Director",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-timeline-1",
+    "name": "Timeline 1",
+    "name_raw": "Timeline 1",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-vanguard-forge",
+    "name": "Vanguard Forge",
+    "name_raw": "Vanguard Forge",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-04-vengeance-fighter",
+    "name": "Vengeance Fighter",
+    "name_raw": "Vengeance Fighter",
+    "release_id": "discord-2025-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-arsenal-firetean-delta",
+    "name": "Arsenal Firetean Delta",
+    "name_raw": "Arsenal Firetean Delta",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-arsenal-firetean-delta-parts",
+    "name": "Arsenal Firetean Delta Parts",
+    "name_raw": "Arsenal Firetean Delta Parts",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-arsenal-vanguard-forte",
+    "name": "Arsenal Vanguard Forte",
+    "name_raw": "Arsenal Vanguard Forte",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-authority-urban-sniper",
+    "name": "Authority Urban Sniper",
+    "name_raw": "Authority Urban Sniper",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-crashed-utility-wing",
+    "name": "Crashed Utility Wing",
+    "name_raw": "Crashed Utility Wing",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-grunge-infantry-perpetual-bundle",
+    "name": "Grunge Infantry Perpetual Bundle",
+    "name_raw": "Grunge Infantry Perpetual Bundle",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-interdiction-troopers",
+    "name": "Interdiction Troopers",
+    "name_raw": "Interdiction Troopers",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-interdiction-troopers-parts",
+    "name": "Interdiction Troopers Parts",
+    "name_raw": "Interdiction Troopers Parts",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-last-chance-may",
+    "name": "Last Chance May",
+    "name_raw": "Last Chance May",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-may-4th",
+    "name": "May 4Th",
+    "name_raw": "May 4Th",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-objective-token",
+    "name": "Objective Token",
+    "name_raw": "Objective Token",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-rubicon-partisans",
+    "name": "Rubicon Partisans",
+    "name_raw": "Rubicon Partisans",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-security-drones",
+    "name": "Security Drones",
+    "name_raw": "Security Drones",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-streets-of-ciratha",
+    "name": "Streets Of Ciratha",
+    "name_raw": "Streets Of Ciratha",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-the-protest",
+    "name": "The Protest",
+    "name_raw": "The Protest",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-the-protest-components",
+    "name": "The Protest Components",
+    "name_raw": "The Protest Components",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-05-viper-generic-troopers",
+    "name": "Viper Generic Troopers",
+    "name_raw": "Viper Generic Troopers",
+    "release_id": "discord-2025-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-06-american-remnant",
+    "name": "American Remnant",
+    "name_raw": "American Remnant",
+    "release_id": "discord-2025-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-06-arsenal-mcv-hatchet",
+    "name": "Arsenal Mcv Hatchet",
+    "name_raw": "Arsenal Mcv Hatchet",
+    "release_id": "discord-2025-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-06-doom-company-1",
+    "name": "Doom Company 1",
+    "name_raw": "Doom Company 1",
+    "release_id": "discord-2025-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-06-insurgent-mechanic1",
+    "name": "Insurgent Mechanic1",
+    "name_raw": "Insurgent Mechanic1",
+    "release_id": "discord-2025-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-06-skullforge-set",
+    "name": "Skullforge Set",
+    "name_raw": "Skullforge Set",
+    "release_id": "discord-2025-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-06-tacitcal-officers",
+    "name": "Tacitcal Officers",
+    "name_raw": "Tacitcal Officers",
+    "release_id": "discord-2025-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-06-the-drudge",
+    "name": "The Drudge",
+    "name_raw": "The Drudge",
+    "release_id": "discord-2025-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-06-void-mantle",
+    "name": "Void Mantle",
+    "name_raw": "Void Mantle",
+    "release_id": "discord-2025-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-06-zenon-ground-infantry",
+    "name": "Zenon Ground Infantry",
+    "name_raw": "Zenon Ground Infantry",
+    "release_id": "discord-2025-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-07-beachtroopers",
+    "name": "Beachtroopers",
+    "name_raw": "Beachtroopers",
+    "release_id": "discord-2025-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-07-delivery-docents",
+    "name": "Delivery Docents",
+    "name_raw": "Delivery Docents",
+    "release_id": "discord-2025-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-07-doomchamps-vol-2",
+    "name": "Doomchamps Vol 2",
+    "name_raw": "Doomchamps Vol 2",
+    "release_id": "discord-2025-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-07-img-0176",
+    "name": "Img 0176",
+    "name_raw": "Img 0176",
+    "release_id": "discord-2025-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-07-mc3-sable",
+    "name": "Mc3 Sable",
+    "name_raw": "Mc3 Sable",
+    "release_id": "discord-2025-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-07-outbounder-patrol-walker",
+    "name": "Outbounder Patrol Walker",
+    "name_raw": "Outbounder Patrol Walker",
+    "release_id": "discord-2025-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-07-parcel-partisans",
+    "name": "Parcel Partisans",
+    "name_raw": "Parcel Partisans",
+    "release_id": "discord-2025-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-07-r331-salamander",
+    "name": "R331 Salamander",
+    "name_raw": "R331 Salamander",
+    "release_id": "discord-2025-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-07-rubicon-american-remnant",
+    "name": "Rubicon American Remnant",
+    "name_raw": "Rubicon American Remnant",
+    "release_id": "discord-2025-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-07-scarab-troopers",
+    "name": "Scarab Troopers",
+    "name_raw": "Scarab Troopers",
+    "release_id": "discord-2025-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-07-stranded-scatter",
+    "name": "Stranded Scatter",
+    "name_raw": "Stranded Scatter",
+    "release_id": "discord-2025-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-07-the-deathless",
+    "name": "The Deathless",
+    "name_raw": "The Deathless",
+    "release_id": "discord-2025-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-07-the-porter",
+    "name": "The Porter",
+    "name_raw": "The Porter",
+    "release_id": "discord-2025-07",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-agent-tryck",
+    "name": "Agent Tryck",
+    "name_raw": "Agent Tryck",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-firmament-operators",
+    "name": "Firmament Operators",
+    "name_raw": "Firmament Operators",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-firmament-operators-parts",
+    "name": "Firmament Operators Parts",
+    "name_raw": "Firmament Operators Parts",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-hiss-car",
+    "name": "Hiss Car",
+    "name_raw": "Hiss Car",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-jack",
+    "name": "Jack",
+    "name_raw": "Jack",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-jade-inquisitor",
+    "name": "Jade Inquisitor",
+    "name_raw": "Jade Inquisitor",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-mcv-saber",
+    "name": "Mcv Saber",
+    "name_raw": "Mcv Saber",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-phase-3-troopers",
+    "name": "Phase 3 Troopers",
+    "name_raw": "Phase 3 Troopers",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-sfs-recovered",
+    "name": "Sfs Recovered",
+    "name_raw": "Sfs Recovered",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-siberian-security-force",
+    "name": "Siberian Security Force",
+    "name_raw": "Siberian Security Force",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-the-angst",
+    "name": "The Angst",
+    "name_raw": "The Angst",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-the-grief",
+    "name": "The Grief",
+    "name_raw": "The Grief",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-the-hurt",
+    "name": "The Hurt",
+    "name_raw": "The Hurt",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-the-mentor",
+    "name": "The Mentor",
+    "name_raw": "The Mentor",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-the-rage",
+    "name": "The Rage",
+    "name_raw": "The Rage",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-the-waiting",
+    "name": "The Waiting",
+    "name_raw": "The Waiting",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-vanguard-wing",
+    "name": "Vanguard Wing",
+    "name_raw": "Vanguard Wing",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-viper-team",
+    "name": "Viper Team",
+    "name_raw": "Viper Team",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-08-wunkerkind-security",
+    "name": "Wunkerkind Security",
+    "name_raw": "Wunkerkind Security",
+    "release_id": "discord-2025-08",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-09-cloudstrider",
+    "name": "Cloudstrider",
+    "name_raw": "Cloudstrider",
+    "release_id": "discord-2025-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-09-hullbreach-operators",
+    "name": "Hullbreach Operators",
+    "name_raw": "Hullbreach Operators",
+    "release_id": "discord-2025-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-09-lost-hybrids",
+    "name": "Lost Hybrids",
+    "name_raw": "Lost Hybrids",
+    "release_id": "discord-2025-09",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-breach-troopers",
+    "name": "Breach Troopers",
+    "name_raw": "Breach Troopers",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-corpo-field-security",
+    "name": "Corpo Field Security",
+    "name_raw": "Corpo Field Security",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-double-agent",
+    "name": "Double Agent",
+    "name_raw": "Double Agent",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-fireteam-epsilon",
+    "name": "Fireteam Epsilon",
+    "name_raw": "Fireteam Epsilon",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-loyalist-troopers",
+    "name": "Loyalist Troopers",
+    "name_raw": "Loyalist Troopers",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-lynx-unit",
+    "name": "Lynx Unit",
+    "name_raw": "Lynx Unit",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-ronin-ic",
+    "name": "Ronin Ic",
+    "name_raw": "Ronin Ic",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-smokka-and-jast",
+    "name": "Smokka And Jast",
+    "name_raw": "Smokka And Jast",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-stalkers",
+    "name": "Stalkers",
+    "name_raw": "Stalkers",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-starhawk",
+    "name": "Starhawk",
+    "name_raw": "Starhawk",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-starhawk-pilots",
+    "name": "Starhawk Pilots",
+    "name_raw": "Starhawk Pilots",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-stealth-python",
+    "name": "Stealth Python",
+    "name_raw": "Stealth Python",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-zero-squad",
+    "name": "Zero Squad",
+    "name_raw": "Zero Squad",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-anomaly-staph-of-saturn",
+    "name": "Anomaly Staph Of Saturn",
+    "name_raw": "Anomaly Staph Of Saturn",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-armaments-vol-2",
+    "name": "Armaments Vol 2",
+    "name_raw": "Armaments Vol 2",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-arsenal-mech-bay",
+    "name": "Arsenal Mech Bay",
+    "name_raw": "Arsenal Mech Bay",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-black-friday-2025-horizontal",
+    "name": "Black Friday 2025 Horizontal",
+    "name_raw": "Black Friday 2025 Horizontal",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-blackfriday-2025",
+    "name": "Blackfriday 2025",
+    "name_raw": "Blackfriday 2025",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-commander-vulkan",
+    "name": "Commander Vulkan",
+    "name_raw": "Commander Vulkan",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-ct-black-onyx",
+    "name": "Ct Black Onyx",
+    "name_raw": "Ct Black Onyx",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-mcv-katana",
+    "name": "Mcv Katana",
+    "name_raw": "Mcv Katana",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-mcv-katana-layout",
+    "name": "Mcv Katana Layout",
+    "name_raw": "Mcv Katana Layout",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-outlaw-archers",
+    "name": "Outlaw Archers",
+    "name_raw": "Outlaw Archers",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-outlaw-brutes",
+    "name": "Outlaw Brutes",
+    "name_raw": "Outlaw Brutes",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-outlaw-knife-dancers",
+    "name": "Outlaw Knife Dancers",
+    "name_raw": "Outlaw Knife Dancers",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-outlaw-leaders",
+    "name": "Outlaw Leaders",
+    "name_raw": "Outlaw Leaders",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-outlaw-spearmen",
+    "name": "Outlaw Spearmen",
+    "name_raw": "Outlaw Spearmen",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-outlaw-thugs",
+    "name": "Outlaw Thugs",
+    "name_raw": "Outlaw Thugs",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-patrol-walker",
+    "name": "Patrol Walker",
+    "name_raw": "Patrol Walker",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-red-bear-walker",
+    "name": "Red Bear Walker",
+    "name_raw": "Red Bear Walker",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-red-mirage",
+    "name": "Red Mirage",
+    "name_raw": "Red Mirage",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-star-treader",
+    "name": "Star Treader",
+    "name_raw": "Star Treader",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-starcruiser-interior",
+    "name": "Starcruiser Interior",
+    "name_raw": "Starcruiser Interior",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-the-chosen-and-gang",
+    "name": "The Chosen And Gang",
+    "name_raw": "The Chosen And Gang",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-the-onryo-ronin",
+    "name": "The Onryo Ronin",
+    "name_raw": "The Onryo Ronin",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-11-vanguard-methuselah",
+    "name": "Vanguard Methuselah",
+    "name_raw": "Vanguard Methuselah",
+    "release_id": "discord-2025-11",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-2025-in-review",
+    "name": "2025 In Review",
+    "name_raw": "2025 In Review",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-dust-scavs",
+    "name": "Dust Scavs",
+    "name_raw": "Dust Scavs",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-milano-brigade",
+    "name": "Milano Brigade",
+    "name_raw": "Milano Brigade",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-patrol-bronco",
+    "name": "Patrol Bronco",
+    "name_raw": "Patrol Bronco",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-skullmas-1",
+    "name": "Skullmas 1",
+    "name_raw": "Skullmas 1",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-skullmas-10",
+    "name": "Skullmas 10",
+    "name_raw": "Skullmas 10",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-skullmas-11",
+    "name": "Skullmas 11",
+    "name_raw": "Skullmas 11",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-skullmas-12",
+    "name": "Skullmas 12",
+    "name_raw": "Skullmas 12",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-skullmas-2",
+    "name": "Skullmas 2",
+    "name_raw": "Skullmas 2",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-skullmas-3",
+    "name": "Skullmas 3",
+    "name_raw": "Skullmas 3",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-skullmas-4",
+    "name": "Skullmas 4",
+    "name_raw": "Skullmas 4",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-skullmas-5",
+    "name": "Skullmas 5",
+    "name_raw": "Skullmas 5",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-skullmas-6",
+    "name": "Skullmas 6",
+    "name_raw": "Skullmas 6",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-skullmas-7",
+    "name": "Skullmas 7",
+    "name_raw": "Skullmas 7",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-skullmas-8",
+    "name": "Skullmas 8",
+    "name_raw": "Skullmas 8",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-skullmas-9",
+    "name": "Skullmas 9",
+    "name_raw": "Skullmas 9",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-tango-guardians",
+    "name": "Tango Guardians",
+    "name_raw": "Tango Guardians",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-12-the-scofflaw",
+    "name": "The Scofflaw",
+    "name_raw": "The Scofflaw",
+    "release_id": "discord-2025-12",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-arachno-space-bugs",
+    "name": "Arachno Space Bugs",
+    "name_raw": "Arachno Space Bugs",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-arc-raider-5",
+    "name": "Arc Raider 5",
+    "name_raw": "Arc Raider 5",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-botz-1",
+    "name": "Botz 1",
+    "name_raw": "Botz 1",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-botz-ball",
+    "name": "Botz Ball",
+    "name_raw": "Botz Ball",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-botz-jumper",
+    "name": "Botz Jumper",
+    "name_raw": "Botz Jumper",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-botz-the-blockade",
+    "name": "Botz The Blockade",
+    "name_raw": "Botz The Blockade",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-commander-rechs",
+    "name": "Commander Rechs",
+    "name_raw": "Commander Rechs",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-doom-company-vol-3",
+    "name": "Doom Company Vol 3",
+    "name_raw": "Doom Company Vol 3",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-february",
+    "name": "February",
+    "name_raw": "February",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-ge-wanto-gang",
+    "name": "Ge Wanto Gang",
+    "name_raw": "Ge Wanto Gang",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-master-shek-tra",
+    "name": "Master Shek Tra",
+    "name_raw": "Master Shek Tra",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-one-eye-1",
+    "name": "One Eye 1",
+    "name_raw": "One Eye 1",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-one-eye-2",
+    "name": "One Eye 2",
+    "name_raw": "One Eye 2",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-01-undarian-troopers",
+    "name": "Undarian Troopers",
+    "name_raw": "Undarian Troopers",
+    "release_id": "discord-2026-01",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-aardvark-hardsuit",
+    "name": "Aardvark Hardsuit",
+    "name_raw": "Aardvark Hardsuit",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-aardvark-hardsuit-parts",
+    "name": "Aardvark Hardsuit Parts",
+    "name_raw": "Aardvark Hardsuit Parts",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-aardvark-new-parts-fullquality",
+    "name": "Aardvark New Parts Fullquality",
+    "name_raw": "Aardvark New Parts Fullquality",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-amor-armor",
+    "name": "Amor Armor",
+    "name_raw": "Amor Armor",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-arsenal-love-on-the-battlfield",
+    "name": "Arsenal Love On The Battlfield",
+    "name_raw": "Arsenal Love On The Battlfield",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-arsenal-mcv-stiletto",
+    "name": "Arsenal Mcv Stiletto",
+    "name_raw": "Arsenal Mcv Stiletto",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-d1-battle-drones",
+    "name": "D1 Battle Drones",
+    "name_raw": "D1 Battle Drones",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-disguised-hunter-1",
+    "name": "Disguised Hunter 1",
+    "name_raw": "Disguised Hunter 1",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-disguised-hunter-2",
+    "name": "Disguised Hunter 2",
+    "name_raw": "Disguised Hunter 2",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-forte-space-wizard",
+    "name": "Forte Space Wizard",
+    "name_raw": "Forte Space Wizard",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-ge-authority-elite-force",
+    "name": "Ge Authority Elite Force",
+    "name_raw": "Ge Authority Elite Force",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-ge-authority-infantry-troopers",
+    "name": "Ge Authority Infantry Troopers",
+    "name_raw": "Ge Authority Infantry Troopers",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-hunter-specialist",
+    "name": "Hunter Specialist",
+    "name_raw": "Hunter Specialist",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-imperial-guard",
+    "name": "Imperial Guard",
+    "name_raw": "Imperial Guard",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-love-and-mechs",
+    "name": "Love And Mechs",
+    "name_raw": "Love And Mechs",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-love-on-the-battlefield",
+    "name": "Love On The Battlefield",
+    "name_raw": "Love On The Battlefield",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-love-on-the-battlefield-electi",
+    "name": "Love On The Battlefield Electi",
+    "name_raw": "Love On The Battlefield Electi",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-love-over-everything",
+    "name": "Love Over Everything",
+    "name_raw": "Love Over Everything",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-march",
+    "name": "March",
+    "name_raw": "March",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-oasis-imperium-set",
+    "name": "Oasis Imperium Set",
+    "name_raw": "Oasis Imperium Set",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-qpid-freelancers",
+    "name": "Qpid Freelancers",
+    "name_raw": "Qpid Freelancers",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-raider-troubadors",
+    "name": "Raider Troubadors",
+    "name_raw": "Raider Troubadors",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-raider-voltaire-mercs",
+    "name": "Raider Voltaire Mercs",
+    "name_raw": "Raider Voltaire Mercs",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-raider-wasp-bot",
+    "name": "Raider Wasp Bot",
+    "name_raw": "Raider Wasp Bot",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-republic-combat-engineers",
+    "name": "Republic Combat Engineers",
+    "name_raw": "Republic Combat Engineers",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-reverent-sisters",
+    "name": "Reverent Sisters",
+    "name_raw": "Reverent Sisters",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-the-emperor",
+    "name": "The Emperor",
+    "name_raw": "The Emperor",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-the-princess",
+    "name": "The Princess",
+    "name_raw": "The Princess",
+    "release_id": "discord-2026-02",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-april",
+    "name": "April",
+    "name_raw": "April",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-frost-troopers",
+    "name": "Frost Troopers",
+    "name_raw": "Frost Troopers",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-mcv-kukri",
+    "name": "Mcv Kukri",
+    "name_raw": "Mcv Kukri",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-medic",
+    "name": "Medic",
+    "name_raw": "Medic",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-null-frames",
+    "name": "Null Frames",
+    "name_raw": "Null Frames",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-olympus-layout",
+    "name": "Olympus Layout",
+    "name_raw": "Olympus Layout",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-olympus-stencils",
+    "name": "Olympus Stencils",
+    "name_raw": "Olympus Stencils",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-olympus-terrain",
+    "name": "Olympus Terrain",
+    "name_raw": "Olympus Terrain",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-rascal",
+    "name": "Rascal",
+    "name_raw": "Rascal",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-rogue",
+    "name": "Rogue",
+    "name_raw": "Rogue",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-ronin-scions-layout",
+    "name": "Ronin Scions Layout",
+    "name_raw": "Ronin Scions Layout",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-ronin-scions-of-the-black-wolf",
+    "name": "Ronin Scions Of The Black Wolf",
+    "name_raw": "Ronin Scions Of The Black Wolf",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-samsara-bulwark",
+    "name": "Samsara Bulwark",
+    "name_raw": "Samsara Bulwark",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-samsara-hunter",
+    "name": "Samsara Hunter",
+    "name_raw": "Samsara Hunter",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-samsara-mercenaries",
+    "name": "Samsara Mercenaries",
+    "name_raw": "Samsara Mercenaries",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-scout",
+    "name": "Scout",
+    "name_raw": "Scout",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-synthoid-terminators",
+    "name": "Synthoid Terminators",
+    "name_raw": "Synthoid Terminators",
+    "release_id": "discord-2026-03",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-april-fools",
+    "name": "April Fools",
+    "name_raw": "April Fools",
+    "release_id": "discord-2026-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-arsenal-fireteam-zeta",
+    "name": "Arsenal Fireteam Zeta",
+    "name_raw": "Arsenal Fireteam Zeta",
+    "release_id": "discord-2026-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-castle-klad-terrain-kit",
+    "name": "Castle Klad Terrain Kit",
+    "name_raw": "Castle Klad Terrain Kit",
+    "release_id": "discord-2026-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-dec5b36f60d59407bdcb3d827e8b52bc",
+    "name": "Dec5B36F60D59407Bdcb3D827E8B52Bc",
+    "name_raw": "Dec5B36F60D59407Bdcb3D827E8B52Bc",
+    "release_id": "discord-2026-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-firmament-corporate-reclaimers",
+    "name": "Firmament Corporate Reclaimers",
+    "name_raw": "Firmament Corporate Reclaimers",
+    "release_id": "discord-2026-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-firmament-layout",
+    "name": "Firmament Layout",
+    "name_raw": "Firmament Layout",
+    "release_id": "discord-2026-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-hades-patrol-layout",
+    "name": "Hades Patrol Layout",
+    "name_raw": "Hades Patrol Layout",
+    "release_id": "discord-2026-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-hades-patrol-shock-troopers",
+    "name": "Hades Patrol Shock Troopers",
+    "name_raw": "Hades Patrol Shock Troopers",
+    "release_id": "discord-2026-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-samsara-stalker",
+    "name": "Samsara Stalker",
+    "name_raw": "Samsara Stalker",
+    "release_id": "discord-2026-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-stalk-and-survive-display-model",
+    "name": "Stalk And Survive Display Model",
+    "name_raw": "Stalk And Survive Display Model",
+    "release_id": "discord-2026-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-wardens-vol-1",
+    "name": "Wardens Vol 1",
+    "name_raw": "Wardens Vol 1",
+    "release_id": "discord-2026-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-04-zeta-pilots",
+    "name": "Zeta Pilots",
+    "name_raw": "Zeta Pilots",
+    "release_id": "discord-2026-04",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-dera-ezran-the-lost-apprentice",
+    "name": "Dera Ezran The Lost Apprentice",
+    "name_raw": "Dera Ezran The Lost Apprentice",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-heck-divers-trench-commandant",
+    "name": "Heck Divers Trench Commandant",
+    "name_raw": "Heck Divers Trench Commandant",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-heckdivers-trench-troopers",
+    "name": "Heckdivers Trench Troopers",
+    "name_raw": "Heckdivers Trench Troopers",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-may-the-fourth-brothers",
+    "name": "May The Fourth Brothers",
+    "name_raw": "May The Fourth Brothers",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-rathound-flaker-alt",
+    "name": "Rathound Flaker Alt",
+    "name_raw": "Rathound Flaker Alt",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-rathound-flaker-scav",
+    "name": "Rathound Flaker Scav",
+    "name_raw": "Rathound Flaker Scav",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-rathound-tac-aardwolf",
+    "name": "Rathound Tac Aardwolf",
+    "name_raw": "Rathound Tac Aardwolf",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-rathound-tac-aardwolf-heads",
+    "name": "Rathound Tac Aardwolf Heads",
+    "name_raw": "Rathound Tac Aardwolf Heads",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-remnant-frost-recon-trooper",
+    "name": "Remnant Frost Recon Trooper",
+    "name_raw": "Remnant Frost Recon Trooper",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-samsara-marine",
+    "name": "Samsara Marine",
+    "name_raw": "Samsara Marine",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-samsara-wardens-vol-2",
+    "name": "Samsara Wardens Vol 2",
+    "name_raw": "Samsara Wardens Vol 2",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-sauro-sio-daki-the-eremite-master",
+    "name": "Sauro Sio Daki The Eremite Master",
+    "name_raw": "Sauro Sio Daki The Eremite Master",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-skirmish-walker-remnant",
+    "name": "Skirmish Walker Remnant",
+    "name_raw": "Skirmish Walker Remnant",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-stellar-saviors",
+    "name": "Stellar Saviors",
+    "name_raw": "Stellar Saviors",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-the-mechanic",
+    "name": "The Mechanic",
+    "name_raw": "The Mechanic",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-05-the-xenobiologist",
+    "name": "The Xenobiologist",
+    "name_raw": "The Xenobiologist",
+    "release_id": "discord-2026-05",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-armaments-vol-3",
+    "name": "Armaments Vol 3",
+    "name_raw": "Armaments Vol 3",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-captain-vulpes",
+    "name": "Captain Vulpes",
+    "name_raw": "Captain Vulpes",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-captain-zed",
+    "name": "Captain Zed",
+    "name_raw": "Captain Zed",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-chapter-58-june",
+    "name": "Chapter 58 June",
+    "name_raw": "Chapter 58 June",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-engineer-slicky",
+    "name": "Engineer Slicky",
+    "name_raw": "Engineer Slicky",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-fox-squadron",
+    "name": "Fox Squadron",
+    "name_raw": "Fox Squadron",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-heck-divers-trench-guardians",
+    "name": "Heck Divers Trench Guardians",
+    "name_raw": "Heck Divers Trench Guardians",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-july",
+    "name": "July",
+    "name_raw": "July",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-legendary-khopesh-hyksos",
+    "name": "Legendary Khopesh Hyksos",
+    "name_raw": "Legendary Khopesh Hyksos",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-leviathan-albinox-serpent",
+    "name": "Leviathan Albinox Serpent",
+    "name_raw": "Leviathan Albinox Serpent",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-lieutenant-lagos",
+    "name": "Lieutenant Lagos",
+    "name_raw": "Lieutenant Lagos",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-mcv-khopesh",
+    "name": "Mcv Khopesh",
+    "name_raw": "Mcv Khopesh",
+    "release_id": "discord-2026-06",
+    "store_url": "https://skullforgestudios.gumroad.com/l/mdwpco?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-mechanical-mercenaries-vol-2",
+    "name": "Mechanical Mercenaries Vol 2",
+    "name_raw": "Mechanical Mercenaries Vol 2",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-meechanical-mercenaries-vol-1",
+    "name": "Meechanical Mercenaries Vol 1",
+    "name_raw": "Meechanical Mercenaries Vol 1",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-rotan-the-pit-fighter",
+    "name": "Rotan The Pit Fighter",
+    "name_raw": "Rotan The Pit Fighter",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-samsara-end-cycle-statue",
+    "name": "Samsara End Cycle Statue",
+    "name_raw": "Samsara End Cycle Statue",
+    "release_id": "discord-2026-06",
+    "store_url": "https://skullforgestudios.gumroad.com/l/elshrv?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-samsara-protoype",
+    "name": "Samsara Protoype",
+    "name_raw": "Samsara Protoype",
+    "release_id": "discord-2026-06",
+    "store_url": "https://skullforgestudios.gumroad.com/l/adncxw?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-samsara-sentry",
+    "name": "Samsara Sentry",
+    "name_raw": "Samsara Sentry",
+    "release_id": "discord-2026-06",
+    "store_url": "https://skullforgestudios.gumroad.com/l/liztod?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-starwing-fighter",
+    "name": "Starwing Fighter",
+    "name_raw": "Starwing Fighter",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-starwing-fighter-scale",
+    "name": "Starwing Fighter Scale",
+    "name_raw": "Starwing Fighter Scale",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-06-wingman-osprey",
+    "name": "Wingman Osprey",
+    "name_raw": "Wingman Osprey",
+    "release_id": "discord-2026-06",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
     "id": "discord-2026-07-arena-beasts-wave-1",
     "name": "Arena Beasts Wave 1",
     "name_raw": "Arena Beasts Wave 1",

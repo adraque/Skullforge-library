@@ -1,77 +1,5 @@
 [
   {
-    "id": "unknown-whats-up-squadron-we-got-the-last-release-ready-for-release-the-mcv-khopesh-for-our-game-arsenal-ups-the-ante-wi",
-    "release_month": "unknown",
-    "title": "Whats up Squadron! We got the last release ready for release. The MCV Khopesh for our game Arsenal ups the ante with two torso options and well, an arsenal of weapons (that's sorta the point of the ga",
-    "post_url": "",
-    "post_date": "",
-    "source": "patreon-local-scrape"
-  },
-  {
-    "id": "unknown-what-s-up-squadron-usually-during-the-first-week-of-the-month-i-m-sculpting-the-first-few-minis-from-the-preview",
-    "release_month": "unknown",
-    "title": "What's up squadron! Usually during the first week of the month I'm sculpting the first few minis from the preview board, however this month, during this 'critical' time I'll be out of town with the fa",
-    "post_url": "",
-    "post_date": "",
-    "source": "patreon-local-scrape"
-  },
-  {
-    "id": "unknown-hey-squad-here-s-our-preview-board-for-july-let-s-dive-in-and-chat-about-what-we-re-working-on",
-    "release_month": "unknown",
-    "title": "Hey squad! here's our preview board for July, let's dive in and chat about what we're working on!",
-    "post_url": "",
-    "post_date": "",
-    "source": "patreon-local-scrape"
-  },
-  {
-    "id": "unknown-hey-folks-when-new-minis-get-released-a-little-too-close-to-the-end-of-the-month-i-like-to-set-up-a-little-grace",
-    "release_month": "unknown",
-    "title": "Hey folks, when new minis get released a little too close to the end of the month I like to set up a little grace period, so for the first 4 days of June, if you are a new patron hoping to get the bun",
-    "post_url": "",
-    "post_date": "",
-    "source": "patreon-local-scrape"
-  },
-  {
-    "id": "unknown-hey-folks-thank-you-for-you-grace-while-i-was-out-for-the-first-part-of-the-month-sometimes-the-thing-you-need-m",
-    "release_month": "unknown",
-    "title": "Hey folks! Thank you for you grace while I was out for the first part of the month! Sometimes the thing you need most is a little break but now we're back into the swing of things and pushing resin li",
-    "post_url": "",
-    "post_date": "",
-    "source": "patreon-local-scrape"
-  },
-  {
-    "id": "unknown-hey-squad-use-this-link-to-download-content-released-during-august",
-    "release_month": "unknown",
-    "title": "Hey Squad! Use this link to download content released during August",
-    "post_url": "",
-    "post_date": "",
-    "source": "patreon-local-scrape"
-  },
-  {
-    "id": "unknown-folks-it-feels-like-we-re-onto-something-fun-for-june-we-got-a-load-of-sw-related-sculpts-we-ve-got-a-bevy-of-ne",
-    "release_month": "unknown",
-    "title": "Folks, it feels like we're onto something fun for june, we got a load of SW related sculpts, we've got a bevy of new releases across multiple worlds, and the response from yesterday's RatHounds releas",
-    "post_url": "",
-    "post_date": "",
-    "source": "patreon-local-scrape"
-  },
-  {
-    "id": "unknown-alrighty-folks-we-got-the-last-mins-for-this-month-up-on-the-drive-and-ready-to-print",
-    "release_month": "unknown",
-    "title": "Alrighty folks! we got the last mins for this month up on the drive and ready to print!",
-    "post_url": "",
-    "post_date": "",
-    "source": "patreon-local-scrape"
-  },
-  {
-    "id": "unknown-alrighty-folks-first-release-is-here-and-thankfully-i-was-able-to-get-everything-finished-before-i-head-out-of-t",
-    "release_month": "unknown",
-    "title": "Alrighty folks! First release is here, and thankfully I was able to get everything finished before I head out of town (I'll be back on Wednesday, luckily this is my last venture away until the end of ",
-    "post_url": "",
-    "post_date": "",
-    "source": "patreon-local-scrape"
-  },
-  {
     "id": "discord-2026-08",
     "release_month": "2026-08",
     "title": "August 2026",
@@ -103,6 +31,1099 @@
       "images/2026/07/human_crew_vol_3.jpg",
       "images/2026/07/zymbo_the_hunter.jpg",
       "images/2026/07/Arena_Beasts_wave_1.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2026-06",
+    "release_month": "2026-06",
+    "title": "June 2026",
+    "cover_image": "images/2026/06/chapter_58_june_preview_.jpg",
+    "images": [
+      "images/2026/06/chapter_58_june_preview_.jpg",
+      "images/2026/06/armaments_vol_3.jpg",
+      "images/2026/06/leviathan_albinox_serpent.jpg",
+      "images/2026/06/meechanical_mercenaries_vol_1.jpg",
+      "images/2026/06/Rotan_the_Pit_Fighter.jpg",
+      "images/2026/06/samsara_END_CYCLE_statue.jpg",
+      "images/2026/06/samsara_protoype.jpg",
+      "images/2026/06/Samsara_Sentry.jpg",
+      "images/2026/06/captain_vulpes.jpg",
+      "images/2026/06/heck_divers_trench_guardians.jpg",
+      "images/2026/06/image.png",
+      "images/2026/06/fox_squadron.jpg",
+      "images/2026/06/lieutenant_lagos.jpg",
+      "images/2026/06/wingman_osprey.jpg",
+      "images/2026/06/engineer_slicky.jpg",
+      "images/2026/06/starwing_fighter.jpg",
+      "images/2026/06/starwing_fighter_scale.jpg",
+      "images/2026/06/mechanical_mercenaries_vol_2.jpg",
+      "images/2026/06/captain_zed.jpg",
+      "images/2026/06/MCV_Khopesh.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2026-05",
+    "release_month": "2026-05",
+    "title": "May 2026",
+    "cover_image": "images/2026/05/may_the_fourth_brothers.jpg",
+    "images": [
+      "images/2026/05/may_the_fourth_brothers.jpg",
+      "images/2026/05/dera_ezran_the_lost_apprentice.jpg",
+      "images/2026/05/sauro_sio_daki_the_eremite_master.jpg",
+      "images/2026/05/stellar_saviors.jpg",
+      "images/2026/05/The_Mechanic.jpg",
+      "images/2026/05/The_Xenobiologist.jpg",
+      "images/2026/05/skirmish_walker_remnant.jpg",
+      "images/2026/05/heck_divers_trench_commandant.jpg",
+      "images/2026/05/heckdivers_trench_troopers.jpg",
+      "images/2026/05/remnant_frost_recon_trooper.jpg",
+      "images/2026/05/Samsara_wardens_Vol_2.jpg",
+      "images/2026/05/RatHound_Flaker_alt.jpg",
+      "images/2026/05/RatHound_Flaker_scav.jpg",
+      "images/2026/05/RatHound_TAC_Aardwolf_Heads.jpg",
+      "images/2026/05/RatHound_TAC_Aardwolf.jpg",
+      "images/2026/05/Samsara_Marine.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2026-04",
+    "release_month": "2026-04",
+    "title": "April 2026",
+    "cover_image": "images/2026/04/CASTLE_KLAD_terrain_kit.jpg",
+    "images": [
+      "images/2026/04/CASTLE_KLAD_terrain_kit.jpg",
+      "images/2026/04/Arsenal_Fireteam_Zeta.jpg",
+      "images/2026/04/samsara_stalker.jpg",
+      "images/2026/04/stalk_and_survive_display_model.jpg",
+      "images/2026/04/zeta_pilots.jpg",
+      "images/2026/04/hades_patrol_shock_troopers.jpg",
+      "images/2026/04/hades_patrol_layout.jpg",
+      "images/2026/04/wardens_vol_1.jpg",
+      "images/2026/04/firmament_layout.jpg",
+      "images/2026/04/firmament_corporate_reclaimers.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2026-03",
+    "release_month": "2026-03",
+    "title": "March 2026",
+    "cover_image": "images/2026/03/samsara_mercenaries.jpg",
+    "images": [
+      "images/2026/03/samsara_mercenaries.jpg",
+      "images/2026/03/scout.jpg",
+      "images/2026/03/medic.jpg",
+      "images/2026/03/rascal.jpg",
+      "images/2026/03/rogue.jpg",
+      "images/2026/03/samsara_bulwark.jpg",
+      "images/2026/03/samsara_hunter.jpg",
+      "images/2026/03/null_frames.jpg",
+      "images/2026/03/olympus_terrain.jpg",
+      "images/2026/03/olympus_stencils.jpg",
+      "images/2026/03/olympus_layout.jpg",
+      "images/2026/03/MCV_kukri.jpg",
+      "images/2026/03/frost_troopers.jpg",
+      "images/2026/03/ronin_scions_of_the_black_wolf.jpg",
+      "images/2026/03/synthoid_terminators.jpg",
+      "images/2026/03/ronin_scions_layout.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2026-02",
+    "release_month": "2026-02",
+    "title": "February 2026",
+    "cover_image": "images/2026/02/love_on_the_battlefield.jpg",
+    "images": [
+      "images/2026/02/love_on_the_battlefield.jpg",
+      "images/2026/02/republic_combat_engineers.jpg",
+      "images/2026/02/aardvark_hardsuit.jpg",
+      "images/2026/02/disguised_hunter_1.jpg",
+      "images/2026/02/disguised_hunter_2.jpg",
+      "images/2026/02/hunter_specialist.jpg",
+      "images/2026/02/love_on_the_battlefield_electi.jpg",
+      "images/2026/02/love_over_everything.jpg",
+      "images/2026/02/qpid_freelancers.jpg",
+      "images/2026/02/amor_armor.jpg",
+      "images/2026/02/ARSENAL_love_on_the_battlfield.jpg",
+      "images/2026/02/arsenal_MCV_stiletto.jpg",
+      "images/2026/02/love_and_mechs.jpg",
+      "images/2026/02/d1_battle_drones.jpg",
+      "images/2026/02/aardvark_hardsuit_parts.jpg",
+      "images/2026/02/GE_authority_elite_force.jpg",
+      "images/2026/02/GE_authority_infantry_troopers.jpg",
+      "images/2026/02/Oasis_Imperium_set.jpg",
+      "images/2026/02/reverent_sisters.jpg",
+      "images/2026/02/the_emperor.jpg",
+      "images/2026/02/the_princess.jpg",
+      "images/2026/02/imperial_guard.jpg",
+      "images/2026/02/raider_wasp_bot.jpg",
+      "images/2026/02/raider_troubadors.jpg",
+      "images/2026/02/raider_voltaire_mercs.jpg",
+      "images/2026/02/forte_space_wizard.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2026-01",
+    "release_month": "2026-01",
+    "title": "January 2026",
+    "cover_image": "images/2026/01/GE_wanto_gang.jpg",
+    "images": [
+      "images/2026/01/GE_wanto_gang.jpg",
+      "images/2026/01/undarian_troopers.jpg",
+      "images/2026/01/commander_rechs.jpg",
+      "images/2026/01/master_shek_tra.jpg",
+      "images/2026/01/doom_company_vol_3.jpg",
+      "images/2026/01/one_eye_2.jpg",
+      "images/2026/01/arachno_space_bugs.jpg",
+      "images/2026/01/one_eye_1.jpg",
+      "images/2026/01/botz_1.jpg",
+      "images/2026/01/botz_ball.jpg",
+      "images/2026/01/botz_jumper.jpg",
+      "images/2026/01/botz_the_blockade.jpg",
+      "images/2026/01/arc_raider_5.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2025-12",
+    "release_month": "2025-12",
+    "title": "December 2025",
+    "cover_image": "images/2025/12/the_scofflaw.jpg",
+    "images": [
+      "images/2025/12/the_scofflaw.jpg",
+      "images/2025/12/tango_guardians.jpg",
+      "images/2025/12/dust_scavs.jpg",
+      "images/2025/12/milano_brigade.jpg",
+      "images/2025/12/patrol_bronco.jpg",
+      "images/2025/12/skullmas_1.jpg",
+      "images/2025/12/skullmas_3.jpg",
+      "images/2025/12/Skullmas_2.jpg",
+      "images/2025/12/skullmas_4.jpg",
+      "images/2025/12/skullmas_6.jpg",
+      "images/2025/12/skullmas_7.jpg",
+      "images/2025/12/skullmas_8.jpg",
+      "images/2025/12/skullmas_5.jpg",
+      "images/2025/12/skullmas_11.jpg",
+      "images/2025/12/skullmas_12.jpg",
+      "images/2025/12/skullmas_9.jpg",
+      "images/2025/12/skullmas_10.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2025-11",
+    "release_month": "2025-11",
+    "title": "November 2025",
+    "cover_image": "images/2025/11/ARSENAL_mech_bay.jpg",
+    "images": [
+      "images/2025/11/ARSENAL_mech_bay.jpg",
+      "images/2025/11/star_treader.jpg",
+      "images/2025/11/starcruiser_interior.jpg",
+      "images/2025/11/armaments_vol_2.jpg",
+      "images/2025/11/commander_vulkan.jpg",
+      "images/2025/11/red_bear_walker.jpg",
+      "images/2025/11/the_onryo_ronin.jpg",
+      "images/2025/11/outlaw_archers.jpg",
+      "images/2025/11/outlaw_brutes.jpg",
+      "images/2025/11/outlaw_knife_dancers.jpg",
+      "images/2025/11/outlaw_leaders.jpg",
+      "images/2025/11/outlaw_spearmen.jpg",
+      "images/2025/11/outlaw_thugs.jpg",
+      "images/2025/11/red_mirage.jpg",
+      "images/2025/11/vanguard_methuselah.jpg",
+      "images/2025/11/MCV_katana_layout.jpg",
+      "images/2025/11/MCV_katana.jpg",
+      "images/2025/11/patrol_walker.jpg",
+      "images/2025/11/the_chosen_and_gang.jpg",
+      "images/2025/11/CT_black_onyx.jpg",
+      "images/2025/11/ANOMALY_staph_of_saturn.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2025-10",
+    "release_month": "2025-10",
+    "title": "October 2025",
+    "cover_image": "images/2025/10/ronin_IC.jpg",
+    "images": [
+      "images/2025/10/ronin_IC.jpg",
+      "images/2025/10/stealth_python.jpg",
+      "images/2025/10/lynx_unit.jpg",
+      "images/2025/10/double_agent.jpg",
+      "images/2025/10/zero_squad.jpg",
+      "images/2025/10/fireteam_epsilon.jpg",
+      "images/2025/10/loyalist_troopers.jpg",
+      "images/2025/10/starhawk.jpg",
+      "images/2025/10/breach_troopers.jpg",
+      "images/2025/10/smokka_and_jast.jpg",
+      "images/2025/10/starhawk_pilots.jpg",
+      "images/2025/10/corpo_field_security_.jpg",
+      "images/2025/10/stalkers.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2025-09",
+    "release_month": "2025-09",
+    "title": "September 2025",
+    "cover_image": "images/2025/09/lost_hybrids.jpg",
+    "images": [
+      "images/2025/09/lost_hybrids.jpg",
+      "images/2025/09/cloudstrider.jpg",
+      "images/2025/09/hullbreach_operators.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2025-08",
+    "release_month": "2025-08",
+    "title": "August 2025",
+    "cover_image": "images/2025/08/MCV_saber.jpg",
+    "images": [
+      "images/2025/08/MCV_saber.jpg",
+      "images/2025/08/phase_3_troopers.jpg",
+      "images/2025/08/agent_tryck.jpg",
+      "images/2025/08/jade_inquisitor.jpg",
+      "images/2025/08/wunkerkind_security.jpg",
+      "images/2025/08/jack.jpg",
+      "images/2025/08/siberian_security_force.jpg",
+      "images/2025/08/viper_team.jpg",
+      "images/2025/08/the_grief.jpg",
+      "images/2025/08/the_angst.jpg",
+      "images/2025/08/the_waiting.jpg",
+      "images/2025/08/the_hurt.jpg",
+      "images/2025/08/the_mentor.jpg",
+      "images/2025/08/the_rage.jpg",
+      "images/2025/08/vanguard_wing.jpg",
+      "images/2025/08/firmament_operators_parts.jpg",
+      "images/2025/08/firmament_operators.jpg",
+      "images/2025/08/hiss_car.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2025-07",
+    "release_month": "2025-07",
+    "title": "July 2025",
+    "cover_image": "images/2025/07/the_deathless.jpg",
+    "images": [
+      "images/2025/07/the_deathless.jpg",
+      "images/2025/07/r331_salamander.jpg",
+      "images/2025/07/mc3_sable.jpg",
+      "images/2025/07/outbounder_patrol_walker.jpg",
+      "images/2025/07/delivery_docents.jpg",
+      "images/2025/07/parcel_partisans.jpg",
+      "images/2025/07/scarab_troopers.jpg",
+      "images/2025/07/doomchamps_vol_2.jpg",
+      "images/2025/07/the_porter.jpg",
+      "images/2025/07/beachtroopers.jpg",
+      "images/2025/07/rubicon_american_remnant.jpg",
+      "images/2025/07/stranded_scatter.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2025-06",
+    "release_month": "2025-06",
+    "title": "June 2025",
+    "cover_image": "images/2025/06/zenon_ground_infantry.png",
+    "images": [
+      "images/2025/06/zenon_ground_infantry.png",
+      "images/2025/06/tacitcal_officers.jpg",
+      "images/2025/06/the_drudge.jpg",
+      "images/2025/06/void_mantle.jpg",
+      "images/2025/06/insurgent_mechanic1.png",
+      "images/2025/06/doom_company_1.jpg",
+      "images/2025/06/american_remnant.jpg",
+      "images/2025/06/Arsenal_MCV_hatchet.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2025-05",
+    "release_month": "2025-05",
+    "title": "May 2025",
+    "cover_image": "images/2025/05/LAST_CHANCE_may.jpg",
+    "images": [
+      "images/2025/05/LAST_CHANCE_may.jpg",
+      "images/2025/05/Security_Drones.jpg",
+      "images/2025/05/arsenal_firetean_delta_parts.jpg",
+      "images/2025/05/arsenal_firetean_delta.jpg",
+      "images/2025/05/the_protest_components.jpg",
+      "images/2025/05/the_protest.jpg",
+      "images/2025/05/authority_urban_sniper.jpg",
+      "images/2025/05/CRASHED_UTILITY_WING.jpg",
+      "images/2025/05/interdiction_troopers.jpg",
+      "images/2025/05/objective_token.jpg",
+      "images/2025/05/rubicon_partisans.jpg",
+      "images/2025/05/viper_generic_troopers.jpg",
+      "images/2025/05/Arsenal_Vanguard_Forte.jpg",
+      "images/2025/05/grunge_infantry_perpetual_bundle.jpg",
+      "images/2025/05/interdiction_troopers_parts.jpg",
+      "images/2025/05/streets_of_ciratha.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2025-04",
+    "release_month": "2025-04",
+    "title": "April 2025",
+    "cover_image": "images/2025/04/Arsenal_mcv_gladius.jpg",
+    "images": [
+      "images/2025/04/Arsenal_mcv_gladius.jpg",
+      "images/2025/04/goomghast.jpg",
+      "images/2025/04/indigo_blade_wizard.jpg",
+      "images/2025/04/shadow_ninja.jpg",
+      "images/2025/04/vanguard_forge.jpg",
+      "images/2025/04/doomghast_snipers.jpg",
+      "images/2025/04/oathkeeper_guards.jpg",
+      "images/2025/04/oathkeeper_leader.jpg",
+      "images/2025/04/the_director.jpg",
+      "images/2025/04/test_pilots.jpg",
+      "images/2025/04/vengeance_fighter.jpg",
+      "images/2025/04/gladius_parts.jpg",
+      "images/2025/04/fleet_security_troopers.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2025-03",
+    "release_month": "2025-03",
+    "title": "March 2025",
+    "cover_image": "images/2025/03/pythos_trooper.jpg",
+    "images": [
+      "images/2025/03/pythos_trooper.jpg",
+      "images/2025/03/kemujin_raiders.jpg",
+      "images/2025/03/pioneer_mulecraft.jpg",
+      "images/2025/03/python_elites.jpg",
+      "images/2025/03/bushido_wars_heroes.jpg",
+      "images/2025/03/chitiga_clan_trppers.jpg",
+      "images/2025/03/find_franky.jpg",
+      "images/2025/03/python_recon_variants.jpg",
+      "images/2025/03/viper_commander.jpg",
+      "images/2025/03/vanguard_edge.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2025-02",
+    "release_month": "2025-02",
+    "title": "February 2025",
+    "cover_image": "images/2025/02/Arsenal_Fireteam_Gamma.jpg",
+    "images": [
+      "images/2025/02/Arsenal_Fireteam_Gamma.jpg",
+      "images/2025/02/scavengers_of_the_green.jpg",
+      "images/2025/02/firmament_astros_2.jpg",
+      "images/2025/02/firmament_astros1.jpg",
+      "images/2025/02/multipart_kit.jpg",
+      "images/2025/02/gamma_multipart.jpg",
+      "images/2025/02/fighter_pilots.jpg",
+      "images/2025/02/drop_troopers.jpg",
+      "images/2025/02/fighter_pilots_2.jpg",
+      "images/2025/02/tundra_marines.jpg",
+      "images/2025/02/volunteer_force.jpg",
+      "images/2025/02/assault_transport.png"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2025-01",
+    "release_month": "2025-01",
+    "title": "January 2025",
+    "cover_image": "images/2025/01/crew_mutineer.jpg",
+    "images": [
+      "images/2025/01/crew_mutineer.jpg",
+      "images/2025/01/shadow_daimyo.jpg",
+      "images/2025/01/western_protectorate.jpg",
+      "images/2025/01/droptrooper_specialits.jpg",
+      "images/2025/01/combat_botz.jpg",
+      "images/2025/01/first_matey.jpg",
+      "images/2025/01/gallus_hardsuit.jpg",
+      "images/2025/01/Skullforge_Render_set_up_Clean.jpg",
+      "images/2025/01/cross_bones_crew.jpg",
+      "images/2025/01/full_crew.jpg",
+      "images/2025/01/armaments_vol1_layout.jpg",
+      "images/2025/01/armaments_vol1.jpg",
+      "images/2025/01/MCV_tanto_parts.jpg",
+      "images/2025/01/MCV_tanto.jpg",
+      "images/2025/01/infiltrators_1.jpg",
+      "images/2025/01/infiltrators2.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2024-12",
+    "release_month": "2024-12",
+    "title": "December 2024",
+    "cover_image": "images/2024/12/trench_crusade_IC.jpg",
+    "images": [
+      "images/2024/12/trench_crusade_IC.jpg",
+      "images/2024/12/Skullforge_Render_set_up_Clean.jpg",
+      "images/2024/12/crimson_sun_enforcers.jpg",
+      "images/2024/12/drop_trooprs.jpg",
+      "images/2024/12/frost_infantry.jpg",
+      "images/2024/12/galactic_pirates.jpg",
+      "images/2024/12/wardens_set_3.jpg",
+      "images/2024/12/basilisk.jpg",
+      "images/2024/12/gremlins.jpg",
+      "images/2024/12/hex_bundle.jpg",
+      "images/2024/12/orcs.jpg",
+      "images/2024/12/office_terrain.png",
+      "images/2024/12/the_badguys.png",
+      "images/2024/12/holiday_heist.png",
+      "images/2024/12/mr_cowboy.png",
+      "images/2024/12/jolly_bundle.png"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2024-11",
+    "release_month": "2024-11",
+    "title": "November 2024",
+    "cover_image": "images/2024/11/pal_babo.jpg",
+    "images": [
+      "images/2024/11/pal_babo.jpg",
+      "images/2024/11/forest_rebels.jpg",
+      "images/2024/11/human_crew_vol_2.jpg",
+      "images/2024/11/gambits_edge_tracer_bullet.jpg",
+      "images/2024/11/scavengers_reign.jpg",
+      "images/2024/11/insurgent_officers.jpg",
+      "images/2024/11/gambits_edge_ithaca5.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2024-10",
+    "release_month": "2024-10",
+    "title": "October 2024",
+    "cover_image": "images/2024/10/MCV_machete.jpg",
+    "images": [
+      "images/2024/10/MCV_machete.jpg",
+      "images/2024/10/clone_spec_ops_team_a.jpg",
+      "images/2024/10/clone_spec_ops_team_.jpg",
+      "images/2024/10/undead_coven.jpg",
+      "images/2024/10/rat_hound_scavs.jpg",
+      "images/2024/10/syndicate_security.jpg",
+      "images/2024/10/mercenarios.jpg",
+      "images/2024/10/level_builder.jpg",
+      "images/2024/10/harvesters.jpg",
+      "images/2024/10/deepspace_miner.jpg",
+      "images/2024/10/retro_haunts.jpg",
+      "images/2024/10/MCV_kriegsmesser.jpg",
+      "images/2024/10/CRASHED_TRANSPORT_TERRAIN.jpg",
+      "images/2024/10/fireteam_beta.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2024-09",
+    "release_month": "2024-09",
+    "title": "September 2024",
+    "cover_image": "images/2024/09/mcv_dagger.jpg",
+    "images": [
+      "images/2024/09/mcv_dagger.jpg",
+      "images/2024/09/hess_valex.jpg",
+      "images/2024/09/key_vess.jpg",
+      "images/2024/09/zarack_bash.jpg",
+      "images/2024/09/the_rooch.jpg",
+      "images/2024/09/the_outlaws.jpg",
+      "images/2024/09/mcv_dagger_parts.jpg",
+      "images/2024/09/mcv_GLAIVE.jpg",
+      "images/2024/09/MCV_glaive_layout.jpg",
+      "images/2024/09/Fireteam_Hunter_Securities.jpg",
+      "images/2024/09/Fireteam_New_Palisades.jpg",
+      "images/2024/09/freelancers.jpg",
+      "images/2024/09/veteran_pilot_exlusive.jpg",
+      "images/2024/09/tribute.jpg",
+      "images/2024/09/gambits_edge_cava_sans.jpg",
+      "images/2024/09/ampersand.jpg",
+      "images/2024/09/frontier_spacers.jpg",
+      "images/2024/09/human_crew_1.jpg",
+      "images/2024/09/corpo_sec_troopers.jpg",
+      "images/2024/09/infantimorphs.jpg",
+      "images/2024/09/the_offspring.jpg",
+      "images/2024/09/tiberius_station.jpg",
+      "images/2024/09/tiberius_station_2.jpg",
+      "images/2024/09/kudzu_minis.jpg",
+      "images/2024/09/fireteam_alpha.jpg",
+      "images/2024/09/MCV_scimitar.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2024-08",
+    "release_month": "2024-08",
+    "title": "August 2024",
+    "cover_image": "images/2024/08/CT_clear_sky.jpg",
+    "images": [
+      "images/2024/08/CT_clear_sky.jpg",
+      "images/2024/08/jawas.jpg",
+      "images/2024/08/scropion_creature.jpg",
+      "images/2024/08/stalwart_governor.jpg",
+      "images/2024/08/offworld_marines1.jpg",
+      "images/2024/08/corpo_liasons1.jpg",
+      "images/2024/08/drone_stalkers_full1.jpg",
+      "images/2024/08/drone_stalkers11.jpg",
+      "images/2024/08/offworld_colony_megabundle.jpg",
+      "images/2024/08/industrial_corridors.jpg",
+      "images/2024/08/admin_set.jpg",
+      "images/2024/08/scatter_terrain.jpg",
+      "images/2024/08/indusrtrial_set.jpg",
+      "images/2024/08/administrative_tiles.jpg",
+      "images/2024/08/garage_set.jpg",
+      "images/2024/08/banished_kith.jpg",
+      "images/2024/08/horizon_wardens.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2024-07",
+    "release_month": "2024-07",
+    "title": "July 2024",
+    "cover_image": "images/2024/07/clone_divers.jpg",
+    "images": [
+      "images/2024/07/clone_divers.jpg",
+      "images/2024/07/combat_troopers.jpg",
+      "images/2024/07/airborne_troopers_2.jpg",
+      "images/2024/07/airborne_troopers.jpg",
+      "images/2024/07/bulwark_hunter.jpg",
+      "images/2024/07/scoundrel_sunday_bundle.jpg",
+      "images/2024/07/prime_authority.jpg",
+      "images/2024/07/PROTOCOL_RENDER.jpg",
+      "images/2024/07/junqa_fenn.jpg",
+      "images/2024/07/battle_bundle_2_full.jpg",
+      "images/2024/07/FS_infantry_authority.jpg",
+      "images/2024/07/infantry_commandos.jpg",
+      "images/2024/07/FS_support_fighter_insurgent.jpg",
+      "images/2024/07/FS_scythe_transport.jpg",
+      "images/2024/07/FS_strike_fighter_insurgent.jpg",
+      "images/2024/07/FS_garrison_terrain.jpg",
+      "images/2024/07/cargo_walker.jpg",
+      "images/2024/07/airstrike_fighter_authority_FS.jpg",
+      "images/2024/07/the_jackal.jpg",
+      "images/2024/07/swift_hunter_fighter.jpg",
+      "images/2024/07/exo_thermal_troopers.jpg",
+      "images/2024/07/squad_commanders.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2024-06",
+    "release_month": "2024-06",
+    "title": "June 2024",
+    "cover_image": "images/2024/06/wasterlanders.jpg",
+    "images": [
+      "images/2024/06/wasterlanders.jpg",
+      "images/2024/06/phase_1_commandos.jpg",
+      "images/2024/06/atiquity_warriors.jpg",
+      "images/2024/06/duel_of_vengence_.png",
+      "images/2024/06/image.png",
+      "images/2024/06/sniffler.jpg",
+      "images/2024/06/wastelanders_2.jpg",
+      "images/2024/06/droid_researcher.jpg",
+      "images/2024/06/ossis_strider_elites.jpg",
+      "images/2024/06/oasis_strikers.jpg",
+      "images/2024/06/sage_cadre.jpg",
+      "images/2024/06/THE_HERETIC.jpg",
+      "images/2024/06/6mm_recon_troopers.jpg",
+      "images/2024/06/6mm_battlebox.jpg",
+      "images/2024/06/6mm_combat_walker.jpg",
+      "images/2024/06/6mm_epsilon_shuttle.jpg",
+      "images/2024/06/6mm_gunboat.jpg",
+      "images/2024/06/6mm_landing_pad.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2024-05",
+    "release_month": "2024-05",
+    "title": "May 2024",
+    "cover_image": "images/2024/05/last_chance.jpg",
+    "images": [
+      "images/2024/05/last_chance.jpg",
+      "images/2024/05/armored_troopers.jpg",
+      "images/2024/05/crate_divers.jpg",
+      "images/2024/05/pod_divers.jpg",
+      "images/2024/05/alpha_charge_fireteam.jpg",
+      "images/2024/05/shadow_strike.jpg",
+      "images/2024/05/city_guard_painted.jpg",
+      "images/2024/05/city_guard.jpg",
+      "images/2024/05/wraith_lord_1.jpg",
+      "images/2024/05/strike_mongers.jpg",
+      "images/2024/05/the_prince.jpg",
+      "images/2024/05/oasis_snipers.jpg",
+      "images/2024/05/refinforcement_forces.jpg",
+      "images/2024/05/harbinger_blade_mongers.jpg",
+      "images/2024/05/floating_mongers.jpg",
+      "images/2024/05/heck_divers_patriot_troopers.jpg",
+      "images/2024/05/heck_divers_recon_elites.jpg",
+      "images/2024/05/galactic_delegates.jpg",
+      "images/2024/05/senate_troopers.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2024-04",
+    "release_month": "2024-04",
+    "title": "April 2024",
+    "cover_image": "images/2024/04/sporse.jpg",
+    "images": [
+      "images/2024/04/sporse.jpg",
+      "images/2024/04/royal_commander.jpg",
+      "images/2024/04/killer_ruxpins.jpg",
+      "images/2024/04/heck_diver_scouts.jpg",
+      "images/2024/04/support_horse.jpg",
+      "images/2024/04/dead_divers.jpg",
+      "images/2024/04/digicom_troopers.jpg",
+      "images/2024/04/dwellers_5.jpg",
+      "images/2024/04/proto_troopers.jpg",
+      "images/2024/04/the_reformed.jpg",
+      "images/2024/04/digicom_titan.jpg",
+      "images/2024/04/digicom_tower.jpg",
+      "images/2024/04/digicom_destructor.jpg",
+      "images/2024/04/digicom_goliath.jpg",
+      "images/2024/04/dwellers_5a.jpg",
+      "images/2024/04/joao_the_hunter.jpg",
+      "images/2024/04/recon_walker.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2024-03",
+    "release_month": "2024-03",
+    "title": "March 2024",
+    "cover_image": "images/2024/03/Skullforge_Render.jpg",
+    "images": [
+      "images/2024/03/Skullforge_Render.jpg",
+      "images/2024/03/liberator_hardsuit.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2024-02",
+    "release_month": "2024-02",
+    "title": "February 2024",
+    "cover_image": "images/2024/02/image.png",
+    "images": [
+      "images/2024/02/image.png",
+      "images/2024/02/the_magistrate.jpg",
+      "images/2024/02/evil_scientists.jpg",
+      "images/2024/02/facility_officers.jpg",
+      "images/2024/02/smuggler_crew_cantina_poses.jpg",
+      "images/2024/02/smuggler_crew.jpg",
+      "images/2024/02/red_edge.jpg",
+      "images/2024/02/democratic_fighters.jpg",
+      "images/2024/02/anomura_parasite.jpg",
+      "images/2024/02/armored_transport.jpg",
+      "images/2024/02/assassin.jpg",
+      "images/2024/02/chief_intelligence_officer.jpg",
+      "images/2024/02/researchers.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2024-01",
+    "release_month": "2024-01",
+    "title": "January 2024",
+    "cover_image": "images/2024/01/image.png",
+    "images": [
+      "images/2024/01/image.png",
+      "images/2024/01/the_griz.jpg",
+      "images/2024/01/scrapper_crew.jpg",
+      "images/2024/01/bloc_marauders.jpg",
+      "images/2024/01/solidarity_fighters.jpg",
+      "images/2024/01/trench_flame_troopers.jpg",
+      "images/2024/01/authority_auxillaries.jpg",
+      "images/2024/01/insurgent_exfiltrators.jpg",
+      "images/2024/01/muck_infantry_SP.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2023-12",
+    "release_month": "2023-12",
+    "title": "December 2023",
+    "cover_image": "images/2023/12/inspiration_board.jpg",
+    "images": [
+      "images/2023/12/inspiration_board.jpg",
+      "images/2023/12/foxes.jpg",
+      "images/2023/12/basic_soldier.jpg",
+      "images/2023/12/elite_soldier.jpg",
+      "images/2023/12/NINJA.jpg",
+      "images/2023/12/hazmat_soldier.jpg",
+      "images/2023/12/SNAKE.jpg",
+      "images/2023/12/SCIENTIST.jpg",
+      "images/2023/12/silverburgh.jpg",
+      "images/2023/12/tundra_soldiers.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2023-11",
+    "release_month": "2023-11",
+    "title": "November 2023",
+    "cover_image": "images/2023/11/last_chance.jpg",
+    "images": [
+      "images/2023/11/last_chance.jpg",
+      "images/2023/11/exiled_wizard.jpg",
+      "images/2023/11/frontier_troopers.jpg",
+      "images/2023/11/goons_idle.jpg",
+      "images/2023/11/goons.jpg",
+      "images/2023/11/pilgrims.jpg",
+      "images/2023/11/young_yokel.jpg",
+      "images/2023/11/outriders.jpg",
+      "images/2023/11/soldiers.jpg",
+      "images/2023/11/resistance_1.jpg",
+      "images/2023/11/king_of_ash.jpg",
+      "images/2023/11/exiled_nomad.jpg",
+      "images/2023/11/crabs.jpg",
+      "images/2023/11/citypolice.jpg",
+      "images/2023/11/cars.jpg",
+      "images/2023/11/cloud_skipper.jpg",
+      "images/2023/11/gangers.jpg",
+      "images/2023/11/homestead.jpg",
+      "images/2023/11/outriders.jpg",
+      "images/2023/11/pilgrims_2.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2023-10",
+    "release_month": "2023-10",
+    "title": "October 2023",
+    "cover_image": "images/2023/10/image.png",
+    "images": [
+      "images/2023/10/image.png",
+      "images/2023/10/image.png",
+      "images/2023/10/image.png",
+      "images/2023/10/image.png",
+      "images/2023/10/veldt_hounds.jpg",
+      "images/2023/10/spartican_clones.jpg",
+      "images/2023/10/muthers.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2023-09",
+    "release_month": "2023-09",
+    "title": "September 2023",
+    "cover_image": "images/2023/09/preview.jpg",
+    "images": [
+      "images/2023/09/preview.jpg",
+      "images/2023/09/dark_Duchess.jpg",
+      "images/2023/09/new_alliance_fleet_troopers.jpg",
+      "images/2023/09/spitfury_fighter.jpg",
+      "images/2023/09/the_awakened_Ronin.jpg",
+      "images/2023/09/the_dark_shadow.jpg",
+      "images/2023/09/dusk_SP_october.jpg",
+      "images/2023/09/VNSA_militia_force.jpg",
+      "images/2023/09/mech.jpg",
+      "images/2023/09/prawns.jpg",
+      "images/2023/09/engineer.jpg",
+      "images/2023/09/The_Chimera.jpg",
+      "images/2023/09/rapid_response_unit.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2023-08",
+    "release_month": "2023-08",
+    "title": "August 2023",
+    "cover_image": "images/2023/08/beachtroopers.jpg",
+    "images": [
+      "images/2023/08/beachtroopers.jpg",
+      "images/2023/08/image.png",
+      "images/2023/08/executioner_dropship.jpg",
+      "images/2023/08/covert_raider_2.jpg",
+      "images/2023/08/commando_drones.jpg",
+      "images/2023/08/grey_cell_merc_team.jpg",
+      "images/2023/08/necrotroopers.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2023-07",
+    "release_month": "2023-07",
+    "title": "July 2023",
+    "cover_image": "images/2023/07/july_banner.jpg",
+    "images": [
+      "images/2023/07/july_banner.jpg",
+      "images/2023/07/desert_troopers.jpg",
+      "images/2023/07/alien_set_1.jpg",
+      "images/2023/07/big_rocks.jpg",
+      "images/2023/07/desert_remnants.jpg",
+      "images/2023/07/fit_mysto_wizard.jpg",
+      "images/2023/07/fireteam_ghost_salvo.jpg",
+      "images/2023/07/wooly_rider.jpg",
+      "images/2023/07/legendary_hunter.jpg",
+      "images/2023/07/offworld_raiders.jpg",
+      "images/2023/07/alien_set_1.jpg",
+      "images/2023/07/bureau.jpg",
+      "images/2023/07/spec_ops_team.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2023-06",
+    "release_month": "2023-06",
+    "title": "June 2023",
+    "cover_image": "images/2023/06/heavy_infantry_standard.jpg",
+    "images": [
+      "images/2023/06/heavy_infantry_standard.jpg",
+      "images/2023/06/armored_engineer_squad.jpg",
+      "images/2023/06/catepilar.jpg",
+      "images/2023/06/heavy_infantry_specialists.jpg",
+      "images/2023/06/rebel_hero.jpg",
+      "images/2023/06/SP_hero.jpg",
+      "images/2023/06/tactical_stormtroopers.jpg",
+      "images/2023/06/longfellow_wizard.jpg",
+      "images/2023/06/marines.jpg",
+      "images/2023/06/outlaw_droid.jpg",
+      "images/2023/06/whatabout_squad_bundle.jpg",
+      "images/2023/06/garrison_18.jpg",
+      "images/2023/06/image.png",
+      "images/2023/06/authority_garrison_full.jpg",
+      "images/2023/06/authority_recon_walker.jpg",
+      "images/2023/06/badland_raiders.jpg",
+      "images/2023/06/garrison_crew.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2023-05",
+    "release_month": "2023-05",
+    "title": "May 2023",
+    "cover_image": "images/2023/05/the_hero_1.jpg",
+    "images": [
+      "images/2023/05/the_hero_1.jpg",
+      "images/2023/05/warrior_wizards.jpg",
+      "images/2023/05/nu-grey_image_maker.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2023-04",
+    "release_month": "2023-04",
+    "title": "April 2023",
+    "cover_image": "images/2023/04/grey_image_maker-Recovered.jpg",
+    "images": [
+      "images/2023/04/grey_image_maker-Recovered.jpg",
+      "images/2023/04/captain_jack.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2023-03",
+    "release_month": "2023-03",
+    "title": "March 2023",
+    "cover_image": "images/2023/03/moth_militia.jpg",
+    "images": [
+      "images/2023/03/moth_militia.jpg",
+      "images/2023/03/OS_annihilator.jpg",
+      "images/2023/03/preview_1.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2023-02",
+    "release_month": "2023-02",
+    "title": "February 2023",
+    "cover_image": "images/2023/02/fireteam_red_apex.jpg",
+    "images": [
+      "images/2023/02/fireteam_red_apex.jpg",
+      "images/2023/02/fireteam_black_delta.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2023-01",
+    "release_month": "2023-01",
+    "title": "January 2023",
+    "cover_image": "images/2023/01/image.png",
+    "images": [
+      "images/2023/01/image.png",
+      "images/2023/01/image.png",
+      "images/2023/01/image.png"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2022-12",
+    "release_month": "2022-12",
+    "title": "December 2022",
+    "cover_image": "images/2022/12/banner_templeate.jpg",
+    "images": [
+      "images/2022/12/banner_templeate.jpg",
+      "images/2022/12/insurgent_cold_marines.jpg",
+      "images/2022/12/stone_and_sky.jpg",
+      "images/2022/12/ext-weather-troopers2.jpg",
+      "images/2022/12/frozen_fracas.jpg",
+      "images/2022/12/image.png",
+      "images/2022/12/A47D4C36-5DDF-4544-8EEA-4C64D6F73A1F.jpg",
+      "images/2022/12/gunship_orthos.jpg",
+      "images/2022/12/gunship.jpg",
+      "images/2022/12/elite_field_troopers.jpg",
+      "images/2022/12/shock_trooper.jpg",
+      "images/2022/12/the_analyst.jpg",
+      "images/2022/12/the_bullseye.jpg",
+      "images/2022/12/the_contruct.jpg",
+      "images/2022/12/the_heavy.jpg",
+      "images/2022/12/the_sister.jpg",
+      "images/2022/12/the_venator.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2022-11",
+    "release_month": "2022-11",
+    "title": "November 2022",
+    "cover_image": "images/2022/11/banner_small.jpg",
+    "images": [
+      "images/2022/11/banner_small.jpg",
+      "images/2022/11/image.png",
+      "images/2022/11/image.png"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2022-10",
+    "release_month": "2022-10",
+    "title": "October 2022",
+    "cover_image": "images/2022/10/authority_guards.jpg",
+    "images": [
+      "images/2022/10/authority_guards.jpg",
+      "images/2022/10/spymaster.jpg",
+      "images/2022/10/wet_works.jpg",
+      "images/2022/10/bunker.jpg",
+      "images/2022/10/authority_officer_heads.jpg",
+      "images/2022/10/bord_preview.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2022-09",
+    "release_month": "2022-09",
+    "title": "September 2022",
+    "cover_image": "images/2022/09/2.jpg",
+    "images": [
+      "images/2022/09/2.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2022-08",
+    "release_month": "2022-08",
+    "title": "August 2022",
+    "cover_image": "images/2022/08/rising_hunter.jpg",
+    "images": [
+      "images/2022/08/rising_hunter.jpg",
+      "images/2022/08/unknown.png",
+      "images/2022/08/set_1.jpg",
+      "images/2022/08/set_2.jpg",
+      "images/2022/08/set_3.jpg",
+      "images/2022/08/set_4.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2022-07",
+    "release_month": "2022-07",
+    "title": "July 2022",
+    "cover_image": "images/2022/07/unknown.png",
+    "images": [
+      "images/2022/07/unknown.png",
+      "images/2022/07/unknown.png",
+      "images/2022/07/unknown.png",
+      "images/2022/07/cloud_capital_guards.jpg",
+      "images/2022/07/galactic_civis.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2022-06",
+    "release_month": "2022-06",
+    "title": "June 2022",
+    "cover_image": "images/2022/06/darklord_v2.jpg",
+    "images": [
+      "images/2022/06/darklord_v2.jpg",
+      "images/2022/06/authority_HQ_shuttle.jpg",
+      "images/2022/06/mr_vengeance_grey.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2022-05",
+    "release_month": "2022-05",
+    "title": "May 2022",
+    "cover_image": "images/2022/05/mid_preview.jpg",
+    "images": [
+      "images/2022/05/mid_preview.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2022-04",
+    "release_month": "2022-04",
+    "title": "April 2022",
+    "cover_image": "images/2022/04/big_preview.jpg",
+    "images": [
+      "images/2022/04/big_preview.jpg",
+      "images/2022/04/3.jpg",
+      "images/2022/04/1.jpg",
+      "images/2022/04/2.jpg",
+      "images/2022/04/4.jpg",
+      "images/2022/04/6.jpg",
+      "images/2022/04/7.jpg",
+      "images/2022/04/duel_img.jpg",
+      "images/2022/04/2_graphic.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2022-03",
+    "release_month": "2022-03",
+    "title": "March 2022",
+    "cover_image": "images/2022/03/unknown.png",
+    "images": [
+      "images/2022/03/unknown.png"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2022-02",
+    "release_month": "2022-02",
+    "title": "February 2022",
+    "cover_image": "images/2022/02/dancer.jpg",
+    "images": [
+      "images/2022/02/dancer.jpg",
+      "images/2022/02/11.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2022-01",
+    "release_month": "2022-01",
+    "title": "January 2022",
+    "cover_image": "images/2022/01/unknown.png",
+    "images": [
+      "images/2022/01/unknown.png",
+      "images/2022/01/unknown.png"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2021-12",
+    "release_month": "2021-12",
+    "title": "December 2021",
+    "cover_image": "images/2021/12/spice_oligarchs.jpg",
+    "images": [
+      "images/2021/12/spice_oligarchs.jpg",
+      "images/2021/12/golden_sun_syndicate.jpg"
     ],
     "source": "discord"
   }
