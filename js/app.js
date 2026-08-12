@@ -566,3 +566,223 @@ init().catch(e=>{console.error(e);status.textContent=`Catalog failed to load: ${
   setTimeout(normalizeAll, 900);
   setTimeout(normalizeAll, 1800);
 })();
+
+/* Skullforge LARGE carousel viewport + arrow repair */
+(() => {
+  "use strict";
+
+  if (window.__SFS_LARGE_CAROUSEL_REPAIR__) return;
+  window.__SFS_LARGE_CAROUSEL_REPAIR__ = true;
+
+  const MONTH_RE =
+    /^(January|February|March|April|May|June|July|August|September|October|November|December)\s+20\d{2}$/i;
+
+  function monthHeadings(el) {
+    return [...el.querySelectorAll("h1,h2,h3,h4,strong")]
+      .filter(h => MONTH_RE.test((h.textContent || "").trim()));
+  }
+
+  function findCard(heading) {
+    let node = heading.parentElement;
+    let best = null;
+
+    while (node && node !== document.body) {
+      const months = monthHeadings(node);
+      const images = node.querySelectorAll("img");
+
+      if (months.length === 1 && images.length >= 1) {
+        best = node;
+      }
+
+      if (months.length > 1) break;
+      node = node.parentElement;
+    }
+
+    return best;
+  }
+
+  function findCarousel(card, heading) {
+    const images = [...card.querySelectorAll("img")];
+    if (!images.length) return null;
+
+    const firstImage = images[0];
+    let node = firstImage.parentElement;
+    let best = firstImage.parentElement;
+
+    while (node && node !== card) {
+      if (!node.contains(heading) && node.querySelectorAll("img").length >= 1) {
+        best = node;
+      }
+      node = node.parentElement;
+    }
+
+    return best;
+  }
+
+  function looksPrev(el) {
+    const text = (el.textContent || "").trim();
+    const aria = (el.getAttribute("aria-label") || "").toLowerCase();
+    const cls = (el.className || "").toString().toLowerCase();
+
+    return (
+      text === "‹" ||
+      text === "←" ||
+      text === "<" ||
+      /prev|previous|left/.test(aria) ||
+      /prev|previous/.test(cls)
+    );
+  }
+
+  function looksNext(el) {
+    const text = (el.textContent || "").trim();
+    const aria = (el.getAttribute("aria-label") || "").toLowerCase();
+    const cls = (el.className || "").toString().toLowerCase();
+
+    return (
+      text === "›" ||
+      text === "→" ||
+      text === ">" ||
+      /next|right/.test(aria) ||
+      /next/.test(cls)
+    );
+  }
+
+  function navButtons(carousel) {
+    const candidates = [
+      ...carousel.querySelectorAll("button"),
+      ...carousel.querySelectorAll('[role="button"]')
+    ];
+
+    return {
+      prev: candidates.find(looksPrev) || null,
+      next: candidates.find(looksNext) || null
+    };
+  }
+
+  function dotRow(card) {
+    return [...card.querySelectorAll("div,nav,ol,ul")].find(row => {
+      const children = [...row.children];
+      if (children.length < 2) return false;
+
+      const dotLike = children.filter(child => {
+        const rect = child.getBoundingClientRect();
+        const text = (child.textContent || "").trim();
+        const aria = child.getAttribute("aria-label") || "";
+
+        return (
+          (text.length <= 2 && rect.width <= 28 && rect.height <= 28) ||
+          /slide|image/i.test(aria)
+        );
+      });
+
+      return dotLike.length >= 2 && dotLike.length >= children.length * 0.6;
+    }) || null;
+  }
+
+  function repairCard(card, heading) {
+    const carousel = findCarousel(card, heading);
+    if (!carousel) return;
+
+    card.classList.add("sfs-large-card");
+    carousel.classList.add("sfs-large-carousel");
+
+    /*
+      4:5 viewport.
+      A 300px card becomes roughly a 375px-tall image area, which is close
+      to the larger original presentation but remains consistent card-to-card.
+    */
+    const cardWidth = Math.max(
+      220,
+      Math.round(card.getBoundingClientRect().width - 2)
+    );
+
+    const mediaHeight = Math.round(cardWidth * 1.25);
+
+    card.style.setProperty(
+      "--sfs-large-carousel-height",
+      `${mediaHeight}px`
+    );
+
+    carousel.style.setProperty(
+      "--sfs-large-carousel-height",
+      `${mediaHeight}px`
+    );
+
+    [...carousel.querySelectorAll("img")].forEach(img => {
+      img.style.width = "100%";
+      img.style.height = `${mediaHeight}px`;
+      img.style.minHeight = `${mediaHeight}px`;
+      img.style.maxHeight = `${mediaHeight}px`;
+      img.style.objectFit = "contain";
+      img.style.objectPosition = "center center";
+      img.style.display = "block";
+    });
+
+    const { prev, next } = navButtons(carousel);
+
+    /*
+      Re-parenting the buttons into the carousel makes their absolute positioning
+      relative to the repaired viewport rather than a clipped inner slide.
+    */
+    if (prev) {
+      prev.classList.add("sfs-large-prev");
+      if (prev.parentElement !== carousel) carousel.appendChild(prev);
+    }
+
+    if (next) {
+      next.classList.add("sfs-large-next");
+      if (next.parentElement !== carousel) carousel.appendChild(next);
+    }
+
+    const dots = dotRow(card);
+
+    if (dots) {
+      dots.classList.add("sfs-large-dots");
+
+      const count = dots.children.length;
+
+      dots.classList.toggle(
+        "sfs-large-dots-medium",
+        count >= 10 && count < 16
+      );
+
+      dots.classList.toggle(
+        "sfs-large-dots-dense",
+        count >= 16
+      );
+    }
+  }
+
+  function repairAll() {
+    const headings = [...document.querySelectorAll("h1,h2,h3,h4,strong")]
+      .filter(h => MONTH_RE.test((h.textContent || "").trim()));
+
+    headings.forEach(heading => {
+      const card = findCard(heading);
+      if (card) repairCard(card, heading);
+    });
+  }
+
+  let timer = null;
+
+  function schedule() {
+    clearTimeout(timer);
+    timer = setTimeout(repairAll, 80);
+  }
+
+  new MutationObserver(schedule).observe(document.body, {
+    childList: true,
+    subtree: true,
+    attributes: true,
+    attributeFilter: ["class", "style", "src"]
+  });
+
+  window.addEventListener("resize", schedule);
+  window.addEventListener("load", schedule);
+  document.addEventListener("DOMContentLoaded", schedule);
+
+  schedule();
+  setTimeout(repairAll, 300);
+  setTimeout(repairAll, 900);
+  setTimeout(repairAll, 1800);
+})();

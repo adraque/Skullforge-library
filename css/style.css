@@ -372,3 +372,125 @@ body.sfs-lightbox-open {
   object-position: center center !important;
   display: block !important;
 }
+
+/* Skullforge LARGE carousel viewport + arrow repair */
+
+/*
+  This intentionally overrides the earlier square/uniform-card experiments.
+  The viewport is 4:5 (height = 125% of card width), giving the release art
+  more visual presence while keeping every month card geometrically stable.
+*/
+
+.sfs-large-card {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.sfs-large-carousel,
+.sfs-force-media.sfs-large-carousel,
+.sfs-repaired-carousel.sfs-large-carousel,
+.sfs-carousel-viewport.sfs-large-carousel {
+  position: relative !important;
+  width: 100% !important;
+  height: var(--sfs-large-carousel-height, 375px) !important;
+  min-height: var(--sfs-large-carousel-height, 375px) !important;
+  max-height: var(--sfs-large-carousel-height, 375px) !important;
+  overflow: hidden !important;
+  background: #17171c !important;
+  isolation: isolate !important;
+}
+
+.sfs-large-carousel img,
+.sfs-force-media.sfs-large-carousel img,
+.sfs-repaired-carousel.sfs-large-carousel img,
+.sfs-carousel-viewport.sfs-large-carousel img {
+  width: 100% !important;
+  height: var(--sfs-large-carousel-height, 375px) !important;
+  min-height: var(--sfs-large-carousel-height, 375px) !important;
+  max-height: var(--sfs-large-carousel-height, 375px) !important;
+  object-fit: contain !important;
+  object-position: center center !important;
+  display: block !important;
+}
+
+/* Keep both carousel controls visibly inside the media area. */
+.sfs-large-prev,
+.sfs-large-next {
+  position: absolute !important;
+  top: 50% !important;
+  transform: translateY(-50%) !important;
+  translate: none !important;
+  z-index: 100 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+  margin: 0 !important;
+}
+
+.sfs-large-prev {
+  left: 10px !important;
+  right: auto !important;
+}
+
+.sfs-large-next {
+  right: 10px !important;
+  left: auto !important;
+}
+
+/* Keep the indicator row readable and contained. */
+.sfs-large-dots {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  flex-wrap: nowrap !important;
+  gap: 5px !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow: hidden !important;
+  padding: 8px 10px !important;
+}
+
+.sfs-large-dots.sfs-large-dots-medium {
+  gap: 4px !important;
+}
+
+.sfs-large-dots.sfs-large-dots-medium > * {
+  transform: scale(.88) !important;
+  transform-origin: center !important;
+}
+
+.sfs-large-dots.sfs-large-dots-dense {
+  gap: 2px !important;
+}
+
+.sfs-large-dots.sfs-large-dots-dense > * {
+  transform: scale(.70) !important;
+  transform-origin: center !important;
+}
+
+@media (max-width: 700px) {
+  /*
+    Still keep the larger look on phones, but cap it so portrait cards
+    don't consume the whole viewport.
+  */
+  .sfs-large-carousel,
+  .sfs-force-media.sfs-large-carousel,
+  .sfs-repaired-carousel.sfs-large-carousel,
+  .sfs-carousel-viewport.sfs-large-carousel {
+    height: min(var(--sfs-large-carousel-height, 375px), 70vh) !important;
+    min-height: min(var(--sfs-large-carousel-height, 375px), 70vh) !important;
+    max-height: min(var(--sfs-large-carousel-height, 375px), 70vh) !important;
+  }
+
+  .sfs-large-carousel img,
+  .sfs-force-media.sfs-large-carousel img,
+  .sfs-repaired-carousel.sfs-large-carousel img,
+  .sfs-carousel-viewport.sfs-large-carousel img {
+    height: min(var(--sfs-large-carousel-height, 375px), 70vh) !important;
+    min-height: min(var(--sfs-large-carousel-height, 375px), 70vh) !important;
+    max-height: min(var(--sfs-large-carousel-height, 375px), 70vh) !important;
+  }
+}
