@@ -82,5 +82,28 @@
       "images/2026/08/rapid_response_breachers.jpg"
     ],
     "source": "discord"
+  },
+  {
+    "id": "discord-2026-07",
+    "release_month": "2026-07",
+    "title": "July 2026",
+    "cover_image": "images/2026/07/july_skullforge_.jpg",
+    "images": [
+      "images/2026/07/july_skullforge_.jpg",
+      "images/2026/07/rat_hound_bust.jpg",
+      "images/2026/07/slam_hawk_patrol_drone.jpg",
+      "images/2026/07/red_star_heads.jpg",
+      "images/2026/07/modern_republic_troopers.jpg",
+      "images/2026/07/red_star_defense_force.jpg",
+      "images/2026/07/pilot_vicar.jpg",
+      "images/2026/07/hyksos_and_vicar.jpg",
+      "images/2026/07/Legendary_Khopesh_Hyksos.jpg",
+      "images/2026/07/warpath_troopers.jpg",
+      "images/2026/07/botn_ronin_Shinobi.jpg",
+      "images/2026/07/human_crew_vol_3.jpg",
+      "images/2026/07/zymbo_the_hunter.jpg",
+      "images/2026/07/Arena_Beasts_wave_1.jpg"
+    ],
+    "source": "discord"
   }
 ]
