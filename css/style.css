@@ -5,296 +5,463 @@
   --radius: 16px;
 }
 
-* { box-sizing: border-box; }
-body { margin: 0; line-height: 1.5; }
-.wrap { width: min(calc(100% - 2rem), var(--max)); margin-inline: auto; }
-.site-header { padding: 4rem 0 2rem; }
-.eyebrow { margin: 0 0 .4rem; text-transform: uppercase; letter-spacing: .12em; font-size: .75rem; opacity: .7; }
-h1 { margin: 0; font-size: clamp(2.2rem, 7vw, 5rem); line-height: .95; }
-.lede { margin: 1rem 0 0; font-size: 1.1rem; opacity: .8; }
-.controls { display: grid; grid-template-columns: minmax(0, 1fr) 180px; gap: 1rem; margin: 1rem 0 1.5rem; }
-label span { display: block; margin-bottom: .4rem; font-size: .85rem; font-weight: 700; }
-input, select { width: 100%; padding: .85rem 1rem; border: 1px solid color-mix(in srgb, currentColor 20%, transparent); border-radius: 10px; background: transparent; font: inherit; color: inherit; }
-.status { opacity: .7; }
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; padding-bottom: 4rem; }
-.card { overflow: hidden; border: 1px solid color-mix(in srgb, currentColor 16%, transparent); border-radius: var(--radius); background: color-mix(in srgb, Canvas 96%, currentColor 4%); }
-.image-wrap { aspect-ratio: 4 / 3; background: color-mix(in srgb, Canvas 90%, currentColor 10%); display: grid; place-items: center; overflow: hidden; }
-.release-image { width: 100%; height: 100%; object-fit: cover; }
-.image-placeholder { opacity: .45; font-size: .9rem; }
-.card-body { padding: 1rem; }
-.month { margin: 0; font-size: .8rem; font-weight: 700; opacity: .65; }
-.title { margin: .25rem 0 .8rem; font-size: 1.15rem; }
-.models { display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: .9rem; }
-.model-tag { border: 1px solid color-mix(in srgb, currentColor 18%, transparent); border-radius: 999px; padding: .25rem .55rem; font-size: .78rem; }
-.post-link { font-size: .9rem; }
-.empty { padding: 3rem 0; opacity: .7; }
-@media (max-width: 650px) { .controls { grid-template-columns: 1fr; } .site-header { padding-top: 2.5rem; } }
-
-/* Multi-image release gallery */
-.image-wrap.multi {
-  aspect-ratio: auto;
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 2px;
-  background: color-mix(in srgb, Canvas 86%, currentColor 14%);
+* {
+  box-sizing: border-box;
 }
-.image-wrap.multi .release-image {
-  aspect-ratio: 1 / 1;
+
+body {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.wrap {
+  width: min(calc(100% - 2rem), var(--max));
+  margin-inline: auto;
+}
+
+.site-header {
+  padding: 4rem 0 2rem;
+}
+
+.eyebrow {
+  margin: 0 0 .4rem;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  font-size: .75rem;
+  opacity: .7;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(2.2rem, 7vw, 5rem);
+  line-height: .95;
+}
+
+.lede {
+  margin: 1rem 0 0;
+  font-size: 1.1rem;
+  opacity: .8;
+}
+
+.controls {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 180px;
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+label span {
+  display: block;
+  margin-bottom: .4rem;
+  font-size: .85rem;
+  font-weight: 700;
+}
+
+input,
+select {
   width: 100%;
+  padding: .85rem 1rem;
+  border: 1px solid color-mix(in srgb, currentColor 20%, transparent);
+  border-radius: 10px;
+  background: transparent;
+  font: inherit;
+  color: inherit;
+}
+
+.status {
+  opacity: .7;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+  padding-bottom: 4rem;
+  align-items: start;
+}
+
+.card {
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, currentColor 16%, transparent);
+  border-radius: var(--radius);
+  background: color-mix(in srgb, Canvas 96%, currentColor 4%);
+}
+
+.image-wrap {
+  background: transparent;
+}
+
+.image-placeholder {
+  display: grid;
+  place-items: center;
+  min-height: 280px;
+  background: #313137;
+  opacity: .65;
+  font-size: .9rem;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+.month {
+  margin: 0;
+  font-size: .8rem;
+  font-weight: 700;
+  opacity: .65;
+}
+
+.title {
+  margin: .25rem 0 .8rem;
+  font-size: 1.15rem;
+}
+
+.models {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem;
+  margin-bottom: .9rem;
+}
+
+.model-tag {
+  border: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+  border-radius: 999px;
+  padding: .25rem .55rem;
+  font-size: .78rem;
+}
+
+.model-link {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.model-link:hover {
+  text-decoration: underline;
+}
+
+.post-link {
+  font-size: .9rem;
+}
+
+.empty {
+  padding: 3rem 0;
+  opacity: .7;
+}
+
+/* ============================================================
+   Native release carousel
+   ============================================================ */
+
+.image-wrap.carousel {
+  overflow: visible;
+  background: transparent;
+}
+
+/*
+  The viewport owns the geometry.
+  Every release gets the same full-card-width square viewing area.
+  Source images can be square, portrait, or landscape without changing card layout.
+*/
+.carousel-viewport {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  background: #313137;
+  display: grid;
+  place-items: center;
+}
+
+/*
+  Each slide occupies the exact same grid cell.
+  No transforms, tracks, left offsets, or inferred DOM positioning are involved.
+*/
+.carousel-slide {
+  grid-area: 1 / 1;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: zoom-in;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+}
+
+.carousel-slide[hidden] {
+  display: none !important;
+}
+
+.carousel-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+  object-fit: contain;
+  object-position: center center;
+  background: #313137;
+  transform: none;
+  filter: none;
+  image-rendering: auto;
+}
+
+/* Both controls are children of .carousel-viewport and can never escape it. */
+.carousel-arrow {
+  position: absolute;
+  z-index: 10;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 38px;
+  height: 54px;
+  padding: 0;
+  border: 0;
+  border-radius: 7px;
+  background: rgba(0, 0, 0, .58);
+  color: white;
+  font-size: 34px;
+  line-height: 1;
+  cursor: pointer;
+  opacity: .8;
+  display: grid;
+  place-items: center;
+}
+
+.carousel-arrow:hover,
+.carousel-arrow:focus-visible {
+  opacity: 1;
+}
+
+.carousel-prev {
+  left: 8px;
+}
+
+.carousel-next {
+  right: 8px;
+}
+
+/*
+  Dot density is chosen by makeCarousel() from the actual number of images.
+  This keeps every dot visible without clipping or wrapping.
+*/
+.carousel-dots {
+  --dot-size: 8px;
+  --dot-gap: 7px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: var(--dot-gap);
+  width: 100%;
+  padding: 10px 8px 6px;
+  overflow: visible;
+}
+
+.carousel-dots.dots-medium {
+  --dot-size: 7px;
+  --dot-gap: 4px;
+}
+
+.carousel-dots.dots-dense {
+  --dot-size: 6px;
+  --dot-gap: 3px;
+}
+
+.carousel-dots.dots-ultra {
+  --dot-size: 5px;
+  --dot-gap: 2px;
+}
+
+.carousel-dot {
+  flex: 0 0 var(--dot-size);
+  width: var(--dot-size);
+  height: var(--dot-size);
+  min-width: var(--dot-size);
+  min-height: var(--dot-size);
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: #6b7280;
+  cursor: pointer;
+}
+
+.carousel-dot.active {
+  background: #e5e7eb;
+  transform: scale(1.22);
+}
+
+/* ============================================================
+   Navigable full-resolution lightbox
+   ============================================================ */
+
+body.lightbox-open {
+  overflow: hidden;
+}
+
+.image-lightbox[hidden] {
+  display: none !important;
+}
+
+.image-lightbox {
+  position: fixed;
+  z-index: 9999;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background: rgba(0, 0, 0, .9);
+}
+
+.image-lightbox-dialog {
+  position: relative;
+  width: min(96vw, 1600px);
+  height: min(94vh, 1100px);
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+  place-items: center;
+  padding: 42px 68px 22px;
+}
+
+.image-lightbox-image {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
   height: auto;
   object-fit: contain;
-  background: color-mix(in srgb, Canvas 90%, currentColor 10%);
-}
-.image-wrap.multi .release-image:first-child:nth-last-child(3) {
-  grid-row: span 2;
-  height: 100%;
-}
-
-/* MMF-inspired release card hierarchy */
-.image-wrap{aspect-ratio:auto!important;background:transparent!important;overflow:visible!important;}
-.release-cover{display:block;width:100%;max-height:520px;object-fit:contain;background:#313137;}
-.release-thumbnails{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:4px;margin-top:4px;}
-.release-thumbnails img{display:block;width:100%;aspect-ratio:1/1;object-fit:contain;background:#313137;}
-.card .title{margin-top:18px;}
-
-/* In-card slideshow */
-.image-wrap.carousel{
-  aspect-ratio:auto!important;
-  overflow:visible!important;
-  background:transparent!important;
+  object-position: center;
+  background: #202024;
+  border-radius: 8px;
+  box-shadow: 0 18px 60px rgba(0, 0, 0, .45);
 }
 
-.carousel-viewport{
-  position:relative;
-  width:100%;
-  background:#313137;
-  overflow:hidden;
+.image-lightbox-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  max-width: 100%;
+  padding-top: 10px;
+  color: #f3f4f6;
 }
 
-.carousel-image{
-  display:block;
-  width:100%;
-  aspect-ratio:1 / 1;
-  object-fit:contain;
-  background:#313137;
+.image-lightbox-caption {
+  min-width: 0;
+  max-width: min(70vw, 900px);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 14px;
+  text-align: center;
 }
 
-.carousel-arrow{
-  position:absolute;
-  top:50%;
-  transform:translateY(-50%);
-  width:36px;
-  height:52px;
-  border:0;
-  border-radius:7px;
-  background:rgba(0,0,0,.55);
-  color:white;
-  font-size:34px;
-  line-height:1;
-  cursor:pointer;
-  opacity:.72;
+.image-lightbox-counter {
+  flex: 0 0 auto;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, .12);
+  font-size: 13px;
+  font-weight: 700;
 }
 
-.carousel-arrow:hover{opacity:1;}
-.carousel-prev{left:8px;}
-.carousel-next{right:8px;}
-
-.carousel-dots{
-  display:flex;
-  justify-content:center;
-  gap:7px;
-  padding:10px 8px 4px;
+.image-lightbox-close,
+.image-lightbox-prev,
+.image-lightbox-next {
+  position: absolute;
+  z-index: 3;
+  padding: 0;
+  border: 0;
+  color: white;
+  background: rgba(17, 24, 39, .82);
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, .4);
 }
 
-.carousel-dot{
-  width:8px;
-  height:8px;
-  padding:0;
-  border:0;
-  border-radius:50%;
-  background:#6b7280;
-  cursor:pointer;
+.image-lightbox-close {
+  top: 0;
+  right: 0;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  font-size: 30px;
+  line-height: 1;
 }
 
-.carousel-dot.active{
-  background:#e5e7eb;
-  transform:scale(1.25);
+.image-lightbox-prev,
+.image-lightbox-next {
+  top: 50%;
+  transform: translateY(-50%);
+  width: 50px;
+  height: 70px;
+  border-radius: 9px;
+  font-size: 40px;
+  line-height: 1;
 }
 
-.model-link{
-  text-decoration:none;
-  cursor:pointer;
+.image-lightbox-prev {
+  left: 4px;
 }
 
-.model-link:hover{
-  text-decoration:underline;
+.image-lightbox-next {
+  right: 4px;
 }
 
-
-/* Full-resolution preloaded carousel + lightbox */
-.image-wrap.carousel{aspect-ratio:auto!important;overflow:visible!important;background:transparent!important;}
-.carousel-viewport{position:relative;width:100%;background:#313137;overflow:hidden;}
-.carousel-slide{display:block;width:100%;margin:0;padding:0;border:0;background:transparent;cursor:zoom-in;}
-.carousel-slide[hidden]{display:none!important;}
-.carousel-image{display:block;width:100%;height:auto;aspect-ratio:1/1;object-fit:contain;object-position:center;background:#313137;transform:none!important;filter:none!important;image-rendering:auto;}
-.carousel-arrow{position:absolute;z-index:5;top:50%;transform:translateY(-50%);width:38px;height:54px;padding:0;border:0;border-radius:7px;background:rgba(0,0,0,.55);color:white;font-size:34px;line-height:1;cursor:pointer;opacity:.76;}
-.carousel-arrow:hover{opacity:1;}
-.carousel-prev{left:8px}.carousel-next{right:8px}
-.carousel-dots{display:flex;justify-content:center;gap:7px;padding:10px 8px 4px;}
-.carousel-dot{width:8px;height:8px;min-width:8px;min-height:8px;padding:0;border:0;border-radius:50%;background:#6b7280;cursor:pointer;}
-.carousel-dot.active{background:#e5e7eb;transform:scale(1.25);}
-body.lightbox-open{overflow:hidden;}
-.image-lightbox[hidden]{display:none!important;}
-.image-lightbox{position:fixed;z-index:9999;inset:0;display:flex;align-items:center;justify-content:center;padding:24px;background:rgba(0,0,0,.86);}
-.image-lightbox-dialog{position:relative;display:flex;flex-direction:column;align-items:center;max-width:min(96vw,1500px);max-height:94vh;}
-.image-lightbox-image{display:block;max-width:94vw;max-height:86vh;width:auto;height:auto;object-fit:contain;background:#202024;border-radius:8px;box-shadow:0 18px 60px rgba(0,0,0,.45);}
-.image-lightbox-caption{max-width:94vw;padding:10px 12px 0;color:#f3f4f6;font-size:14px;text-align:center;}
-.image-lightbox-close{position:absolute;z-index:2;top:-14px;right:-14px;width:42px;height:42px;padding:0;border:0;border-radius:50%;background:#111827;color:white;font-size:30px;line-height:38px;cursor:pointer;box-shadow:0 4px 18px rgba(0,0,0,.4);}
-@media(max-width:600px){.image-lightbox{padding:12px}.image-lightbox-close{top:4px;right:4px}.image-lightbox-image{max-width:96vw;max-height:82vh}}
-
-/* Skullforge CONSOLIDATED carousel repair */
-
-/*
-  Intentionally minimal:
-  - do NOT impose a new fixed image height/aspect ratio
-  - preserve the site's original larger image presentation
-  - only repair clipping/positioning/navigation/dots
-*/
-
-.sfs-carousel-repair {
-  position: relative !important;
-  overflow: hidden !important;
-  isolation: isolate !important;
+.image-lightbox-close:hover,
+.image-lightbox-prev:hover,
+.image-lightbox-next:hover,
+.image-lightbox-close:focus-visible,
+.image-lightbox-prev:focus-visible,
+.image-lightbox-next:focus-visible {
+  background: rgba(31, 41, 55, .98);
 }
 
-/*
-  Prevent individual carousel images/slides from being pushed outside
-  their own visible card by stale translate/left/right values.
-*/
-.sfs-carousel-repair .sfs-repair-slide {
-  left: 0 !important;
-  right: 0 !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-  max-width: 100% !important;
-  overflow: hidden !important;
-}
+@media (max-width: 650px) {
+  .controls {
+    grid-template-columns: 1fr;
+  }
 
-.sfs-carousel-repair .sfs-repair-slide img {
-  display: block !important;
-  max-width: 100% !important;
-  height: auto !important;
-  object-fit: contain !important;
-  object-position: center center !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
+  .site-header {
+    padding-top: 2.5rem;
+  }
 
-/* Keep both nav buttons safely inside the visible carousel. */
-.sfs-repair-prev,
-.sfs-repair-next {
-  position: absolute !important;
-  top: 50% !important;
-  transform: translateY(-50%) !important;
-  translate: none !important;
-  z-index: 100 !important;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  visibility: visible !important;
-  opacity: 1 !important;
-  pointer-events: auto !important;
-  margin: 0 !important;
-}
+  .image-lightbox {
+    padding: 8px;
+  }
 
-.sfs-repair-prev {
-  left: 10px !important;
-  right: auto !important;
-}
+  .image-lightbox-dialog {
+    width: 100vw;
+    height: 100vh;
+    padding: 52px 42px 18px;
+  }
 
-.sfs-repair-next {
-  right: 10px !important;
-  left: auto !important;
-}
+  .image-lightbox-close {
+    top: 8px;
+    right: 8px;
+  }
 
-/*
-  Preserve ALL dots.
-  Do not hide overflow; let the row wrap if a month has many images.
-*/
-.sfs-repair-dots {
-  display: flex !important;
-  justify-content: center !important;
-  align-items: center !important;
-  flex-wrap: wrap !important;
-  gap: 6px !important;
-  width: 100% !important;
-  max-width: 100% !important;
-  overflow: visible !important;
-  padding: 8px 10px !important;
-  box-sizing: border-box !important;
-}
+  .image-lightbox-prev,
+  .image-lightbox-next {
+    width: 38px;
+    height: 58px;
+    font-size: 32px;
+  }
 
-.sfs-repair-dots > * {
-  flex: 0 0 auto !important;
-  transform: none !important;
-}
+  .image-lightbox-prev {
+    left: 0;
+  }
 
-/* Very dense months: slightly tighten, but never remove or clip dots. */
-.sfs-repair-dots.sfs-repair-dots-dense {
-  gap: 4px !important;
-}
+  .image-lightbox-next {
+    right: 0;
+  }
 
-.sfs-repair-dots.sfs-repair-dots-dense > * {
-  transform: scale(.86) !important;
-  transform-origin: center !important;
-}
-
-/* Skullforge targeted carousel centering fix */
-
-.sfs-target-center-carousel {
-  position: relative !important;
-  overflow: hidden !important;
-}
-
-.sfs-target-center-slide {
-  width: 100% !important;
-  max-width: 100% !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  left: 0 !important;
-  right: 0 !important;
-  box-sizing: border-box !important;
-}
-
-.sfs-target-center-slide.sfs-target-visible {
-  display: flex !important;
-  justify-content: center !important;
-  align-items: center !important;
-}
-
-.sfs-target-center-slide.sfs-target-visible img {
-  display: block !important;
-  max-width: 100% !important;
-  height: auto !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  object-fit: contain !important;
-  object-position: center center !important;
-}
-
-/* Skullforge TRUE targeted image centering fix */
-
-/*
-  Do not resize the carousel or image.
-  Only center the currently visible image itself.
-*/
-.sfs-true-centered-image {
-  position: relative !important;
-  left: 50% !important;
-  right: auto !important;
-  transform: translateX(-50%) !important;
-  translate: none !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-  object-position: center center !important;
+  .image-lightbox-caption {
+    max-width: 65vw;
+  }
 }
