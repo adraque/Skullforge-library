@@ -95,7 +95,6 @@
     "cover_image": "images/2026/04/last_chance_april.jpg",
     "images": [
       "images/2026/04/last_chance_april.jpg",
-      "images/2026/04/CASTLE_KLAD_terrain_kit.jpg",
       "images/2026/04/Arsenal_Fireteam_Zeta.jpg",
       "images/2026/04/samsara_stalker.jpg",
       "images/2026/04/stalk_and_survive_display_model.jpg",
@@ -133,7 +132,10 @@
       "images/2026/03/frost_troopers.jpg",
       "images/2026/03/ronin_scions_of_the_black_wolf.jpg",
       "images/2026/03/synthoid_terminators.jpg",
-      "images/2026/03/ronin_scions_layout.jpg"
+      "images/2026/03/ronin_scions_layout.jpg",
+      "images/2026/03/CASTLE_KLAD_terrain_kit.jpg",
+      "images/2026/03/Gambits_Edge_Render-Recovered-Recovered.jpg",
+      "images/2026/03/insectoid_bounty_hunter.jpg"
     ],
     "source": "discord"
   },

@@ -5148,11 +5148,11 @@
     "notes": ""
   },
   {
-    "id": "discord-2026-03-april",
-    "name": "April",
-    "name_raw": "April",
+    "id": "discord-2026-03-castle-klad-terrain-kit",
+    "name": "Castle Klad Terrain Kit",
+    "name_raw": "Castle Klad Terrain Kit",
     "release_id": "discord-2026-03",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/vkqduw?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5161,7 +5161,25 @@
     "name": "Frost Troopers",
     "name_raw": "Frost Troopers",
     "release_id": "discord-2026-03",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/uoxvk?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-gambits-edge-authority-shuttle",
+    "name": "Gambits Edge Authority Shuttle",
+    "name_raw": "Gambits Edge Authority Shuttle",
+    "release_id": "discord-2026-03",
+    "store_url": "https://skullforgestudios.gumroad.com/l/givfqt?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-insectoid-bounty-hunter",
+    "name": "Insectoid bounty hunter",
+    "name_raw": "Insectoid bounty hunter",
+    "release_id": "discord-2026-03",
+    "store_url": "https://skullforgestudios.gumroad.com/l/lyohfj?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5170,34 +5188,7 @@
     "name": "Mcv Kukri",
     "name_raw": "Mcv Kukri",
     "release_id": "discord-2026-03",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-03-medic",
-    "name": "Medic",
-    "name_raw": "Medic",
-    "release_id": "discord-2026-03",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-03-null-frames",
-    "name": "Null Frames",
-    "name_raw": "Null Frames",
-    "release_id": "discord-2026-03",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-03-olympus-layout",
-    "name": "Olympus Layout",
-    "name_raw": "Olympus Layout",
-    "release_id": "discord-2026-03",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/pycatf?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5215,34 +5206,7 @@
     "name": "Olympus Terrain",
     "name_raw": "Olympus Terrain",
     "release_id": "discord-2026-03",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-03-rascal",
-    "name": "Rascal",
-    "name_raw": "Rascal",
-    "release_id": "discord-2026-03",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-03-rogue",
-    "name": "Rogue",
-    "name_raw": "Rogue",
-    "release_id": "discord-2026-03",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-03-ronin-scions-layout",
-    "name": "Ronin Scions Layout",
-    "name_raw": "Ronin Scions Layout",
-    "release_id": "discord-2026-03",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/wzosf?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5251,7 +5215,7 @@
     "name": "Ronin Scions Of The Black Wolf",
     "name_raw": "Ronin Scions Of The Black Wolf",
     "release_id": "discord-2026-03",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/idcxod?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5260,7 +5224,7 @@
     "name": "Samsara Bulwark",
     "name_raw": "Samsara Bulwark",
     "release_id": "discord-2026-03",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/jokfhd?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5269,7 +5233,16 @@
     "name": "Samsara Hunter",
     "name_raw": "Samsara Hunter",
     "release_id": "discord-2026-03",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/hbahj?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-samsara-medic",
+    "name": "Samsara Medic",
+    "name_raw": "Samsara Medic",
+    "release_id": "discord-2026-03",
+    "store_url": "https://skullforgestudios.gumroad.com/l/maeuaz?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5283,11 +5256,38 @@
     "notes": ""
   },
   {
-    "id": "discord-2026-03-scout",
-    "name": "Scout",
-    "name_raw": "Scout",
+    "id": "discord-2026-03-samsara-null-frames",
+    "name": "Samsara Null Frames",
+    "name_raw": "Samsara Null Frames",
     "release_id": "discord-2026-03",
     "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-samsara-rascal",
+    "name": "Samsara Rascal",
+    "name_raw": "Samsara Rascal",
+    "release_id": "discord-2026-03",
+    "store_url": "https://skullforgestudios.gumroad.com/l/zoeqdy?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-samsara-rogue",
+    "name": "Samsara Rogue",
+    "name_raw": "Samsara Rogue",
+    "release_id": "discord-2026-03",
+    "store_url": "https://skullforgestudios.gumroad.com/l/qnmerj?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-03-samsara-scout",
+    "name": "Samsara Scout",
+    "name_raw": "Samsara Scout",
+    "release_id": "discord-2026-03",
+    "store_url": "https://skullforgestudios.gumroad.com/l/meqhdo?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5296,7 +5296,7 @@
     "name": "Synthoid Terminators",
     "name_raw": "Synthoid Terminators",
     "release_id": "discord-2026-03",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/ncvpkh?layout=profile",
     "tags": [],
     "notes": ""
   },
