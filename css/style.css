@@ -345,3 +345,30 @@ body.sfs-lightbox-open {
     display: none;
   }
 }
+
+/* Skullforge FORCE uniform month-card media sizing */
+
+.sfs-force-month-card {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.sfs-force-media {
+  position: relative !important;
+  width: 100% !important;
+  height: var(--sfs-card-media-height, 320px) !important;
+  min-height: var(--sfs-card-media-height, 320px) !important;
+  max-height: var(--sfs-card-media-height, 320px) !important;
+  overflow: hidden !important;
+  background: #17171c !important;
+}
+
+.sfs-force-media img {
+  width: 100% !important;
+  height: var(--sfs-card-media-height, 320px) !important;
+  min-height: var(--sfs-card-media-height, 320px) !important;
+  max-height: var(--sfs-card-media-height, 320px) !important;
+  object-fit: contain !important;
+  object-position: center center !important;
+  display: block !important;
+}

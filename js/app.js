@@ -445,3 +445,124 @@ init().catch(e=>{console.error(e);status.textContent=`Catalog failed to load: ${
   window.addEventListener("resize", scheduleNormalize);
   scheduleNormalize();
 })();
+
+/* Skullforge FORCE uniform month-card media sizing */
+(() => {
+  "use strict";
+
+  if (window.__SFS_FORCE_UNIFORM_CARDS__) return;
+  window.__SFS_FORCE_UNIFORM_CARDS__ = true;
+
+  const MONTH_RE =
+    /^(January|February|March|April|May|June|July|August|September|October|November|December)\s+20\d{2}$/i;
+
+  function monthHeadingsWithin(el) {
+    return [...el.querySelectorAll("h1,h2,h3,h4,strong")]
+      .filter(h => MONTH_RE.test((h.textContent || "").trim()));
+  }
+
+  function cardForHeading(heading) {
+    let node = heading.parentElement;
+    let best = null;
+
+    while (node && node !== document.body) {
+      const monthHeadings = monthHeadingsWithin(node);
+      const images = node.querySelectorAll("img");
+
+      // The correct card should contain this one month heading,
+      // at least one image, and should NOT contain multiple month headings.
+      if (monthHeadings.length === 1 && images.length >= 1) {
+        best = node;
+      }
+
+      // Once we hit an ancestor with multiple month headings, we've reached
+      // the grid/list container, so stop climbing.
+      if (monthHeadings.length > 1) break;
+
+      node = node.parentElement;
+    }
+
+    return best;
+  }
+
+  function mediaContainerForCard(card, heading) {
+    const imgs = [...card.querySelectorAll("img")];
+    if (!imgs.length) return null;
+
+    const first = imgs[0];
+    let node = first.parentElement;
+    let best = first.parentElement;
+
+    while (node && node !== card) {
+      // Keep climbing while this region contains images but NOT the month heading.
+      if (node.contains(first) && !node.contains(heading)) {
+        best = node;
+      }
+      node = node.parentElement;
+    }
+
+    return best;
+  }
+
+  function normalizeOne(card, heading) {
+    const media = mediaContainerForCard(card, heading);
+    if (!media) return;
+
+    card.classList.add("sfs-force-month-card");
+    media.classList.add("sfs-force-media");
+
+    // Use the actual rendered card width so every month image area is square.
+    // Subtract a tiny amount for borders/padding to prevent overflow.
+    const width = Math.max(
+      220,
+      Math.round(card.getBoundingClientRect().width - 2)
+    );
+
+    card.style.setProperty("--sfs-card-media-height", `${width}px`);
+    media.style.setProperty("--sfs-card-media-height", `${width}px`);
+
+    [...media.querySelectorAll("img")].forEach(img => {
+      img.style.width = "100%";
+      img.style.height = `${width}px`;
+      img.style.minHeight = `${width}px`;
+      img.style.maxHeight = `${width}px`;
+      img.style.objectFit = "contain";
+      img.style.objectPosition = "center center";
+      img.style.display = "block";
+    });
+  }
+
+  function normalizeAll() {
+    const headings = [...document.querySelectorAll("h1,h2,h3,h4,strong")]
+      .filter(h => MONTH_RE.test((h.textContent || "").trim()));
+
+    headings.forEach(heading => {
+      const card = cardForHeading(heading);
+      if (card) normalizeOne(card, heading);
+    });
+  }
+
+  let timer = null;
+  function schedule() {
+    clearTimeout(timer);
+    timer = setTimeout(normalizeAll, 60);
+  }
+
+  new MutationObserver(schedule).observe(document.body, {
+    childList: true,
+    subtree: true,
+    attributes: true,
+    attributeFilter: ["class", "style", "src"]
+  });
+
+  window.addEventListener("resize", schedule);
+
+  document.addEventListener("DOMContentLoaded", schedule);
+  window.addEventListener("load", schedule);
+
+  // Run several times because the release cards/images are populated asynchronously.
+  schedule();
+  setTimeout(normalizeAll, 300);
+  setTimeout(normalizeAll, 900);
+  setTimeout(normalizeAll, 1800);
+})();
