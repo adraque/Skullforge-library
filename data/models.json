@@ -4900,25 +4900,7 @@
     "name": "Aardvark Hardsuit",
     "name_raw": "Aardvark Hardsuit",
     "release_id": "discord-2026-02",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-02-aardvark-hardsuit-parts",
-    "name": "Aardvark Hardsuit Parts",
-    "name_raw": "Aardvark Hardsuit Parts",
-    "release_id": "discord-2026-02",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-02-aardvark-new-parts-fullquality",
-    "name": "Aardvark New Parts Fullquality",
-    "name_raw": "Aardvark New Parts Fullquality",
-    "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/gdpsp?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -4928,6 +4910,15 @@
     "name_raw": "Amor Armor",
     "release_id": "discord-2026-02",
     "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-arsenal-hunter-specialist",
+    "name": "Arsenal Hunter Specialist",
+    "name_raw": "Arsenal Hunter Specialist",
+    "release_id": "discord-2026-02",
+    "store_url": "https://skullforgestudios.gumroad.com/l/yoyhj?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -4954,7 +4945,7 @@
     "name": "D1 Battle Drones",
     "name_raw": "D1 Battle Drones",
     "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/umeur?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -4963,7 +4954,7 @@
     "name": "Disguised Hunter 1",
     "name_raw": "Disguised Hunter 1",
     "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/vdubd?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -4972,7 +4963,7 @@
     "name": "Disguised Hunter 2",
     "name_raw": "Disguised Hunter 2",
     "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/vdubd?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -4981,7 +4972,7 @@
     "name": "Forte Space Wizard",
     "name_raw": "Forte Space Wizard",
     "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/sechd?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -4990,7 +4981,7 @@
     "name": "Ge Authority Elite Force",
     "name_raw": "Ge Authority Elite Force",
     "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/lynxg?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -4999,25 +4990,7 @@
     "name": "Ge Authority Infantry Troopers",
     "name_raw": "Ge Authority Infantry Troopers",
     "release_id": "discord-2026-02",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-02-hunter-specialist",
-    "name": "Hunter Specialist",
-    "name_raw": "Hunter Specialist",
-    "release_id": "discord-2026-02",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-02-imperial-guard",
-    "name": "Imperial Guard",
-    "name_raw": "Imperial Guard",
-    "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/pmmwt?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5053,25 +5026,43 @@
     "name": "Love Over Everything",
     "name_raw": "Love Over Everything",
     "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/yjhqno?layout=profile",
     "tags": [],
     "notes": ""
   },
   {
-    "id": "discord-2026-02-march",
-    "name": "March",
-    "name_raw": "March",
+    "id": "discord-2026-02-oasis-imperium-imperial-guard",
+    "name": "Oasis Imperium Imperial Guard",
+    "name_raw": "Oasis Imperium Imperial Guard",
     "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/luhkkv?layout=profile",
     "tags": [],
     "notes": ""
   },
   {
-    "id": "discord-2026-02-oasis-imperium-set",
-    "name": "Oasis Imperium Set",
-    "name_raw": "Oasis Imperium Set",
+    "id": "discord-2026-02-oasis-imperium-reverent-sisters",
+    "name": "Oasis Imperium Reverent Sisters",
+    "name_raw": "Oasis Imperium Reverent Sisters",
     "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/fztuw?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-oasis-imperium-the-emperor",
+    "name": "Oasis Imperium The Emperor",
+    "name_raw": "Oasis Imperium The Emperor",
+    "release_id": "discord-2026-02",
+    "store_url": "https://skullforgestudios.gumroad.com/l/lrayq?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-02-oasis-imperium-the-princess",
+    "name": "Oasis Imperium The Princess",
+    "name_raw": "Oasis Imperium The Princess",
+    "release_id": "discord-2026-02",
+    "store_url": "https://skullforgestudios.gumroad.com/l/syugz?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5080,7 +5071,7 @@
     "name": "Qpid Freelancers",
     "name_raw": "Qpid Freelancers",
     "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/vhaozr?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5089,7 +5080,7 @@
     "name": "Raider Troubadors",
     "name_raw": "Raider Troubadors",
     "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/cinlqy?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5098,7 +5089,7 @@
     "name": "Raider Voltaire Mercs",
     "name_raw": "Raider Voltaire Mercs",
     "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/gxdokd?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5107,7 +5098,7 @@
     "name": "Raider Wasp Bot",
     "name_raw": "Raider Wasp Bot",
     "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/bjtqgy?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5116,34 +5107,7 @@
     "name": "Republic Combat Engineers",
     "name_raw": "Republic Combat Engineers",
     "release_id": "discord-2026-02",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-02-reverent-sisters",
-    "name": "Reverent Sisters",
-    "name_raw": "Reverent Sisters",
-    "release_id": "discord-2026-02",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-02-the-emperor",
-    "name": "The Emperor",
-    "name_raw": "The Emperor",
-    "release_id": "discord-2026-02",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-02-the-princess",
-    "name": "The Princess",
-    "name_raw": "The Princess",
-    "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/tauhab?layout=profile",
     "tags": [],
     "notes": ""
   },
