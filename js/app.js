@@ -191,388 +191,12 @@ searchInput.addEventListener('input',render);
 yearFilter.addEventListener('change',render);
 init().catch(e=>{console.error(e);status.textContent=`Catalog failed to load: ${e.message}`;});
 
-/* Skullforge uniform card carousel + navigable lightbox patch */
+/* Skullforge CONSOLIDATED carousel repair */
 (() => {
   "use strict";
 
-  if (window.__SFS_CARD_LIGHTBOX_PATCH__) return;
-  window.__SFS_CARD_LIGHTBOX_PATCH__ = true;
-
-  const MONTH_RE = /^(January|February|March|April|May|June|July|August|September|October|November|December)\s+20\d{2}$/i;
-
-  function findMonthHeading(card) {
-    return [...card.querySelectorAll("h1,h2,h3,h4,strong")]
-      .find(el => MONTH_RE.test((el.textContent || "").trim()));
-  }
-
-  function likelyMonthCard(node) {
-    let el = node;
-    while (el && el !== document.body) {
-      if (findMonthHeading(el) && el.querySelector("img")) return el;
-      el = el.parentElement;
-    }
-    return null;
-  }
-
-  function getCardImages(card) {
-    const seen = new Set();
-
-    return [...card.querySelectorAll("img")].filter(img => {
-      const src = img.currentSrc || img.src || "";
-      if (!src) return false;
-
-      const low = ((img.alt || "") + " " + src).toLowerCase();
-      if (/(icon|logo|avatar|emoji|favicon)/.test(low)) return false;
-      if (seen.has(src)) return false;
-
-      seen.add(src);
-      return true;
-    });
-  }
-
-  function findPrimaryMediaRegion(card) {
-    const images = getCardImages(card);
-    if (!images.length) return null;
-
-    let node = images[0].parentElement;
-    let best = node;
-
-    while (node && node !== card) {
-      if (node.querySelectorAll("img").length >= 1 && !findMonthHeading(node)) {
-        best = node;
-      }
-      node = node.parentElement;
-    }
-
-    return best;
-  }
-
-  function findDotRow(card) {
-    return [...card.querySelectorAll("div,nav,ol,ul")].find(row => {
-      const children = [...row.children];
-      if (children.length < 2) return false;
-
-      const dotLike = children.filter(child => {
-        const rect = child.getBoundingClientRect();
-        const txt = (child.textContent || "").trim();
-        const aria = child.getAttribute("aria-label") || "";
-
-        return (
-          (txt.length <= 2 && rect.width <= 28 && rect.height <= 28) ||
-          /slide|image/i.test(aria)
-        );
-      });
-
-      return dotLike.length >= 2 && dotLike.length >= children.length * 0.6;
-    }) || null;
-  }
-
-  function normalizeCards() {
-    const headings = [...document.querySelectorAll("h1,h2,h3,h4,strong")]
-      .filter(el => MONTH_RE.test((el.textContent || "").trim()));
-
-    const cards = new Set();
-
-    headings.forEach(heading => {
-      const card = likelyMonthCard(heading);
-      if (card) cards.add(card);
-    });
-
-    cards.forEach(card => {
-      card.classList.add("sfs-uniform-card");
-
-      const media = findPrimaryMediaRegion(card);
-      if (media) media.classList.add("sfs-carousel-viewport");
-
-      const dots = findDotRow(card);
-      if (dots) {
-        dots.classList.add("sfs-dot-row");
-        const count = dots.children.length;
-        dots.classList.toggle("sfs-dots-medium", count >= 10 && count < 16);
-        dots.classList.toggle("sfs-dots-dense", count >= 16);
-      }
-    });
-  }
-
-  let currentImages = [];
-  let currentIndex = 0;
-  let touchStartX = null;
-
-  const lightbox = document.createElement("div");
-  lightbox.className = "sfs-lightbox";
-  lightbox.setAttribute("aria-hidden", "true");
-
-  lightbox.innerHTML = `
-    <div class="sfs-lightbox__stage" role="dialog" aria-modal="true" aria-label="Image viewer">
-      <button type="button" class="sfs-lightbox__close" aria-label="Close image viewer">×</button>
-      <button type="button" class="sfs-lightbox__nav sfs-lightbox__prev" aria-label="Previous image">‹</button>
-      <img class="sfs-lightbox__image" alt="">
-      <button type="button" class="sfs-lightbox__nav sfs-lightbox__next" aria-label="Next image">›</button>
-      <div class="sfs-lightbox__caption"></div>
-      <div class="sfs-lightbox__counter"></div>
-    </div>
-  `;
-
-  document.body.appendChild(lightbox);
-
-  const stage = lightbox.querySelector(".sfs-lightbox__stage");
-  const imageEl = lightbox.querySelector(".sfs-lightbox__image");
-  const closeBtn = lightbox.querySelector(".sfs-lightbox__close");
-  const prevBtn = lightbox.querySelector(".sfs-lightbox__prev");
-  const nextBtn = lightbox.querySelector(".sfs-lightbox__next");
-  const counter = lightbox.querySelector(".sfs-lightbox__counter");
-  const caption = lightbox.querySelector(".sfs-lightbox__caption");
-
-  function renderLightbox() {
-    if (!currentImages.length) return;
-
-    currentIndex = (currentIndex + currentImages.length) % currentImages.length;
-
-    const sourceImg = currentImages[currentIndex];
-    imageEl.src = sourceImg.currentSrc || sourceImg.src;
-    imageEl.alt = sourceImg.alt || "";
-    caption.textContent = sourceImg.alt || sourceImg.getAttribute("title") || "";
-    counter.textContent = `${currentIndex + 1} / ${currentImages.length}`;
-
-    const showNav = currentImages.length > 1;
-    prevBtn.style.display = showNav ? "" : "none";
-    nextBtn.style.display = showNav ? "" : "none";
-  }
-
-  function openLightbox(card, clickedImg) {
-    currentImages = getCardImages(card);
-    if (!currentImages.length) return;
-
-    const clickedSrc = clickedImg.currentSrc || clickedImg.src;
-    const idx = currentImages.findIndex(img => (img.currentSrc || img.src) === clickedSrc);
-    currentIndex = idx >= 0 ? idx : 0;
-
-    renderLightbox();
-    lightbox.classList.add("is-open");
-    lightbox.setAttribute("aria-hidden", "false");
-    document.body.classList.add("sfs-lightbox-open");
-    closeBtn.focus();
-  }
-
-  function closeLightbox() {
-    lightbox.classList.remove("is-open");
-    lightbox.setAttribute("aria-hidden", "true");
-    document.body.classList.remove("sfs-lightbox-open");
-    imageEl.removeAttribute("src");
-    currentImages = [];
-    currentIndex = 0;
-  }
-
-  function nextImage() {
-    if (currentImages.length < 2) return;
-    currentIndex += 1;
-    renderLightbox();
-  }
-
-  function prevImage() {
-    if (currentImages.length < 2) return;
-    currentIndex -= 1;
-    renderLightbox();
-  }
-
-  closeBtn.addEventListener("click", closeLightbox);
-  nextBtn.addEventListener("click", nextImage);
-  prevBtn.addEventListener("click", prevImage);
-
-  lightbox.addEventListener("click", event => {
-    if (event.target === lightbox) closeLightbox();
-  });
-
-  stage.addEventListener("touchstart", event => {
-    if (!event.touches.length) return;
-    touchStartX = event.touches[0].clientX;
-  }, { passive: true });
-
-  stage.addEventListener("touchend", event => {
-    if (touchStartX === null || !event.changedTouches.length) return;
-
-    const delta = event.changedTouches[0].clientX - touchStartX;
-    touchStartX = null;
-
-    if (Math.abs(delta) < 45) return;
-    delta < 0 ? nextImage() : prevImage();
-  }, { passive: true });
-
-  document.addEventListener("keydown", event => {
-    if (!lightbox.classList.contains("is-open")) return;
-
-    if (event.key === "Escape") {
-      event.preventDefault();
-      closeLightbox();
-    } else if (event.key === "ArrowRight") {
-      event.preventDefault();
-      nextImage();
-    } else if (event.key === "ArrowLeft") {
-      event.preventDefault();
-      prevImage();
-    }
-  });
-
-  document.addEventListener("click", event => {
-    const img = event.target.closest("img");
-    if (!img || lightbox.contains(img)) return;
-
-    const card = likelyMonthCard(img);
-    if (!card) return;
-
-    const images = getCardImages(card);
-    if (!images.includes(img)) return;
-
-    event.preventDefault();
-    event.stopPropagation();
-    event.stopImmediatePropagation();
-
-    openLightbox(card, img);
-  }, true);
-
-  let timer = null;
-
-  function scheduleNormalize() {
-    clearTimeout(timer);
-    timer = setTimeout(normalizeCards, 80);
-  }
-
-  new MutationObserver(scheduleNormalize).observe(document.body, {
-    childList: true,
-    subtree: true
-  });
-
-  window.addEventListener("resize", scheduleNormalize);
-  scheduleNormalize();
-})();
-
-/* Skullforge FORCE uniform month-card media sizing */
-(() => {
-  "use strict";
-
-  if (window.__SFS_FORCE_UNIFORM_CARDS__) return;
-  window.__SFS_FORCE_UNIFORM_CARDS__ = true;
-
-  const MONTH_RE =
-    /^(January|February|March|April|May|June|July|August|September|October|November|December)\s+20\d{2}$/i;
-
-  function monthHeadingsWithin(el) {
-    return [...el.querySelectorAll("h1,h2,h3,h4,strong")]
-      .filter(h => MONTH_RE.test((h.textContent || "").trim()));
-  }
-
-  function cardForHeading(heading) {
-    let node = heading.parentElement;
-    let best = null;
-
-    while (node && node !== document.body) {
-      const monthHeadings = monthHeadingsWithin(node);
-      const images = node.querySelectorAll("img");
-
-      // The correct card should contain this one month heading,
-      // at least one image, and should NOT contain multiple month headings.
-      if (monthHeadings.length === 1 && images.length >= 1) {
-        best = node;
-      }
-
-      // Once we hit an ancestor with multiple month headings, we've reached
-      // the grid/list container, so stop climbing.
-      if (monthHeadings.length > 1) break;
-
-      node = node.parentElement;
-    }
-
-    return best;
-  }
-
-  function mediaContainerForCard(card, heading) {
-    const imgs = [...card.querySelectorAll("img")];
-    if (!imgs.length) return null;
-
-    const first = imgs[0];
-    let node = first.parentElement;
-    let best = first.parentElement;
-
-    while (node && node !== card) {
-      // Keep climbing while this region contains images but NOT the month heading.
-      if (node.contains(first) && !node.contains(heading)) {
-        best = node;
-      }
-      node = node.parentElement;
-    }
-
-    return best;
-  }
-
-  function normalizeOne(card, heading) {
-    const media = mediaContainerForCard(card, heading);
-    if (!media) return;
-
-    card.classList.add("sfs-force-month-card");
-    media.classList.add("sfs-force-media");
-
-    // Use the actual rendered card width so every month image area is square.
-    // Subtract a tiny amount for borders/padding to prevent overflow.
-    const width = Math.max(
-      220,
-      Math.round(card.getBoundingClientRect().width - 2)
-    );
-
-    card.style.setProperty("--sfs-card-media-height", `${width}px`);
-    media.style.setProperty("--sfs-card-media-height", `${width}px`);
-
-    [...media.querySelectorAll("img")].forEach(img => {
-      img.style.width = "100%";
-      img.style.height = `${width}px`;
-      img.style.minHeight = `${width}px`;
-      img.style.maxHeight = `${width}px`;
-      img.style.objectFit = "contain";
-      img.style.objectPosition = "center center";
-      img.style.display = "block";
-    });
-  }
-
-  function normalizeAll() {
-    const headings = [...document.querySelectorAll("h1,h2,h3,h4,strong")]
-      .filter(h => MONTH_RE.test((h.textContent || "").trim()));
-
-    headings.forEach(heading => {
-      const card = cardForHeading(heading);
-      if (card) normalizeOne(card, heading);
-    });
-  }
-
-  let timer = null;
-  function schedule() {
-    clearTimeout(timer);
-    timer = setTimeout(normalizeAll, 60);
-  }
-
-  new MutationObserver(schedule).observe(document.body, {
-    childList: true,
-    subtree: true,
-    attributes: true,
-    attributeFilter: ["class", "style", "src"]
-  });
-
-  window.addEventListener("resize", schedule);
-
-  document.addEventListener("DOMContentLoaded", schedule);
-  window.addEventListener("load", schedule);
-
-  // Run several times because the release cards/images are populated asynchronously.
-  schedule();
-  setTimeout(normalizeAll, 300);
-  setTimeout(normalizeAll, 900);
-  setTimeout(normalizeAll, 1800);
-})();
-
-/* Skullforge LARGE carousel viewport + arrow repair */
-(() => {
-  "use strict";
-
-  if (window.__SFS_LARGE_CAROUSEL_REPAIR__) return;
-  window.__SFS_LARGE_CAROUSEL_REPAIR__ = true;
+  if (window.__SFS_CONSOLIDATED_CAROUSEL_REPAIR__) return;
+  window.__SFS_CONSOLIDATED_CAROUSEL_REPAIR__ = true;
 
   const MONTH_RE =
     /^(January|February|March|April|May|June|July|August|September|October|November|December)\s+20\d{2}$/i;
@@ -670,7 +294,7 @@ init().catch(e=>{console.error(e);status.textContent=`Catalog failed to load: ${
         const aria = child.getAttribute("aria-label") || "";
 
         return (
-          (text.length <= 2 && rect.width <= 28 && rect.height <= 28) ||
+          (text.length <= 2 && rect.width <= 30 && rect.height <= 30) ||
           /slide|image/i.test(aria)
         );
       });
@@ -679,77 +303,161 @@ init().catch(e=>{console.error(e);status.textContent=`Catalog failed to load: ${
     }) || null;
   }
 
+  function candidateSlides(carousel) {
+    const imgs = [...carousel.querySelectorAll("img")];
+    const slides = new Set();
+
+    imgs.forEach(img => {
+      let node = img.parentElement;
+
+      while (node && node !== carousel) {
+        const rect = node.getBoundingClientRect();
+        const parentRect = carousel.getBoundingClientRect();
+
+        /*
+          Prefer the nearest image wrapper that is approximately carousel-sized.
+          This catches the slide track items without touching the whole carousel.
+        */
+        if (
+          rect.width > 0 &&
+          parentRect.width > 0 &&
+          rect.width <= parentRect.width * 1.15
+        ) {
+          slides.add(node);
+          break;
+        }
+
+        node = node.parentElement;
+      }
+    });
+
+    return [...slides];
+  }
+
   function repairCard(card, heading) {
     const carousel = findCarousel(card, heading);
     if (!carousel) return;
 
-    card.classList.add("sfs-large-card");
-    carousel.classList.add("sfs-large-carousel");
+    carousel.classList.add("sfs-carousel-repair");
 
     /*
-      4:5 viewport.
-      A 300px card becomes roughly a 375px-tall image area, which is close
-      to the larger original presentation but remains consistent card-to-card.
+      Remove classes from our previous experiments so their CSS no longer wins.
+      This is important for February / Nov 2025 / Sep 2024.
     */
-    const cardWidth = Math.max(
-      220,
-      Math.round(card.getBoundingClientRect().width - 2)
+    card.classList.remove(
+      "sfs-uniform-card",
+      "sfs-force-month-card",
+      "sfs-repaired-card",
+      "sfs-large-card"
     );
 
-    const mediaHeight = Math.round(cardWidth * 1.25);
-
-    card.style.setProperty(
-      "--sfs-large-carousel-height",
-      `${mediaHeight}px`
+    carousel.classList.remove(
+      "sfs-carousel-viewport",
+      "sfs-force-media",
+      "sfs-repaired-carousel",
+      "sfs-large-carousel"
     );
 
-    carousel.style.setProperty(
-      "--sfs-large-carousel-height",
-      `${mediaHeight}px`
-    );
+    // Remove inline variables/heights added by older patches.
+    [
+      "--sfs-card-media-height",
+      "--sfs-carousel-size",
+      "--sfs-large-carousel-height"
+    ].forEach(name => {
+      card.style.removeProperty(name);
+      carousel.style.removeProperty(name);
+    });
 
     [...carousel.querySelectorAll("img")].forEach(img => {
-      img.style.width = "100%";
-      img.style.height = `${mediaHeight}px`;
-      img.style.minHeight = `${mediaHeight}px`;
-      img.style.maxHeight = `${mediaHeight}px`;
+      img.style.removeProperty("height");
+      img.style.removeProperty("min-height");
+      img.style.removeProperty("max-height");
+      img.style.removeProperty("width");
+      img.style.removeProperty("object-fit");
+      img.style.removeProperty("object-position");
+      img.style.removeProperty("display");
+
+      // Then enforce only the safe, non-destructive constraints.
+      img.style.maxWidth = "100%";
+      img.style.height = "auto";
       img.style.objectFit = "contain";
       img.style.objectPosition = "center center";
-      img.style.display = "block";
+      img.style.marginLeft = "auto";
+      img.style.marginRight = "auto";
+    });
+
+    candidateSlides(carousel).forEach(slide => {
+      slide.classList.add("sfs-repair-slide");
+
+      /*
+        Only neutralize pathological horizontal positioning.
+        Do NOT reset the normal visibility/display state used by the carousel.
+      */
+      const style = getComputedStyle(slide);
+      const rect = slide.getBoundingClientRect();
+      const carouselRect = carousel.getBoundingClientRect();
+
+      const tooFarRight = rect.left > carouselRect.right - 20;
+      const tooFarLeft = rect.right < carouselRect.left + 20;
+
+      if (tooFarRight || tooFarLeft) {
+        slide.style.transform = "none";
+        slide.style.translate = "none";
+        slide.style.left = "0";
+        slide.style.right = "0";
+      }
     });
 
     const { prev, next } = navButtons(carousel);
 
-    /*
-      Re-parenting the buttons into the carousel makes their absolute positioning
-      relative to the repaired viewport rather than a clipped inner slide.
-    */
     if (prev) {
-      prev.classList.add("sfs-large-prev");
-      if (prev.parentElement !== carousel) carousel.appendChild(prev);
+      prev.classList.remove(
+        "sfs-carousel-prev",
+        "sfs-large-prev"
+      );
+      prev.classList.add("sfs-repair-prev");
+
+      if (prev.parentElement !== carousel) {
+        carousel.appendChild(prev);
+      }
     }
 
     if (next) {
-      next.classList.add("sfs-large-next");
-      if (next.parentElement !== carousel) carousel.appendChild(next);
+      next.classList.remove(
+        "sfs-carousel-next",
+        "sfs-large-next"
+      );
+      next.classList.add("sfs-repair-next");
+
+      if (next.parentElement !== carousel) {
+        carousel.appendChild(next);
+      }
     }
 
     const dots = dotRow(card);
 
     if (dots) {
-      dots.classList.add("sfs-large-dots");
-
-      const count = dots.children.length;
-
-      dots.classList.toggle(
+      dots.classList.remove(
+        "sfs-dot-row",
+        "sfs-repaired-dots",
+        "sfs-large-dots",
+        "sfs-dots-medium",
+        "sfs-dots-dense",
         "sfs-large-dots-medium",
-        count >= 10 && count < 16
+        "sfs-large-dots-dense"
       );
 
-      dots.classList.toggle(
-        "sfs-large-dots-dense",
-        count >= 16
-      );
+      dots.classList.add("sfs-repair-dots");
+
+      if (dots.children.length >= 16) {
+        dots.classList.add("sfs-repair-dots-dense");
+      } else {
+        dots.classList.remove("sfs-repair-dots-dense");
+      }
+
+      dots.style.removeProperty("overflow");
+      dots.style.removeProperty("gap");
+      dots.style.removeProperty("transform");
     }
   }
 
@@ -767,7 +475,7 @@ init().catch(e=>{console.error(e);status.textContent=`Catalog failed to load: ${
 
   function schedule() {
     clearTimeout(timer);
-    timer = setTimeout(repairAll, 80);
+    timer = setTimeout(repairAll, 100);
   }
 
   new MutationObserver(schedule).observe(document.body, {
