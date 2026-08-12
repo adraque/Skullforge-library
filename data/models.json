@@ -5746,14 +5746,23 @@
     "name": "Arena Beasts Wave 1",
     "name_raw": "Arena Beasts Wave 1",
     "release_id": "discord-2026-07",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/aakulh?layout=profile",
     "tags": [],
     "notes": ""
   },
   {
-    "id": "discord-2026-07-botn-ronin-shinobi",
-    "name": "Botn Ronin Shinobi",
-    "name_raw": "Botn Ronin Shinobi",
+    "id": "discord-2026-07-blade-of-the-ronin-shinobi",
+    "name": "Blade of the Ronin Shinobi",
+    "name_raw": "Blade of the Ronin Shinobi",
+    "release_id": "discord-2026-07",
+    "store_url": "https://skullforgestudios.gumroad.com/l/vuulue?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2026-07-botr",
+    "name": "BOTR",
+    "name_raw": "BOTR",
     "release_id": "discord-2026-07",
     "store_url": "",
     "tags": [],
@@ -5764,7 +5773,7 @@
     "name": "Human Crew Vol 3",
     "name_raw": "Human Crew Vol 3",
     "release_id": "discord-2026-07",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/jdaqw?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5772,15 +5781,6 @@
     "id": "discord-2026-07-hyksos-and-vicar",
     "name": "Hyksos And Vicar",
     "name_raw": "Hyksos And Vicar",
-    "release_id": "discord-2026-07",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2026-07-july-skullforge",
-    "name": "July Skullforge",
-    "name_raw": "July Skullforge",
     "release_id": "discord-2026-07",
     "store_url": "",
     "tags": [],
@@ -5800,7 +5800,7 @@
     "name": "Modern Republic Troopers",
     "name_raw": "Modern Republic Troopers",
     "release_id": "discord-2026-07",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/fxuzd?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5818,7 +5818,7 @@
     "name": "Rat Hound Bust",
     "name_raw": "Rat Hound Bust",
     "release_id": "discord-2026-07",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/dnzkuo?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5827,7 +5827,7 @@
     "name": "Red Star Defense Force",
     "name_raw": "Red Star Defense Force",
     "release_id": "discord-2026-07",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/zppeto?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5841,20 +5841,11 @@
     "notes": ""
   },
   {
-    "id": "discord-2026-07-sfs",
-    "name": "Sfs",
-    "name_raw": "Sfs",
-    "release_id": "discord-2026-07",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
     "id": "discord-2026-07-slam-hawk-patrol-drone",
     "name": "Slam Hawk Patrol Drone",
     "name_raw": "Slam Hawk Patrol Drone",
     "release_id": "discord-2026-07",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/emxwds?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5863,7 +5854,7 @@
     "name": "Warpath Troopers",
     "name_raw": "Warpath Troopers",
     "release_id": "discord-2026-07",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/kkzrkb?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -5872,7 +5863,7 @@
     "name": "Zymbo The Hunter",
     "name_raw": "Zymbo The Hunter",
     "release_id": "discord-2026-07",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/erjcqs?layout=profile",
     "tags": [],
     "notes": ""
   },
