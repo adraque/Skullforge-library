@@ -1131,10 +1131,17 @@
     "id": "discord-2021-12",
     "release_month": "2021-12",
     "title": "December 2021",
-    "cover_image": "images/2021/12/spice_oligarchs.jpg",
+    "cover_image": "images/2021/12/chartruese_champion.jpg",
     "images": [
-      "images/2021/12/spice_oligarchs.jpg",
-      "images/2021/12/golden_sun_syndicate.jpg"
+      "images/2021/12/chartruese_champion.jpg",
+      "images/2021/12/arena_bois.jpg",
+      "images/2021/12/ash_gangers.jpg",
+      "images/2021/12/collab_overview.jpg",
+      "images/2021/12/demon_horse_champion.jpg",
+      "images/2021/12/snow_day_bundle.jpg",
+      "images/2021/12/snow_spider.jpg",
+      "images/2021/12/spotters.jpg",
+      "images/2021/12/thunder_fighter_.jpg"
     ],
     "source": "discord"
   }
