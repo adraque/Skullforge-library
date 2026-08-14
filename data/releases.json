@@ -230,14 +230,8 @@
     "id": "discord-2025-11",
     "release_month": "2025-11",
     "title": "November 2025",
-    "cover_image": "images/2025/11/ARSENAL_mech_bay.jpg",
+    "cover_image": "images/2025/11/the_onryo_ronin.jpg",
     "images": [
-      "images/2025/11/ARSENAL_mech_bay.jpg",
-      "images/2025/11/star_treader.jpg",
-      "images/2025/11/starcruiser_interior.jpg",
-      "images/2025/11/armaments_vol_2.jpg",
-      "images/2025/11/commander_vulkan.jpg",
-      "images/2025/11/red_bear_walker.jpg",
       "images/2025/11/the_onryo_ronin.jpg",
       "images/2025/11/outlaw_archers.jpg",
       "images/2025/11/outlaw_brutes.jpg",
@@ -247,12 +241,13 @@
       "images/2025/11/outlaw_thugs.jpg",
       "images/2025/11/red_mirage.jpg",
       "images/2025/11/vanguard_methuselah.jpg",
-      "images/2025/11/MCV_katana_layout.jpg",
       "images/2025/11/MCV_katana.jpg",
       "images/2025/11/patrol_walker.jpg",
       "images/2025/11/the_chosen_and_gang.jpg",
       "images/2025/11/CT_black_onyx.jpg",
-      "images/2025/11/ANOMALY_staph_of_saturn.jpg"
+      "images/2025/11/ANOMALY_staph_of_saturn.jpg",
+      "images/2025/11/vanguard_patrol_ship.jpg",
+      "images/2025/11/ronin_2.jpg"
     ],
     "source": "discord"
   },
