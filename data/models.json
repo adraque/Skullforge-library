@@ -4284,11 +4284,29 @@
     "notes": ""
   },
   {
+    "id": "discord-2025-10-arsenal-armaments-vol-2",
+    "name": "Arsenal Armaments Vol 2",
+    "name_raw": "Arsenal Armaments Vol 2",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-arsenal-mech-bay",
+    "name": "Arsenal Mech Bay",
+    "name_raw": "Arsenal Mech Bay",
+    "release_id": "discord-2025-10",
+    "store_url": "https://skullforgestudios.gumroad.com/l/qjqqfw?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
     "id": "discord-2025-10-breach-troopers",
     "name": "Breach Troopers",
     "name_raw": "Breach Troopers",
     "release_id": "discord-2025-10",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/aueki?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -4297,23 +4315,41 @@
     "name": "Corpo Field Security",
     "name_raw": "Corpo Field Security",
     "release_id": "discord-2025-10",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/mylbaq?layout=profile",
     "tags": [],
     "notes": ""
   },
   {
-    "id": "discord-2025-10-double-agent",
-    "name": "Double Agent",
-    "name_raw": "Double Agent",
+    "id": "discord-2025-10-earthbound-stalkers",
+    "name": "Earthbound Stalkers",
+    "name_raw": "Earthbound Stalkers",
+    "release_id": "discord-2025-10",
+    "store_url": "https://skullforgestudios.gumroad.com/l/purar?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-ge-smokka-and-jast",
+    "name": "GE Smokka And Jast",
+    "name_raw": "GE Smokka And Jast",
+    "release_id": "discord-2025-10",
+    "store_url": "https://skullforgestudios.gumroad.com/l/foddzk?layout=profile",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "discord-2025-10-intruder-commander-vulkan",
+    "name": "Intruder Commander Vulkan",
+    "name_raw": "Intruder Commander Vulkan",
     "release_id": "discord-2025-10",
     "store_url": "",
     "tags": [],
     "notes": ""
   },
   {
-    "id": "discord-2025-10-fireteam-epsilon",
-    "name": "Fireteam Epsilon",
-    "name_raw": "Fireteam Epsilon",
+    "id": "discord-2025-10-intruder-red-bear-walker",
+    "name": "Intruder Red Bear Walker",
+    "name_raw": "Intruder Red Bear Walker",
     "release_id": "discord-2025-10",
     "store_url": "",
     "tags": [],
@@ -4329,15 +4365,6 @@
     "notes": ""
   },
   {
-    "id": "discord-2025-10-lynx-unit",
-    "name": "Lynx Unit",
-    "name_raw": "Lynx Unit",
-    "release_id": "discord-2025-10",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
     "id": "discord-2025-10-ronin-ic",
     "name": "Ronin Ic",
     "name_raw": "Ronin Ic",
@@ -4347,29 +4374,11 @@
     "notes": ""
   },
   {
-    "id": "discord-2025-10-smokka-and-jast",
-    "name": "Smokka And Jast",
-    "name_raw": "Smokka And Jast",
+    "id": "discord-2025-10-starhawk-fighter",
+    "name": "Starhawk Fighter",
+    "name_raw": "Starhawk Fighter",
     "release_id": "discord-2025-10",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2025-10-stalkers",
-    "name": "Stalkers",
-    "name_raw": "Stalkers",
-    "release_id": "discord-2025-10",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2025-10-starhawk",
-    "name": "Starhawk",
-    "name_raw": "Starhawk",
-    "release_id": "discord-2025-10",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/pgjviz?layout=profile",
     "tags": [],
     "notes": ""
   },
@@ -4378,25 +4387,7 @@
     "name": "Starhawk Pilots",
     "name_raw": "Starhawk Pilots",
     "release_id": "discord-2025-10",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2025-10-stealth-python",
-    "name": "Stealth Python",
-    "name_raw": "Stealth Python",
-    "release_id": "discord-2025-10",
-    "store_url": "",
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "id": "discord-2025-10-zero-squad",
-    "name": "Zero Squad",
-    "name_raw": "Zero Squad",
-    "release_id": "discord-2025-10",
-    "store_url": "",
+    "store_url": "https://skullforgestudios.gumroad.com/l/vkiaw?layout=profile",
     "tags": [],
     "notes": ""
   },
