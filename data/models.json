@@ -8225,18 +8225,20 @@
     "collection": "",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/07/Arena_Beasts_wave_1.jpg"
+    ],
     "sort_order": 1
   },
   {
-    "id": "discord-2026-07-blade-of-the-ronin-shinobi",
-    "name": "Blade of the Ronin Shinobi",
-    "name_raw": "Blade of the Ronin Shinobi",
+    "id": "discord-2026-07-blade-of-the-nomad-ronin-the-shinobi",
+    "name": "Blade of the Nomad Ronin: The Shinobi",
+    "name_raw": "Blade of the Nomad Ronin: The Shinobi",
     "release_id": "discord-2026-07",
     "store_url": "https://skullforgestudios.gumroad.com/l/vuulue?layout=profile",
     "tags": [],
-    "collection": "",
-    "type": "",
+    "collection": "Blade of the Nomad",
+    "type": "Squad",
     "notes": "",
     "image_refs": [],
     "sort_order": 2
