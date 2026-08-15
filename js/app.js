@@ -1,6 +1,30 @@
 let releases = [];
 let models = [];
 
+const catalogFeatures = [];
+const siteFeatureFlags = window.SKULLFORGE_SITE_FEATURES || {};
+
+function registerCatalogFeature(feature) {
+  if (feature && feature.id) catalogFeatures.push(feature);
+}
+
+function catalogHook(name, context) {
+  for (const feature of catalogFeatures) {
+    if (typeof feature[name] === 'function') {
+      feature[name](context, window.SkullforgeCatalog);
+    }
+  }
+}
+
+window.SkullforgeCatalog = {
+  registerFeature: registerCatalogFeature,
+  featureFlags: siteFeatureFlags,
+  get releases() { return releases; },
+  get models() { return models; },
+  render: () => render(),
+  modelsForRelease: id => modelsForRelease(id),
+};
+
 const searchInput = document.querySelector('#search');
 const yearFilter = document.querySelector('#year-filter');
 const results = document.querySelector('#results');
@@ -18,7 +42,12 @@ async function loadJson(path) {
 }
 
 function modelsForRelease(id) {
-  return models.filter(model => model.release_id === id);
+  return models
+    .filter(model => model.release_id === id)
+    .sort((a, b) =>
+      Number(a.sort_order || 999999) - Number(b.sort_order || 999999) ||
+      String(a.name || '').localeCompare(String(b.name || ''))
+    );
 }
 
 function searchableText(release) {
@@ -28,6 +57,9 @@ function searchableText(release) {
     ...modelsForRelease(release.id).flatMap(model => [
       model.name,
       model.name_raw,
+      model.collection,
+      model.type,
+      model.notes,
       ...(model.tags || []),
     ]),
   ]
@@ -277,7 +309,7 @@ function makeCarousel(wrap, release) {
     empty.className = 'image-placeholder';
     empty.textContent = 'No preview image';
     wrap.appendChild(empty);
-    return;
+    return { paths: [], showPath() {}, showIndex() {} };
   }
 
   let index = 0;
@@ -396,6 +428,23 @@ function makeCarousel(wrap, release) {
   wrap.append(viewport, dots);
 
   update();
+
+  return {
+    paths,
+    showIndex(nextIndex) {
+      if (!paths.length) return;
+      index = Math.max(0, Math.min(paths.length - 1, Number(nextIndex) || 0));
+      update();
+    },
+    showPath(path) {
+      const found = paths.indexOf(path);
+      if (found >= 0) {
+        index = found;
+        update();
+        wrap.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+    },
+  };
 }
 
 /* ============================================================
@@ -419,12 +468,23 @@ function render() {
         !query ||
         searchableText(release).includes(query);
 
-      return yearMatches && searchMatches;
-    })
-    .sort((a, b) =>
-      String(b.release_month)
-        .localeCompare(String(a.release_month)),
-    );
+      if (!yearMatches || !searchMatches) return false;
+
+      const context = {
+        release,
+        models: modelsForRelease(release.id),
+        include: true,
+      };
+      catalogHook('filterRelease', context);
+      return context.include !== false;
+    });
+
+  const sortContext = {
+    releases: filtered,
+    comparator: (a, b) => String(b.release_month).localeCompare(String(a.release_month)),
+  };
+  catalogHook('configureSort', sortContext);
+  filtered.sort(sortContext.comparator);
 
   results.replaceChildren();
 
@@ -446,7 +506,7 @@ function render() {
       release.title ||
       release.release_month;
 
-    makeCarousel(
+    const carousel = makeCarousel(
       node.querySelector('.image-wrap'),
       release,
     );
@@ -456,38 +516,26 @@ function render() {
 
     modelsForRelease(release.id)
       .forEach(model => {
+        const wrapper = document.createElement('span');
+        wrapper.className = 'model-tag-wrap';
+
+        let label;
         if (model.store_url) {
-          const link =
-            document.createElement('a');
-
-          link.className =
-            'model-tag model-link';
-
-          link.textContent =
-            model.name;
-
-          link.href =
-            model.store_url;
-
-          link.target =
-            '_blank';
-
-          link.rel =
-            'noopener noreferrer';
-
-          tags.appendChild(link);
+          label = document.createElement('a');
+          label.className = 'model-tag model-link';
+          label.textContent = model.name;
+          label.href = model.store_url;
+          label.target = '_blank';
+          label.rel = 'noopener noreferrer';
         } else {
-          const tag =
-            document.createElement('span');
-
-          tag.className =
-            'model-tag';
-
-          tag.textContent =
-            model.name;
-
-          tags.appendChild(tag);
+          label = document.createElement('span');
+          label.className = 'model-tag';
+          label.textContent = model.name;
         }
+
+        wrapper.appendChild(label);
+        catalogHook('decorateModel', { wrapper, label, model, release, carousel });
+        tags.appendChild(wrapper);
       });
 
     const oldLink =
@@ -533,6 +581,7 @@ async function init() {
       yearFilter.appendChild(option);
     });
 
+  catalogHook('onInit', { releases, models });
   ensureLightbox();
   render();
 }
@@ -547,9 +596,9 @@ yearFilter.addEventListener(
   render,
 );
 
-init().catch(error => {
-  console.error(error);
-
-  status.textContent =
-    `Catalog failed to load: ${error.message}`;
-});
+document.addEventListener('DOMContentLoaded', () => {
+  init().catch(error => {
+    console.error(error);
+    status.textContent = `Catalog failed to load: ${error.message}`;
+  });
+}, { once: true });

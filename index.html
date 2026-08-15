@@ -5,7 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Skullforge Library</title>
   <meta name="description" content="Personal searchable catalog of Skullforge Studios releases.">
+  <link rel="stylesheet" href="css/theme.css">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/features.css">
 </head>
 <body>
   <header class="site-header">
@@ -15,7 +17,6 @@
       <p class="lede">Search models, tags, and monthly releases.</p>
     </div>
   </header>
-
   <main class="wrap">
     <section class="controls" aria-label="Catalog filters">
       <label>
@@ -30,11 +31,9 @@
         </select>
       </label>
     </section>
-
     <p id="status" class="status">Loading catalog…</p>
     <section id="results" class="grid" aria-live="polite"></section>
   </main>
-
   <template id="release-card-template">
     <article class="card">
       <div class="image-wrap">
@@ -49,7 +48,9 @@
       </div>
     </article>
   </template>
-
+  <script src="js/features-config.js" defer></script>
   <script src="js/app.js" defer></script>
+  <script src="js/features/filters.js" defer></script>
+  <script src="js/features/image-associations.js" defer></script>
 </body>
 </html>
