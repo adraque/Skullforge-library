@@ -8267,7 +8267,7 @@
     "release_id": "discord-2026-07",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
     "image_refs": [
@@ -8284,7 +8284,7 @@
     "release_id": "discord-2026-07",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
     "image_refs": [
@@ -8300,8 +8300,8 @@
     "store_url": "https://skullforgestudios.gumroad.com/l/fxuzd?layout=profile",
     "tags": [],
     "collection": "",
-    "type": "",
-    "notes": "",
+    "type": "Squad",
+    "notes": "Star Wars, Clone Troopers, Modern",
     "image_refs": [
       "images/2026/07/modern_republic_troopers.jpg"
     ],
@@ -8314,9 +8314,9 @@
     "release_id": "discord-2026-07",
     "store_url": "",
     "tags": [],
-    "collection": "",
-    "type": "",
-    "notes": "",
+    "collection": "Arsenal",
+    "type": "Character",
+    "notes": "Pilot, patreon exclusive",
     "image_refs": [
       "images/2026/07/pilot_vicar.jpg"
     ],
