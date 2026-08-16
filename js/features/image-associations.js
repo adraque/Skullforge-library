@@ -11,6 +11,8 @@
       const usable = refs.find(ref => carousel.paths?.includes(ref));
       if (!usable) return;
 
+      wrapper.classList.add('has-image-jump');
+
       const button = document.createElement('button');
       button.type = 'button';
       button.className = 'model-image-jump';

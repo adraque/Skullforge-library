@@ -42,12 +42,16 @@
       document.documentElement.classList.add('sf-feature-filters');
       const container = document.querySelector('.controls');
       controls.collection = addSelect(container, 'collection-filter', 'Collection / range', 'All collections');
-      controls.type = addSelect(container, 'type-filter', 'Type', 'All types');
+      if (sf.featureFlags.typeFilter !== false) {
+        controls.type = addSelect(container, 'type-filter', 'Type', 'All types');
+      }
       controls.tag = addSelect(container, 'tag-filter', 'Tag', 'All tags');
       controls.sort = addSelect(container, 'sort-filter', 'Sort', 'Newest first');
 
       populate(controls.collection, models.map(model => model.collection));
-      populate(controls.type, models.map(model => model.type));
+      if (controls.type) {
+        populate(controls.type, models.map(model => model.type));
+      }
       populate(controls.tag, models.flatMap(model => model.tags || []));
 
       [
@@ -61,7 +65,7 @@
         controls.sort.appendChild(option);
       });
 
-      Object.values(controls).forEach(control => {
+      Object.values(controls).filter(Boolean).forEach(control => {
         control.addEventListener('change', () => sf.render());
       });
     },
