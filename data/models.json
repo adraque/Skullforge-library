@@ -8420,10 +8420,12 @@
     "release_id": "discord-2026-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Firmament",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/08/company_salvagers.jpg"
+    ],
     "sort_order": 1
   },
   {
@@ -8433,10 +8435,12 @@
     "release_id": "discord-2026-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Firmament",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/08/heavy_breachers.jpg"
+    ],
     "sort_order": 2
   },
   {
@@ -8446,10 +8450,42 @@
     "release_id": "discord-2026-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Firmament",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/08/rapid_response_breachers.jpg"
+    ],
     "sort_order": 3
+  },
+  {
+    "id": "discord-2026-08-greathelm-blue-warband",
+    "name": "Greathelm Blue Warband",
+    "name_raw": "Greathelm Blue Warband",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "Greathelm",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/08/unnamed_1.png"
+    ],
+    "sort_order": 4
+  },
+  {
+    "id": "discord-2026-08-greathelm-red-warband",
+    "name": "Greathelm Red Warband",
+    "name_raw": "Greathelm Red Warband",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "Greathelm",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/08/unnamed_2.png"
+    ],
+    "sort_order": 5
   }
 ]
