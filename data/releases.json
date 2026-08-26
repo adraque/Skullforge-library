@@ -1149,5 +1149,41 @@
       "images/2021/12/thunder_fighter_.jpg"
     ],
     "source": "discord"
+  },
+  {
+    "id": "discord-2021-10",
+    "release_month": "2021-10",
+    "title": "October 2021",
+    "cover_image": "images/2021/10/chapter_2_preview.jpg",
+    "images": [
+      "images/2021/10/chapter_2_preview.jpg",
+      "images/2021/10/1.jpg",
+      "images/2021/10/11.png",
+      "images/2021/10/busidowizard_warrior_bundle.jpg",
+      "images/2021/10/double_tap_hunter.jpg",
+      "images/2021/10/hh1.png",
+      "images/2021/10/journey-forgem_content.jpg",
+      "images/2021/10/LoV.jpg",
+      "images/2021/10/masterful_tactician.jpg",
+      "images/2021/10/omnitron.png",
+      "images/2021/10/revenant.jpg",
+      "images/2021/10/seasoned_nomads.jpg",
+      "images/2021/10/stout_assassins.jpg",
+      "images/2021/10/usurper_lion.jpg"
+    ],
+    "source": "discord"
+  },
+  {
+    "id": "discord-2021-09",
+    "release_month": "2021-09",
+    "title": "September 2021",
+    "cover_image": "images/2021/09/welcome_pack.jpg",
+    "images": [
+      "images/2021/09/welcome_pack.jpg",
+      "images/2021/09/super_zombies_.jpg",
+      "images/2021/09/thunder_merc_goal.jpg",
+      "images/2021/09/valkyrie_duel.jpg"
+    ],
+    "source": "discord"
   }
 ]

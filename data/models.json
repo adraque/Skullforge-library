@@ -1,5 +1,245 @@
 [
   {
+    "id": "discord-2021-09-super-zombies",
+    "name": "Super Zombies",
+    "name_raw": "Super Zombies",
+    "release_id": "discord-2021-09",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Marvel Zombies MCP Protocol Crisis",
+    "image_refs": [
+      "images/2021/09/super_zombies_.jpg"
+    ],
+    "sort_order": 1
+  },
+  {
+    "id": "discord-2021-09-thunder-merc",
+    "name": "Thunder Merc",
+    "name_raw": "Thunder Merc",
+    "release_id": "discord-2021-09",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Star Wars Legion",
+    "image_refs": [
+      "images/2021/09/thunder_merc_goal.jpg"
+    ],
+    "sort_order": 2
+  },
+  {
+    "id": "discord-2021-09-valkyrie-duel",
+    "name": "Valkyrie Duel",
+    "name_raw": "Valkyrie Duel",
+    "release_id": "discord-2021-09",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Star Wars Legion Mandalorian Droid",
+    "image_refs": [
+      "images/2021/09/valkyrie_duel.jpg"
+    ],
+    "sort_order": 3
+  },
+  {
+    "id": "discord-2021-09-patreon-welcome-pack",
+    "name": "Patreon Welcome Pack",
+    "name_raw": "Patreon Welcome Pack",
+    "release_id": "discord-2021-09",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Star Wars Stormtrooper Rogue One Empire",
+    "image_refs": [
+      "images/2021/09/welcome_pack.jpg"
+    ],
+    "sort_order": 4
+  },
+  {
+    "id": "discord-2021-10-usurper-lion",
+    "name": "Usurper Lion",
+    "name_raw": "Usurper Lion",
+    "release_id": "discord-2021-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Marvel MCP Killmonger MCU",
+    "image_refs": [
+      "images/2021/10/usurper_lion.jpg"
+    ],
+    "sort_order": 1
+  },
+  {
+    "id": "discord-2021-10-stout-assassins",
+    "name": "Stout Assassins",
+    "name_raw": "Stout Assassins",
+    "release_id": "discord-2021-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Star Wars Legion",
+    "image_refs": [
+      "images/2021/10/stout_assassins.jpg"
+    ],
+    "sort_order": 2
+  },
+  {
+    "id": "discord-2021-10-seasoned-nomads",
+    "name": "Seasoned Nomads",
+    "name_raw": "Seasoned Nomads",
+    "release_id": "discord-2021-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "Oasis Imperium",
+    "type": "",
+    "notes": "Dune Fremen Sand",
+    "image_refs": [
+      "images/2021/10/seasoned_nomads.jpg"
+    ],
+    "sort_order": 3
+  },
+  {
+    "id": "discord-2021-10-revenant",
+    "name": "Revenant",
+    "name_raw": "Revenant",
+    "release_id": "discord-2021-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Star Wars Legion Darth Revan",
+    "image_refs": [
+      "images/2021/10/revenant.jpg"
+    ],
+    "sort_order": 4
+  },
+  {
+    "id": "discord-2021-10-omnitron",
+    "name": "Omnitron",
+    "name_raw": "Omnitron",
+    "release_id": "discord-2021-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "MCP MCU Ultron Marvel Crisis Protocol",
+    "image_refs": [
+      "images/2021/10/omnitron.png"
+    ],
+    "sort_order": 5
+  },
+  {
+    "id": "discord-2021-10-masterful-tactician",
+    "name": "Masterful Tactician",
+    "name_raw": "Masterful Tactician",
+    "release_id": "discord-2021-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Star Wars Legion General Veers",
+    "image_refs": [
+      "images/2021/10/masterful_tactician.jpg"
+    ],
+    "sort_order": 6
+  },
+  {
+    "id": "discord-2021-10-lord-of-vegas",
+    "name": "Lord of Vegas",
+    "name_raw": "Lord of Vegas",
+    "release_id": "discord-2021-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "MCU MCP What If Marvel Crisis Protocol Thor",
+    "image_refs": [
+      "images/2021/10/LoV.jpg"
+    ],
+    "sort_order": 7
+  },
+  {
+    "id": "discord-2021-10-halloween-heroes",
+    "name": "Halloween Heroes",
+    "name_raw": "Halloween Heroes",
+    "release_id": "discord-2021-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "MCP MCU Wandavision Wanda Vision Marvel Crisis Protocol Scarlet Witch",
+    "image_refs": [
+      "images/2021/10/hh1.png"
+    ],
+    "sort_order": 8
+  },
+  {
+    "id": "discord-2021-10-double-tap-hunter",
+    "name": "Double Tap Hunter",
+    "name_raw": "Double Tap Hunter",
+    "release_id": "discord-2021-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Star Wars Jawa Bounty Hunter Legion",
+    "image_refs": [
+      "images/2021/10/double_tap_hunter.jpg"
+    ],
+    "sort_order": 9
+  },
+  {
+    "id": "discord-2021-10-bushido-wizard-warrior-bundle",
+    "name": "Bushido Wizard Warrior Bundle",
+    "name_raw": "Bushido Wizard Warrior Bundle",
+    "release_id": "discord-2021-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Star Wars Legion Jedi",
+    "image_refs": [
+      "images/2021/10/busidowizard_warrior_bundle.jpg"
+    ],
+    "sort_order": 10
+  },
+  {
+    "id": "discord-2021-10-squid-game-guards",
+    "name": "Squid Game Guards",
+    "name_raw": "Squid Game Guards",
+    "release_id": "discord-2021-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2021/10/11.png"
+    ],
+    "sort_order": 11
+  },
+  {
+    "id": "discord-2021-10-hizzle-wizzle",
+    "name": "Hizzle Wizzle",
+    "name_raw": "Hizzle Wizzle",
+    "release_id": "discord-2021-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Snoop Dogg Mandalorian",
+    "image_refs": [
+      "images/2021/10/1.jpg"
+    ],
+    "sort_order": 12
+  },
+  {
     "id": "discord-2021-12-arena-bois",
     "name": "Arena Bois",
     "name_raw": "Arena Bois",
