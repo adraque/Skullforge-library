@@ -8215,10 +8215,12 @@
     "release_id": "discord-2026-06",
     "store_url": "https://skullforgestudios.gumroad.com/l/advjnm?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/06/armaments_vol_3.jpg"
+    ],
     "sort_order": 1
   },
   {
@@ -8230,8 +8232,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Star Fox",
+    "image_refs": [
+      "images/2026/06/captain_vulpes.jpg"
+    ],
     "sort_order": 2
   },
   {
@@ -8243,8 +8247,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Star Wars Legion Zeb",
+    "image_refs": [
+      "images/2026/06/captain_zed.jpg"
+    ],
     "sort_order": 3
   },
   {
@@ -8256,8 +8262,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Star Fox Slippy",
+    "image_refs": [
+      "images/2026/06/engineer_slicky.jpg"
+    ],
     "sort_order": 4
   },
   {
@@ -8269,8 +8277,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Star Fox",
+    "image_refs": [
+      "images/2026/06/fox_squadron.jpg"
+    ],
     "sort_order": 5
   },
   {
@@ -8280,24 +8290,13 @@
     "release_id": "discord-2026-06",
     "store_url": "https://skullforgestudios.gumroad.com/l/rkmmia?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Heck Divers",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/06/heck_divers_trench_guardians.jpg"
+    ],
     "sort_order": 6
-  },
-  {
-    "id": "discord-2026-06-legendary-khopesh-hyksos",
-    "name": "Legendary Khopesh Hyksos",
-    "name_raw": "Legendary Khopesh Hyksos",
-    "release_id": "discord-2026-06",
-    "store_url": "",
-    "tags": [],
-    "collection": "",
-    "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 7
   },
   {
     "id": "discord-2026-06-leviathan-albinox-serpent",
@@ -8308,9 +8307,11 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 8
+    "notes": "Star Wars",
+    "image_refs": [
+      "images/2026/06/leviathan_albinox_serpent.jpg"
+    ],
+    "sort_order": 7
   },
   {
     "id": "discord-2026-06-lieutenant-lagos",
@@ -8321,9 +8322,11 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 9
+    "notes": "Star Fox Peppy",
+    "image_refs": [
+      "images/2026/06/lieutenant_lagos.jpg"
+    ],
+    "sort_order": 8
   },
   {
     "id": "discord-2026-06-mcv-khopesh",
@@ -8332,11 +8335,13 @@
     "release_id": "discord-2026-06",
     "store_url": "https://skullforgestudios.gumroad.com/l/mdwpco?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
-    "sort_order": 10
+    "image_refs": [
+      "images/2026/06/MCV_Khopesh.jpg"
+    ],
+    "sort_order": 9
   },
   {
     "id": "discord-2026-06-mechanical-mercenaries-vol-2",
@@ -8347,9 +8352,11 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 11
+    "notes": "Star Wars Legion Droids",
+    "image_refs": [
+      "images/2026/06/mechanical_mercenaries_vol_2.jpg"
+    ],
+    "sort_order": 10
   },
   {
     "id": "discord-2026-06-meechanical-mercenaries-vol-1",
@@ -8360,9 +8367,11 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 12
+    "notes": "Star Wars Legion Droids",
+    "image_refs": [
+      "images/2026/06/meechanical_mercenaries_vol_1.jpg"
+    ],
+    "sort_order": 11
   },
   {
     "id": "discord-2026-06-rotan-the-pit-fighter",
@@ -8373,9 +8382,11 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 13
+    "notes": "Star Wars Rotta the Hutt",
+    "image_refs": [
+      "images/2026/06/Rotan_the_Pit_Fighter.jpg"
+    ],
+    "sort_order": 12
   },
   {
     "id": "discord-2026-06-samsara-end-cycle-statue",
@@ -8384,11 +8395,13 @@
     "release_id": "discord-2026-06",
     "store_url": "https://skullforgestudios.gumroad.com/l/elshrv?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
-    "sort_order": 14
+    "image_refs": [
+      "images/2026/06/samsara_END_CYCLE_statue.jpg"
+    ],
+    "sort_order": 13
   },
   {
     "id": "discord-2026-06-samsara-protoype",
@@ -8397,11 +8410,13 @@
     "release_id": "discord-2026-06",
     "store_url": "https://skullforgestudios.gumroad.com/l/adncxw?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
-    "sort_order": 15
+    "image_refs": [
+      "images/2026/06/samsara_protoype.jpg"
+    ],
+    "sort_order": 14
   },
   {
     "id": "discord-2026-06-samsara-sentry",
@@ -8410,11 +8425,13 @@
     "release_id": "discord-2026-06",
     "store_url": "https://skullforgestudios.gumroad.com/l/liztod?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
-    "sort_order": 16
+    "image_refs": [
+      "images/2026/06/Samsara_Sentry.jpg"
+    ],
+    "sort_order": 15
   },
   {
     "id": "discord-2026-06-starwing-fighter",
@@ -8425,9 +8442,11 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 17
+    "notes": "Star Fox Arwing",
+    "image_refs": [
+      "images/2026/06/starwing_fighter.jpg"
+    ],
+    "sort_order": 16
   },
   {
     "id": "discord-2026-06-starwing-fighter-scale",
@@ -8438,9 +8457,11 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 18
+    "notes": "Star Fox Arwing",
+    "image_refs": [
+      "images/2026/06/starwing_fighter_scale.jpg"
+    ],
+    "sort_order": 17
   },
   {
     "id": "discord-2026-06-wingman-osprey",
@@ -8451,9 +8472,11 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 19
+    "notes": "Star Fox Falco",
+    "image_refs": [
+      "images/2026/06/wingman_osprey.jpg"
+    ],
+    "sort_order": 18
   },
   {
     "id": "discord-2026-07-arena-beasts-wave-1",
