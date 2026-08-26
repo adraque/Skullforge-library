@@ -240,6 +240,36 @@
     "sort_order": 12
   },
   {
+    "id": "discord-2021-11-mouse-messiah",
+    "name": "Mouse Messiah",
+    "name_raw": "Mouse Messiah",
+    "release_id": "discord-2021-11",
+    "store_url": "https://skullforgestudios.gumroad.com/l/prrjeh?layout=profile",
+    "tags": [],
+    "collection": "Oasis Imperium",
+    "type": "",
+    "notes": "Paul Atreides Dune Sand Muad'Dib Muaddib Lisan al-Gaib Usul",
+    "image_refs": [
+      "images/2021/11/111.jpg"
+    ],
+    "sort_order": 1
+  },
+  {
+    "id": "discord-2021-11-canned-heat-drone",
+    "name": "Canned Heat Drone",
+    "name_raw": "Canned Heat Drone",
+    "release_id": "discord-2021-11",
+    "store_url": "https://skullforgestudios.gumroad.com/l/rrZhU?layout=profile",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Star Wars Droid",
+    "image_refs": [
+      "images/2021/11/img.jpg"
+    ],
+    "sort_order": 2
+  },
+  {
     "id": "discord-2021-12-arena-bois",
     "name": "Arena Bois",
     "name_raw": "Arena Bois",

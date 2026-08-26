@@ -1151,6 +1151,23 @@
     "source": "discord"
   },
   {
+    "id": "discord-2021-11",
+    "release_month": "2021-11",
+    "title": "November 2021",
+    "cover_image": "images/2021/11/111.jpg",
+    "images": [
+      "images/2021/11/111.jpg",
+      "images/2021/11/11.jpg",
+      "images/2021/11/ball_b_1.jpg",
+      "images/2021/11/bbdrone.jpg",
+      "images/2021/11/beefd1.jpg",
+      "images/2021/11/image.jpg",
+      "images/2021/11/img.jpg",
+      "images/2021/11/nov_1.jpg"
+    ],
+    "source": "discord"
+  },
+  {
     "id": "discord-2021-10",
     "release_month": "2021-10",
     "title": "October 2021",
