@@ -45,14 +45,18 @@
       if (sf.featureFlags.typeFilter !== false) {
         controls.type = addSelect(container, 'type-filter', 'Type', 'All types');
       }
-      controls.tag = addSelect(container, 'tag-filter', 'Tag', 'All tags');
+      if (sf.featureFlags.tagFilter !== false) {
+        controls.tag = addSelect(container, 'tag-filter', 'Tag', 'All tags');
+      }
       controls.sort = addSelect(container, 'sort-filter', 'Sort', 'Newest first');
 
       populate(controls.collection, models.map(model => model.collection));
       if (controls.type) {
         populate(controls.type, models.map(model => model.type));
       }
-      populate(controls.tag, models.flatMap(model => model.tags || []));
+      if (controls.tag) {
+        populate(controls.tag, models.flatMap(model => model.tags || []));
+      }
 
       [
         ['oldest', 'Oldest first'],
