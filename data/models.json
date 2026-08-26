@@ -8487,5 +8487,65 @@
       "images/2026/08/unnamed_2.png"
     ],
     "sort_order": 5
+  },
+  {
+    "id": "discord-2026-08-vark-husc-drones",
+    "name": "Vark Husc Drones",
+    "name_raw": "Vark Husc Drones",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "Arsenal",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/08/VARK_HUSC_DRONES.jpg"
+    ],
+    "sort_order": 6
+  },
+  {
+    "id": "discord-2026-08-arsenal-fireteam-eta",
+    "name": "Arsenal Fireteam Eta",
+    "name_raw": "Arsenal Fireteam Eta",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "Arsenal",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/08/Arsenal_Fireteam_ETA.jpg"
+    ],
+    "sort_order": 7
+  },
+  {
+    "id": "discord-2026-08-arsenal-infantry-backpacks",
+    "name": "Arsenal Infantry Backpacks",
+    "name_raw": "Arsenal Infantry Backpacks",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "Arsenal",
+    "type": "",
+    "notes": "Specialist",
+    "image_refs": [
+      "images/2026/08/Arsenal_infantry_backpacks.jpg"
+    ],
+    "sort_order": 8
+  },
+  {
+    "id": "discord-2026-08-garcon-husc-drones",
+    "name": "Garcon Husc Drones",
+    "name_raw": "Garcon Husc Drones",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "Arsenal",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/08/GARCON_HUSC_DRONES.jpg"
+    ],
+    "sort_order": 9
   }
 ]
