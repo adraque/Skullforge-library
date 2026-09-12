@@ -7366,7 +7366,9 @@
     "collection": "",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/aardvark_hardsuit.jpg"
+    ],
     "sort_order": 1
   },
   {
@@ -7376,10 +7378,12 @@
     "release_id": "discord-2026-02",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/amor_armor.jpg"
+    ],
     "sort_order": 2
   },
   {
@@ -7389,10 +7393,12 @@
     "release_id": "discord-2026-02",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/love_on_the_battlefield.jpg"
+    ],
     "sort_order": 3
   },
   {
@@ -7402,10 +7408,12 @@
     "release_id": "discord-2026-02",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/arsenal_MCV_stiletto.jpg"
+    ],
     "sort_order": 4
   },
   {
@@ -7417,8 +7425,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars battle droids",
+    "image_refs": [
+      "images/2026/02/d1_battle_drones.jpg"
+    ],
     "sort_order": 5
   },
   {
@@ -7430,8 +7440,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2026/02/disguised_hunter_1.jpg"
+    ],
     "sort_order": 6
   },
   {
@@ -7443,8 +7455,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2026/02/disguised_hunter_2.jpg"
+    ],
     "sort_order": 7
   },
   {
@@ -7456,8 +7470,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2026/02/forte_space_wizard.jpg"
+    ],
     "sort_order": 8
   },
   {
@@ -7467,10 +7483,12 @@
     "release_id": "discord-2026-02",
     "store_url": "https://skullforgestudios.gumroad.com/l/lynxg?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Gambits Edge",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars empire",
+    "image_refs": [
+      "images/2026/02/GE_authority_elite_force.jpg"
+    ],
     "sort_order": 9
   },
   {
@@ -7480,10 +7498,12 @@
     "release_id": "discord-2026-02",
     "store_url": "https://skullforgestudios.gumroad.com/l/pmmwt?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Gambits Edge",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/GE_authority_infantry_troopers.jpg"
+    ],
     "sort_order": 10
   },
   {
@@ -7493,10 +7513,12 @@
     "release_id": "discord-2026-02",
     "store_url": "https://skullforgestudios.gumroad.com/l/yoyhj?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/hunter_specialist.jpg"
+    ],
     "sort_order": 11
   },
   {
@@ -7506,10 +7528,12 @@
     "release_id": "discord-2026-02",
     "store_url": "https://skullforgestudios.gumroad.com/l/luhkkv?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Oasis Imperium",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Dune",
+    "image_refs": [
+      "images/2026/02/imperial_guard.jpg"
+    ],
     "sort_order": 12
   },
   {
@@ -7519,10 +7543,12 @@
     "release_id": "discord-2026-02",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/love_and_mechs.jpg"
+    ],
     "sort_order": 13
   },
   {
@@ -7532,10 +7558,12 @@
     "release_id": "discord-2026-02",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/love_on_the_battlefield.jpg"
+    ],
     "sort_order": 14
   },
   {
@@ -7543,12 +7571,14 @@
     "name": "Love On The Battlefield Electi",
     "name_raw": "Love On The Battlefield Electi",
     "release_id": "discord-2026-02",
-    "store_url": "",
+    "store_url": "https://www.electi-studio.com/store/p/love-on-the-battlefield",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/love_on_the_battlefield_electi.jpg"
+    ],
     "sort_order": 15
   },
   {
@@ -7558,10 +7588,12 @@
     "release_id": "discord-2026-02",
     "store_url": "https://skullforgestudios.gumroad.com/l/yjhqno?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/love_over_everything.jpg"
+    ],
     "sort_order": 16
   },
   {
@@ -7571,10 +7603,12 @@
     "release_id": "discord-2026-02",
     "store_url": "https://skullforgestudios.gumroad.com/l/vhaozr?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/qpid_freelancers.jpg"
+    ],
     "sort_order": 17
   },
   {
@@ -7584,10 +7618,12 @@
     "release_id": "discord-2026-02",
     "store_url": "https://skullforgestudios.gumroad.com/l/cinlqy?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arc Raiders",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/raider_troubadors.jpg"
+    ],
     "sort_order": 18
   },
   {
@@ -7597,10 +7633,12 @@
     "release_id": "discord-2026-02",
     "store_url": "https://skullforgestudios.gumroad.com/l/gxdokd?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arc Raiders",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/raider_voltaire_mercs.jpg"
+    ],
     "sort_order": 19
   },
   {
@@ -7610,10 +7648,12 @@
     "release_id": "discord-2026-02",
     "store_url": "https://skullforgestudios.gumroad.com/l/bjtqgy?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arc Raiders",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/raider_wasp_bot.jpg"
+    ],
     "sort_order": 20
   },
   {
@@ -7625,8 +7665,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2026/02/republic_combat_engineers.jpg"
+    ],
     "sort_order": 21
   },
   {
@@ -7636,10 +7678,12 @@
     "release_id": "discord-2026-02",
     "store_url": "https://skullforgestudios.gumroad.com/l/fztuw?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Oasis Imperium",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Dune",
+    "image_refs": [
+      "images/2026/02/reverent_sisters.jpg"
+    ],
     "sort_order": 22
   },
   {
@@ -7649,10 +7693,12 @@
     "release_id": "discord-2026-02",
     "store_url": "https://skullforgestudios.gumroad.com/l/lrayq?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Oasis Imperium",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/the_emperor.jpg"
+    ],
     "sort_order": 23
   },
   {
@@ -7662,10 +7708,12 @@
     "release_id": "discord-2026-02",
     "store_url": "https://skullforgestudios.gumroad.com/l/syugz?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Oasis Imperium",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/02/the_princess.jpg"
+    ],
     "sort_order": 24
   },
   {
