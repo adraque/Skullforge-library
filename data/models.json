@@ -7155,8 +7155,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "starship troopers",
+    "image_refs": [
+      "images/2026/01/arachno_space_bugs.jpg"
+    ],
     "sort_order": 1
   },
   {
@@ -7166,10 +7168,12 @@
     "release_id": "discord-2026-01",
     "store_url": "https://skullforgestudios.gumroad.com/l/lxvct?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arc Raiders",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/01/arc_raider_5.jpg"
+    ],
     "sort_order": 2
   },
   {
@@ -7179,10 +7183,12 @@
     "release_id": "discord-2026-01",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Arc Raiders",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/01/botz_1.jpg"
+    ],
     "sort_order": 3
   },
   {
@@ -7192,10 +7198,12 @@
     "release_id": "discord-2026-01",
     "store_url": "https://skullforgestudios.gumroad.com/l/jbutut?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arc Raiders",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/01/botz_ball.jpg"
+    ],
     "sort_order": 4
   },
   {
@@ -7205,10 +7213,12 @@
     "release_id": "discord-2026-01",
     "store_url": "https://skullforgestudios.gumroad.com/l/cwmwav?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arc Raiders",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/01/botz_jumper.jpg"
+    ],
     "sort_order": 5
   },
   {
@@ -7218,10 +7228,12 @@
     "release_id": "discord-2026-01",
     "store_url": "https://skullforgestudios.gumroad.com/l/ozrqi?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arc Raiders",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/01/botz_the_blockade.jpg"
+    ],
     "sort_order": 6
   },
   {
@@ -7233,8 +7245,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Star Wars",
+    "image_refs": [
+      "images/2026/01/commander_rechs.jpg"
+    ],
     "sort_order": 7
   },
   {
@@ -7244,10 +7258,12 @@
     "release_id": "discord-2026-01",
     "store_url": "https://skullforgestudios.gumroad.com/l/jnggio?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "1490 Doom",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/01/doom_company_vol_3.jpg"
+    ],
     "sort_order": 8
   },
   {
@@ -7259,8 +7275,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Star Wars",
+    "image_refs": [
+      "images/2026/01/GE_wanto_gang.jpg"
+    ],
     "sort_order": 9
   },
   {
@@ -7272,8 +7290,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Star Wars Jedi aosaka",
+    "image_refs": [
+      "images/2026/01/master_shek_tra.jpg"
+    ],
     "sort_order": 10
   },
   {
@@ -7283,10 +7303,12 @@
     "release_id": "discord-2026-01",
     "store_url": "https://skullforgestudios.gumroad.com/l/bqyhvt?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Blade of the Nomad",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Ronin",
+    "image_refs": [
+      "images/2026/01/one_eye_2.jpg"
+    ],
     "sort_order": 11
   },
   {
@@ -7296,10 +7318,12 @@
     "release_id": "discord-2026-01",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Blade of the Nomad",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Ronin",
+    "image_refs": [
+      "images/2026/01/one_eye_1.jpg"
+    ],
     "sort_order": 12
   },
   {
@@ -7311,8 +7335,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Star Wars",
+    "image_refs": [
+      "images/2026/01/undarian_troopers.jpg"
+    ],
     "sort_order": 13
   },
   {
@@ -7324,8 +7350,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Starship troopers",
+    "image_refs": [
+      "images/2026/01/SFS_clean_color_coded-Recovered-Recovered.jpg"
+    ],
     "sort_order": 14
   },
   {
