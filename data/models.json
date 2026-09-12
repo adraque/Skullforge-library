@@ -8840,5 +8840,170 @@
       "images/2026/08/GARCON_HUSC_DRONES.jpg"
     ],
     "sort_order": 9
+  },
+  {
+    "id": "discord-2026-08-terran-defense-general-infantry",
+    "name": "Terran Defense General Infantry",
+    "name_raw": "Terran Defense General Infantry",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Halo",
+    "image_refs": [
+      "images/2026/08/terran_defense_general_infantry.jpg"
+    ],
+    "sort_order": 10
+  },
+  {
+    "id": "discord-2026-08-human-crew-vol-4",
+    "name": "Human Crew Vol 4",
+    "name_raw": "Human Crew Vol 4",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/08/human_crew_vol_4.jpg"
+    ],
+    "sort_order": 11
+  },
+  {
+    "id": "discord-2026-08-westan-hounds",
+    "name": "Westan Hounds",
+    "name_raw": "Westan Hounds",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "Arsenal",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/08/westan_hounds.jpg"
+    ],
+    "sort_order": 12
+  },
+  {
+    "id": "discord-2026-08-arsenal-pilot-cleaver",
+    "name": "Arsenal Pilot Cleaver",
+    "name_raw": "Arsenal Pilot Cleaver",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "Arsenal",
+    "type": "",
+    "notes": "Pilot",
+    "image_refs": [
+      "images/2026/08/arsenal_pilot_cleaver.jpg"
+    ],
+    "sort_order": 13
+  },
+  {
+    "id": "discord-2026-08-zero-squad-the-fighter",
+    "name": "Zero Squad The Fighter",
+    "name_raw": "Zero Squad The Fighter",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Star Wars Zero Squad",
+    "image_refs": [
+      "images/2026/08/zero_squad_the_fighter.jpg"
+    ],
+    "sort_order": 14
+  },
+  {
+    "id": "discord-2026-08-arena-beasts-wave-2",
+    "name": "Arena Beasts Wave 2",
+    "name_raw": "Arena Beasts Wave 2",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Star Wars",
+    "image_refs": [
+      "images/2026/08/arena_beasts_wave_2.jpg"
+    ],
+    "sort_order": 15
+  },
+  {
+    "id": "discord-2026-08-zero-squad",
+    "name": "Zero Squad",
+    "name_raw": "Zero Squad",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Star Wars Zero Squad",
+    "image_refs": [
+      "images/2026/08/zero_squad_.jpg"
+    ],
+    "sort_order": 16
+  },
+  {
+    "id": "discord-2026-08-zero-squad-new-recruits",
+    "name": "Zero Squad New Recruits",
+    "name_raw": "Zero Squad New Recruits",
+    "release_id": "discord-2026-08",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "Star Wars Zero Squad",
+    "image_refs": [
+      "images/2026/08/zero_squad_new_recruits.jpg"
+    ],
+    "sort_order": 17
+  },
+  {
+    "id": "discord-2026-09-void-minotaur",
+    "name": "Void Minotaur",
+    "name_raw": "Void Minotaur",
+    "release_id": "discord-2026-09",
+    "store_url": "",
+    "tags": [],
+    "collection": "Heck Divers",
+    "type": "",
+    "notes": "hell divers",
+    "image_refs": [
+      "images/2026/09/void_minotaur.jpg"
+    ],
+    "sort_order": 1
+  },
+  {
+    "id": "discord-2026-09-void-thralls",
+    "name": "Void Thralls",
+    "name_raw": "Void Thralls",
+    "release_id": "discord-2026-09",
+    "store_url": "",
+    "tags": [],
+    "collection": "Heck Divers",
+    "type": "",
+    "notes": "hell divers",
+    "image_refs": [
+      "images/2026/09/void_thralls.jpg"
+    ],
+    "sort_order": 2
+  },
+  {
+    "id": "discord-2026-09-volunteer-specialists",
+    "name": "Volunteer Specialists",
+    "name_raw": "Volunteer Specialists",
+    "release_id": "discord-2026-09",
+    "store_url": "",
+    "tags": [],
+    "collection": "Heck Divers",
+    "type": "",
+    "notes": "hell divers",
+    "image_refs": [
+      "images/2026/09/volunteer_specialists.jpg"
+    ],
+    "sort_order": 3
   }
 ]
