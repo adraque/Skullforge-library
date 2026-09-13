@@ -7725,8 +7725,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2026/03/frost_troopers.jpg"
+    ],
     "sort_order": 1
   },
   {
@@ -7736,10 +7738,12 @@
     "release_id": "discord-2026-03",
     "store_url": "https://skullforgestudios.gumroad.com/l/pycatf?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/03/MCV_kukri.jpg"
+    ],
     "sort_order": 2
   },
   {
@@ -7749,10 +7753,12 @@
     "release_id": "discord-2026-03",
     "store_url": "https://skullforgestudios.gumroad.com/l/maeuaz?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/03/medic.jpg"
+    ],
     "sort_order": 3
   },
   {
@@ -7762,10 +7768,12 @@
     "release_id": "discord-2026-03",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/03/null_frames.jpg"
+    ],
     "sort_order": 4
   },
   {
@@ -7775,10 +7783,12 @@
     "release_id": "discord-2026-03",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/03/olympus_stencils.jpg"
+    ],
     "sort_order": 5
   },
   {
@@ -7788,10 +7798,12 @@
     "release_id": "discord-2026-03",
     "store_url": "https://skullforgestudios.gumroad.com/l/wzosf?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/03/olympus_terrain.jpg"
+    ],
     "sort_order": 6
   },
   {
@@ -7801,10 +7813,12 @@
     "release_id": "discord-2026-03",
     "store_url": "https://skullforgestudios.gumroad.com/l/zoeqdy?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/03/rascal.jpg"
+    ],
     "sort_order": 7
   },
   {
@@ -7814,10 +7828,12 @@
     "release_id": "discord-2026-03",
     "store_url": "https://skullforgestudios.gumroad.com/l/qnmerj?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/03/rogue.jpg"
+    ],
     "sort_order": 8
   },
   {
@@ -7827,10 +7843,12 @@
     "release_id": "discord-2026-03",
     "store_url": "https://skullforgestudios.gumroad.com/l/idcxod?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Blade of the Nomad",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/03/ronin_scions_of_the_black_wolf.jpg"
+    ],
     "sort_order": 9
   },
   {
@@ -7840,10 +7858,12 @@
     "release_id": "discord-2026-03",
     "store_url": "https://skullforgestudios.gumroad.com/l/jokfhd?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/03/samsara_bulwark.jpg"
+    ],
     "sort_order": 10
   },
   {
@@ -7853,10 +7873,12 @@
     "release_id": "discord-2026-03",
     "store_url": "https://skullforgestudios.gumroad.com/l/hbahj?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/03/samsara_hunter.jpg"
+    ],
     "sort_order": 11
   },
   {
@@ -7866,7 +7888,7 @@
     "release_id": "discord-2026-03",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
     "image_refs": [],
@@ -7879,10 +7901,12 @@
     "release_id": "discord-2026-03",
     "store_url": "https://skullforgestudios.gumroad.com/l/meqhdo?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/03/scout.jpg"
+    ],
     "sort_order": 13
   },
   {
@@ -7892,9 +7916,9 @@
     "release_id": "discord-2026-03",
     "store_url": "https://skullforgestudios.gumroad.com/l/ncvpkh?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Heck Divers",
     "type": "",
-    "notes": "",
+    "notes": "Hell divers",
     "image_refs": [],
     "sort_order": 14
   },
@@ -7907,8 +7931,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Greathelm Doom 1490",
+    "image_refs": [
+      "images/2026/03/CASTLE_KLAD_terrain_kit.jpg"
+    ],
     "sort_order": 15
   },
   {
@@ -7918,10 +7944,12 @@
     "release_id": "discord-2026-03",
     "store_url": "https://skullforgestudios.gumroad.com/l/givfqt?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Gambits Edge",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2026/03/Gambits_Edge_Render-Recovered-Recovered.jpg"
+    ],
     "sort_order": 16
   },
   {
@@ -7933,8 +7961,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2026/03/insectoid_bounty_hunter.jpg"
+    ],
     "sort_order": 17
   },
   {
