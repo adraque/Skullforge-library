@@ -6646,10 +6646,12 @@
     "release_id": "discord-2025-11",
     "store_url": "https://skullforgestudios.gumroad.com/l/fszptu?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Protocol",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/11/ANOMALY_staph_of_saturn.jpg"
+    ],
     "sort_order": 1
   },
   {
@@ -6659,10 +6661,12 @@
     "release_id": "discord-2025-11",
     "store_url": "https://skullforgestudios.gumroad.com/l/ifuqvf?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Protocol",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/11/CT_black_onyx.jpg"
+    ],
     "sort_order": 2
   },
   {
@@ -6672,10 +6676,12 @@
     "release_id": "discord-2025-11",
     "store_url": "https://skullforgestudios.gumroad.com/l/dugsln?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/11/MCV_katana.jpg"
+    ],
     "sort_order": 3
   },
   {
@@ -6685,10 +6691,12 @@
     "release_id": "discord-2025-11",
     "store_url": "https://skullforgestudios.gumroad.com/l/jntla?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Blade of the Nomad",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "ronin",
+    "image_refs": [
+      "images/2025/11/outlaw_archers.jpg"
+    ],
     "sort_order": 4
   },
   {
@@ -6698,10 +6706,12 @@
     "release_id": "discord-2025-11",
     "store_url": "https://skullforgestudios.gumroad.com/l/jntla?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Blade of the Nomad",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "ronin",
+    "image_refs": [
+      "images/2025/11/outlaw_brutes.jpg"
+    ],
     "sort_order": 5
   },
   {
@@ -6711,10 +6721,12 @@
     "release_id": "discord-2025-11",
     "store_url": "https://skullforgestudios.gumroad.com/l/jntla?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Blade Of The Nomad",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "ronin",
+    "image_refs": [
+      "images/2025/11/outlaw_knife_dancers.jpg"
+    ],
     "sort_order": 6
   },
   {
@@ -6724,10 +6736,12 @@
     "release_id": "discord-2025-11",
     "store_url": "https://skullforgestudios.gumroad.com/l/jntla?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Blade Of The Nomad",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "ronin",
+    "image_refs": [
+      "images/2025/11/outlaw_leaders.jpg"
+    ],
     "sort_order": 7
   },
   {
@@ -6737,10 +6751,12 @@
     "release_id": "discord-2025-11",
     "store_url": "https://skullforgestudios.gumroad.com/l/jntla?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Blade Of The Nomad",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "ronin",
+    "image_refs": [
+      "images/2025/11/outlaw_spearmen.jpg"
+    ],
     "sort_order": 8
   },
   {
@@ -6750,10 +6766,12 @@
     "release_id": "discord-2025-11",
     "store_url": "https://skullforgestudios.gumroad.com/l/jntla?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Blade of The Nomad",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "ronin",
+    "image_refs": [
+      "images/2025/11/outlaw_thugs.jpg"
+    ],
     "sort_order": 9
   },
   {
@@ -6763,10 +6781,12 @@
     "release_id": "discord-2025-11",
     "store_url": "https://skullforgestudios.gumroad.com/l/hnelch?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Gambit's Edge",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2025/11/patrol_walker.jpg"
+    ],
     "sort_order": 10
   },
   {
@@ -6778,8 +6798,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2025/11/red_mirage.jpg"
+    ],
     "sort_order": 11
   },
   {
@@ -6791,8 +6813,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2025/11/the_chosen_and_gang.jpg"
+    ],
     "sort_order": 12
   },
   {
@@ -6802,10 +6826,12 @@
     "release_id": "discord-2025-11",
     "store_url": "https://skullforgestudios.gumroad.com/l/enapk?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Blade of the Nomad",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/11/the_onryo_ronin.jpg"
+    ],
     "sort_order": 13
   },
   {
@@ -6815,10 +6841,12 @@
     "release_id": "discord-2025-11",
     "store_url": "https://skullforgestudios.gumroad.com/l/ufsmto?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/11/vanguard_methuselah.jpg"
+    ],
     "sort_order": 14
   },
   {
@@ -6830,8 +6858,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2025/11/vanguard_patrol_ship.jpg"
+    ],
     "sort_order": 15
   },
   {
@@ -6841,10 +6871,12 @@
     "release_id": "discord-2025-11",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Imperial Covenant",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Trench Crusade TC",
+    "image_refs": [
+      "images/2025/11/ronin_2.jpg"
+    ],
     "sort_order": 16
   },
   {
