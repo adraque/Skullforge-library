@@ -9124,6 +9124,21 @@
     "sort_order": 17
   },
   {
+    "id": "discord-2026-08-arsenal-mcv-takoba",
+    "name": "Arsenal MCV: Takoba",
+    "name_raw": "Arsenal MCV: Takoba",
+    "release_id": "discord-2026-08",
+    "store_url": "https://skullforgestudios.gumroad.com/l/xyzlop?layout=profile",
+    "tags": [],
+    "collection": "Arsenal",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/08/ARSENAL_MCV_takoba.jpg"
+    ],
+    "sort_order": 18
+  },
+  {
     "id": "discord-2026-09-void-minotaur",
     "name": "Void Minotaur",
     "name_raw": "Void Minotaur",
