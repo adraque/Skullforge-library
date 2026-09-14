@@ -7976,10 +7976,12 @@
     "release_id": "discord-2026-04",
     "store_url": "https://skullforgestudios.gumroad.com/l/cvgkyc?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/04/Arsenal_Fireteam_Zeta.jpg"
+    ],
     "sort_order": 1
   },
   {
@@ -7991,7 +7993,7 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
+    "notes": "terrain doom 1490 greathelm",
     "image_refs": [],
     "sort_order": 2
   },
@@ -8002,10 +8004,12 @@
     "release_id": "discord-2026-04",
     "store_url": "https://skullforgestudios.gumroad.com/l/jztnffa?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Firmament",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/04/firmament_corporate_reclaimers.jpg"
+    ],
     "sort_order": 3
   },
   {
@@ -8015,10 +8019,12 @@
     "release_id": "discord-2026-04",
     "store_url": "https://skullforgestudios.gumroad.com/l/eahmpn?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Hades Patrol",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Jin Roh wolf brigade",
+    "image_refs": [
+      "images/2026/04/hades_patrol_shock_troopers.jpg"
+    ],
     "sort_order": 4
   },
   {
@@ -8028,10 +8034,12 @@
     "release_id": "discord-2026-04",
     "store_url": "https://skullforgestudios.gumroad.com/l/eyqhva?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/04/samsara_stalker.jpg"
+    ],
     "sort_order": 5
   },
   {
@@ -8041,10 +8049,12 @@
     "release_id": "discord-2026-04",
     "store_url": "https://skullforgestudios.gumroad.com/l/edliew?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/04/stalk_and_survive_display_model.jpg"
+    ],
     "sort_order": 6
   },
   {
@@ -8054,10 +8064,12 @@
     "release_id": "discord-2026-04",
     "store_url": "https://skullforgestudios.gumroad.com/l/modka?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/04/wardens_vol_1.jpg"
+    ],
     "sort_order": 7
   },
   {
@@ -8067,10 +8079,12 @@
     "release_id": "discord-2026-04",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/04/zeta_pilots.jpg"
+    ],
     "sort_order": 8
   },
   {
@@ -8095,8 +8109,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "Star Wars sith jedi darth maul",
+    "image_refs": [
+      "images/2026/04/the_renegade_shadow.jpg"
+    ],
     "sort_order": 10
   },
   {
@@ -8106,10 +8122,12 @@
     "release_id": "discord-2026-04",
     "store_url": "https://skullforgestudios.gumroad.com/l/lfinm?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Gambits Edge",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2026/04/zephys_the_hunuter.jpg"
+    ],
     "sort_order": 11
   },
   {
@@ -8121,8 +8139,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars darth maul",
+    "image_refs": [
+      "images/2026/04/janos_detective.jpg"
+    ],
     "sort_order": 12
   },
   {
@@ -8134,8 +8154,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars darth maul",
+    "image_refs": [
+      "images/2026/04/janos_security_troopers.jpg"
+    ],
     "sort_order": 13
   },
   {
@@ -8147,8 +8169,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars jedi darth maul",
+    "image_refs": [
+      "images/2026/05/dera_ezran_the_lost_apprentice.jpg"
+    ],
     "sort_order": 1
   },
   {
@@ -8158,10 +8182,12 @@
     "release_id": "discord-2026-05",
     "store_url": "https://skullforgestudios.gumroad.com/l/ibyuk?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Heck Divers",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "hell divers",
+    "image_refs": [
+      "images/2026/05/heck_divers_trench_commandant.jpg"
+    ],
     "sort_order": 2
   },
   {
@@ -8171,10 +8197,12 @@
     "release_id": "discord-2026-05",
     "store_url": "https://skullforgestudios.gumroad.com/l/yvnjo?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Heck Divers",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "hell divers",
+    "image_refs": [
+      "images/2026/05/heckdivers_trench_troopers.jpg"
+    ],
     "sort_order": 3
   },
   {
@@ -8186,8 +8214,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2026/05/may_the_fourth_brothers.jpg"
+    ],
     "sort_order": 4
   },
   {
@@ -8197,10 +8227,12 @@
     "release_id": "discord-2026-05",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Rat Hounds",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/05/RatHound_Flaker_alt.jpg"
+    ],
     "sort_order": 5
   },
   {
@@ -8210,10 +8242,12 @@
     "release_id": "discord-2026-05",
     "store_url": "https://skullforgestudios.gumroad.com/l/bxzev?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Rat Hounds",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/05/RatHound_Flaker_scav.jpg"
+    ],
     "sort_order": 6
   },
   {
@@ -8223,10 +8257,12 @@
     "release_id": "discord-2026-05",
     "store_url": "https://skullforgestudios.gumroad.com/l/zfjbl?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Rat Hounds",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/05/RatHound_TAC_Aardwolf.jpg"
+    ],
     "sort_order": 7
   },
   {
@@ -8236,10 +8272,12 @@
     "release_id": "discord-2026-05",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Rat Hounds",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/05/RatHound_TAC_Aardwolf_Heads.jpg"
+    ],
     "sort_order": 8
   },
   {
@@ -8251,8 +8289,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars empire",
+    "image_refs": [
+      "images/2026/05/remnant_frost_recon_trooper.jpg"
+    ],
     "sort_order": 9
   },
   {
@@ -8262,10 +8302,12 @@
     "release_id": "discord-2026-05",
     "store_url": "https://skullforgestudios.gumroad.com/l/lhqco?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/05/Samsara_wardens_Vol_2.jpg"
+    ],
     "sort_order": 10
   },
   {
@@ -8275,10 +8317,12 @@
     "release_id": "discord-2026-05",
     "store_url": "https://skullforgestudios.gumroad.com/l/htbxbr?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Samsara",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2026/05/Samsara_Marine.jpg"
+    ],
     "sort_order": 11
   },
   {
@@ -8290,8 +8334,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars darth maul jedi",
+    "image_refs": [
+      "images/2026/05/sauro_sio_daki_the_eremite_master.jpg"
+    ],
     "sort_order": 12
   },
   {
@@ -8303,8 +8349,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars empire",
+    "image_refs": [
+      "images/2026/05/skirmish_walker_remnant.jpg"
+    ],
     "sort_order": 13
   },
   {
@@ -8316,8 +8364,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "project hail mary",
+    "image_refs": [
+      "images/2026/05/stellar_saviors.jpg"
+    ],
     "sort_order": 14
   },
   {
@@ -8329,8 +8379,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "project hail mary rocky",
+    "image_refs": [
+      "images/2026/05/The_Mechanic.jpg"
+    ],
     "sort_order": 15
   },
   {
@@ -8342,8 +8394,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "project hail mary grace",
+    "image_refs": [
+      "images/2026/05/The_Xenobiologist.jpg"
+    ],
     "sort_order": 16
   },
   {
