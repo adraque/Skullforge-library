@@ -6128,8 +6128,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2025/08/agent_tryck.jpg"
+    ],
     "sort_order": 1
   },
   {
@@ -6139,10 +6141,12 @@
     "release_id": "discord-2025-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Firmament",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/08/firmament_operators.jpg"
+    ],
     "sort_order": 2
   },
   {
@@ -6152,10 +6156,12 @@
     "release_id": "discord-2025-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Firmament",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/08/firmament_operators_parts.jpg"
+    ],
     "sort_order": 3
   },
   {
@@ -6168,7 +6174,9 @@
     "collection": "",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/08/hiss_car.jpg"
+    ],
     "sort_order": 4
   },
   {
@@ -6178,10 +6186,12 @@
     "release_id": "discord-2025-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/08/jack.jpg"
+    ],
     "sort_order": 5
   },
   {
@@ -6193,8 +6203,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2025/08/jade_inquisitor.jpg"
+    ],
     "sort_order": 6
   },
   {
@@ -6204,10 +6216,12 @@
     "release_id": "discord-2025-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/08/MCV_saber.jpg"
+    ],
     "sort_order": 7
   },
   {
@@ -6219,22 +6233,11 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2025/08/phase_3_troopers.jpg"
+    ],
     "sort_order": 8
-  },
-  {
-    "id": "discord-2025-08-sfs-recovered",
-    "name": "Sfs Recovered",
-    "name_raw": "Sfs Recovered",
-    "release_id": "discord-2025-08",
-    "store_url": "",
-    "tags": [],
-    "collection": "",
-    "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 9
   },
   {
     "id": "discord-2025-08-siberian-security-force",
@@ -6243,11 +6246,13 @@
     "release_id": "discord-2025-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 10
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/08/siberian_security_force.jpg"
+    ],
+    "sort_order": 9
   },
   {
     "id": "discord-2025-08-the-angst",
@@ -6256,11 +6261,13 @@
     "release_id": "discord-2025-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 11
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/08/the_angst.jpg"
+    ],
+    "sort_order": 10
   },
   {
     "id": "discord-2025-08-the-grief",
@@ -6269,11 +6276,13 @@
     "release_id": "discord-2025-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 12
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/08/the_grief.jpg"
+    ],
+    "sort_order": 11
   },
   {
     "id": "discord-2025-08-the-hurt",
@@ -6282,11 +6291,13 @@
     "release_id": "discord-2025-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 13
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/08/the_hurt.jpg"
+    ],
+    "sort_order": 12
   },
   {
     "id": "discord-2025-08-the-mentor",
@@ -6295,11 +6306,13 @@
     "release_id": "discord-2025-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 14
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/08/the_mentor.jpg"
+    ],
+    "sort_order": 13
   },
   {
     "id": "discord-2025-08-the-rage",
@@ -6308,11 +6321,13 @@
     "release_id": "discord-2025-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 15
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/08/the_rage.jpg"
+    ],
+    "sort_order": 14
   },
   {
     "id": "discord-2025-08-the-waiting",
@@ -6321,11 +6336,13 @@
     "release_id": "discord-2025-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 16
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/08/the_waiting.jpg"
+    ],
+    "sort_order": 15
   },
   {
     "id": "discord-2025-08-vanguard-wing",
@@ -6336,9 +6353,11 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 17
+    "notes": "star wars",
+    "image_refs": [
+      "images/2025/08/vanguard_wing.jpg"
+    ],
+    "sort_order": 16
   },
   {
     "id": "discord-2025-08-viper-team",
@@ -6347,11 +6366,13 @@
     "release_id": "discord-2025-08",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
-    "sort_order": 18
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/08/viper_team.jpg"
+    ],
+    "sort_order": 17
   },
   {
     "id": "discord-2025-08-wunkerkind-security",
@@ -6363,8 +6384,10 @@
     "collection": "",
     "type": "",
     "notes": "",
-    "image_refs": [],
-    "sort_order": 19
+    "image_refs": [
+      "images/2025/08/wunkerkind_security.jpg"
+    ],
+    "sort_order": 18
   },
   {
     "id": "discord-2025-09-cloudstrider",
@@ -6375,8 +6398,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2025/09/cloudstrider.jpg"
+    ],
     "sort_order": 1
   },
   {
@@ -6386,10 +6411,12 @@
     "release_id": "discord-2025-09",
     "store_url": "https://skullforgestudios.gumroad.com/l/gavbw?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Firmament",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/09/hullbreach_operators.jpg"
+    ],
     "sort_order": 2
   },
   {
@@ -6402,7 +6429,9 @@
     "collection": "",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/09/lost_hybrids.jpg"
+    ],
     "sort_order": 3
   },
   {
@@ -6412,10 +6441,12 @@
     "release_id": "discord-2025-09",
     "store_url": "https://skullforgestudios.gumroad.com/l/szbuxv?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/09/lynx_unit.jpg"
+    ],
     "sort_order": 4
   },
   {
@@ -6425,10 +6456,12 @@
     "release_id": "discord-2025-09",
     "store_url": "https://skullforgestudios.gumroad.com/l/ztdedp?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/09/stealth_python.jpg"
+    ],
     "sort_order": 5
   },
   {
@@ -6438,10 +6471,12 @@
     "release_id": "discord-2025-09",
     "store_url": "https://skullforgestudios.gumroad.com/l/oaqmi?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/09/double_agent.jpg"
+    ],
     "sort_order": 6
   },
   {
@@ -6453,8 +6488,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2025/09/zero_squad.jpg"
+    ],
     "sort_order": 7
   },
   {
@@ -6464,10 +6501,18 @@
     "release_id": "discord-2025-09",
     "store_url": "https://skullforgestudios.gumroad.com/l/nvnol?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Honor Team",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/09/the_breacher.jpg",
+      "images/2025/09/the_veteran.jpg",
+      "images/2025/09/the_commander.jpg",
+      "images/2025/09/the_deadeye.jpg",
+      "images/2025/09/The_Heavy.jpg",
+      "images/2025/09/the_recruit_a.jpg",
+      "images/2025/09/the_recruit_b.jpg"
+    ],
     "sort_order": 8
   },
   {
@@ -6477,10 +6522,12 @@
     "release_id": "discord-2025-09",
     "store_url": "https://skullforgestudios.gumroad.com/l/uwkqw?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/09/fireteam_epsilon.jpg"
+    ],
     "sort_order": 9
   },
   {
@@ -6492,8 +6539,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2025/10/breach_troopers.jpg"
+    ],
     "sort_order": 1
   },
   {
@@ -6505,8 +6554,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "aliens",
+    "image_refs": [
+      "images/2025/10/corpo_field_security_.jpg"
+    ],
     "sort_order": 2
   },
   {
@@ -6518,8 +6569,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2025/10/loyalist_troopers.jpg"
+    ],
     "sort_order": 3
   },
   {
@@ -6529,10 +6582,12 @@
     "release_id": "discord-2025-10",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Imperial Covenant",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "trench crusade",
+    "image_refs": [
+      "images/2025/10/ronin_IC.jpg"
+    ],
     "sort_order": 4
   },
   {
@@ -6542,10 +6597,12 @@
     "release_id": "discord-2025-10",
     "store_url": "https://skullforgestudios.gumroad.com/l/foddzk?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Gambits Edge",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/10/smokka_and_jast.jpg"
+    ],
     "sort_order": 5
   },
   {
@@ -6557,8 +6614,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "aliens",
+    "image_refs": [
+      "images/2025/10/stalkers.jpg"
+    ],
     "sort_order": 6
   },
   {
@@ -6571,7 +6630,9 @@
     "collection": "",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/10/starhawk.jpg"
+    ],
     "sort_order": 7
   },
   {
@@ -6584,7 +6645,9 @@
     "collection": "",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/10/starhawk_pilots.jpg"
+    ],
     "sort_order": 8
   },
   {
@@ -6594,10 +6657,12 @@
     "release_id": "discord-2025-10",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/10/commander_vulkan.jpg"
+    ],
     "sort_order": 9
   },
   {
@@ -6607,10 +6672,12 @@
     "release_id": "discord-2025-10",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Intruder",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "metal gear",
+    "image_refs": [
+      "images/2025/10/red_bear_walker.jpg"
+    ],
     "sort_order": 10
   },
   {
@@ -6620,10 +6687,12 @@
     "release_id": "discord-2025-10",
     "store_url": "https://skullforgestudios.gumroad.com/l/qjqqfw?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "terrain",
+    "image_refs": [
+      "images/2025/10/ARSENAL_mech_bay.jpg"
+    ],
     "sort_order": 11
   },
   {
@@ -6631,13 +6700,45 @@
     "name": "Arsenal Armaments Vol 2",
     "name_raw": "Arsenal Armaments Vol 2",
     "release_id": "discord-2025-10",
+    "store_url": "https://skullforgestudios.gumroad.com/l/xlfpn?layout=profile",
+    "tags": [],
+    "collection": "Arsenal",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2025/10/armaments_vol_2.jpg"
+    ],
+    "sort_order": 12
+  },
+  {
+    "id": "discord-2025-10-star-treader",
+    "name": "Star Treader",
+    "name_raw": "Star Treader",
+    "release_id": "discord-2025-10",
     "store_url": "",
     "tags": [],
     "collection": "",
     "type": "",
     "notes": "",
-    "image_refs": [],
-    "sort_order": 12
+    "image_refs": [
+      "images/2025/10/star_treader.jpg"
+    ],
+    "sort_order": 13
+  },
+  {
+    "id": "discord-2025-10-alliance-cruiser",
+    "name": "Alliance Cruiser",
+    "name_raw": "Alliance Cruiser",
+    "release_id": "discord-2025-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2025/10/starcruiser_interior.jpg"
+    ],
+    "sort_order": 14
   },
   {
     "id": "discord-2025-11-anomaly-staph-of-saturn",
