@@ -6854,10 +6854,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/hxrdr?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arc Raiders",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/dust_scavs.jpg"
+    ],
     "sort_order": 1
   },
   {
@@ -6867,10 +6869,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/mlyta?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arc Raiders",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/milano_brigade.jpg"
+    ],
     "sort_order": 2
   },
   {
@@ -6880,10 +6884,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/mfyzr?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arc Raiders",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/patrol_bronco.jpg"
+    ],
     "sort_order": 3
   },
   {
@@ -6893,10 +6899,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/rocuku?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/skullmas_1.jpg"
+    ],
     "sort_order": 4
   },
   {
@@ -6906,10 +6914,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/ueehka?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Blade of The Nomad",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "terrain",
+    "image_refs": [
+      "images/2025/12/1_2_3.jpg"
+    ],
     "sort_order": 5
   },
   {
@@ -6919,10 +6929,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/wolnvy?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Blade of the Nomad",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/skullmas_11.jpg"
+    ],
     "sort_order": 6
   },
   {
@@ -6934,8 +6946,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "starship troopers",
+    "image_refs": [
+      "images/2025/12/skullmas_12.jpg"
+    ],
     "sort_order": 7
   },
   {
@@ -6945,10 +6959,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/qhvreu?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arsenal",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/Skullmas_2.jpg"
+    ],
     "sort_order": 8
   },
   {
@@ -6961,7 +6977,9 @@
     "collection": "",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/skullmas_3.jpg"
+    ],
     "sort_order": 9
   },
   {
@@ -6971,10 +6989,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/ysrea?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Firmament",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/skullmas_4.jpg"
+    ],
     "sort_order": 10
   },
   {
@@ -6986,8 +7006,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars droids r2d2 c3p0",
+    "image_refs": [
+      "images/2025/12/skullmas_5.jpg"
+    ],
     "sort_order": 11
   },
   {
@@ -6997,10 +7019,12 @@
     "release_id": "discord-2025-12",
     "store_url": "",
     "tags": [],
-    "collection": "",
+    "collection": "Gambits Edge",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/skullmas_6.jpg"
+    ],
     "sort_order": 12
   },
   {
@@ -7013,7 +7037,9 @@
     "collection": "",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/skullmas_7.jpg"
+    ],
     "sort_order": 13
   },
   {
@@ -7025,8 +7051,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars ewoks",
+    "image_refs": [
+      "images/2025/12/skullmas_8.jpg"
+    ],
     "sort_order": 14
   },
   {
@@ -7038,8 +7066,10 @@
     "tags": [],
     "collection": "",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars empire casualties",
+    "image_refs": [
+      "images/2025/12/1_4.jpg"
+    ],
     "sort_order": 15
   },
   {
@@ -7049,10 +7079,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/dffytv?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Arc Raiders",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/tango_guardians.jpg"
+    ],
     "sort_order": 16
   },
   {
@@ -7062,10 +7094,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/ovqigb?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Gambits Edge",
     "type": "",
-    "notes": "",
-    "image_refs": [],
+    "notes": "star wars",
+    "image_refs": [
+      "images/2025/12/the_scofflaw.jpg"
+    ],
     "sort_order": 17
   },
   {
@@ -7075,10 +7109,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/vncxvx?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Gambits Edge",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/skullmas_6.jpg"
+    ],
     "sort_order": 18
   },
   {
@@ -7088,10 +7124,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/pqartn?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Gambits Edge",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/skullmas_6.jpg"
+    ],
     "sort_order": 19
   },
   {
@@ -7101,10 +7139,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/hycdv?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Gambits Edge",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/skullmas_6.jpg"
+    ],
     "sort_order": 20
   },
   {
@@ -7114,10 +7154,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/djtlr?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Gambits Edge",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/skullmas_6.jpg"
+    ],
     "sort_order": 21
   },
   {
@@ -7127,10 +7169,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/xqueiu?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Gambits Edge",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/skullmas_6.jpg"
+    ],
     "sort_order": 22
   },
   {
@@ -7140,10 +7184,12 @@
     "release_id": "discord-2025-12",
     "store_url": "https://skullforgestudios.gumroad.com/l/izzyr?layout=profile",
     "tags": [],
-    "collection": "",
+    "collection": "Gambits Edge",
     "type": "",
     "notes": "",
-    "image_refs": [],
+    "image_refs": [
+      "images/2025/12/skullmas_6.jpg"
+    ],
     "sort_order": 23
   },
   {
