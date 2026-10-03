@@ -1,5 +1,15 @@
 [
   {
+    "id": "discord-2026-10",
+    "release_month": "2026-10",
+    "title": "October 2026",
+    "cover_image": "images/2026/10/skullforge_october.jpg",
+    "images": [
+      "images/2026/10/skullforge_october.jpg"
+    ],
+    "source": "discord"
+  },
+  {
     "id": "discord-2026-09",
     "release_month": "2026-09",
     "title": "September 2026",
