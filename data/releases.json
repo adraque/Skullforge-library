@@ -5,7 +5,14 @@
     "title": "October 2026",
     "cover_image": "images/2026/10/skullforge_october.jpg",
     "images": [
-      "images/2026/10/skullforge_october.jpg"
+      "images/2026/10/skullforge_october.jpg",
+      "images/2026/10/PROTOCOL_annelid_harvesters.png",
+      "images/2026/10/PROTOCOL_TEAM_ONI_ZERO_HEADS.png",
+      "images/2026/10/PROTOCOL_mass_annelid.png",
+      "images/2026/10/PROTOCOL_annelid_THRALLS.png",
+      "images/2026/10/PROTOCOL_ANNELID_WARDENS.png",
+      "images/2026/10/PROTOCOL_CONTROL_TEAM_ONI_ZERO.png",
+      "images/2026/10/PROTOCOL_MANIFEST_OPERATORS.png"
     ],
     "source": "discord"
   },
@@ -13,12 +20,18 @@
     "id": "discord-2026-09",
     "release_month": "2026-09",
     "title": "September 2026",
-    "cover_image": "images/2026/09/skullforge_preview_september.jpg",
+    "cover_image": "images/2026/09/september_last_chance.jpg",
     "images": [
-      "images/2026/09/skullforge_preview_september.jpg",
+      "images/2026/09/september_last_chance.jpg",
       "images/2026/09/void_minotaur.jpg",
       "images/2026/09/void_thralls.jpg",
-      "images/2026/09/volunteer_specialists.jpg"
+      "images/2026/09/volunteer_specialists.jpg",
+      "images/2026/09/Arsenal_Cauldron.jpg",
+      "images/2026/09/botn_Ronin_Ronin_bundle.jpg",
+      "images/2026/09/terran_defense_specialilsts.jpg",
+      "images/2026/09/modern_imperial_troopers.jpg",
+      "images/2026/09/the_exiled_noble.jpg",
+      "images/2026/09/zero_squad_recruits_vol_2.jpg"
     ],
     "source": "discord"
   },

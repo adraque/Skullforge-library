@@ -9361,5 +9361,200 @@
       "images/2026/09/volunteer_specialists.jpg"
     ],
     "sort_order": 3
+  },
+  {
+    "id": "discord-2026-09-cauldron-terrain",
+    "name": "Cauldron Terrain",
+    "name_raw": "Cauldron Terrain",
+    "release_id": "discord-2026-09",
+    "store_url": "",
+    "tags": [],
+    "collection": "Arsenal",
+    "type": "",
+    "notes": "Terrain",
+    "image_refs": [
+      "images/2026/09/Arsenal_Cauldron.jpg"
+    ],
+    "sort_order": 4
+  },
+  {
+    "id": "discord-2026-09-botn-ronin",
+    "name": "Botn Ronin",
+    "name_raw": "Botn Ronin",
+    "release_id": "discord-2026-09",
+    "store_url": "",
+    "tags": [],
+    "collection": "Blade of the Nomad",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/09/botn_Ronin_Ronin_bundle.jpg"
+    ],
+    "sort_order": 5
+  },
+  {
+    "id": "discord-2026-09-terran-defense-specialist",
+    "name": "Terran Defense Specialist",
+    "name_raw": "Terran Defense Specialist",
+    "release_id": "discord-2026-09",
+    "store_url": "",
+    "tags": [],
+    "collection": "Terran Defense",
+    "type": "",
+    "notes": "Halo Master Chief",
+    "image_refs": [
+      "images/2026/09/terran_defense_specialilsts.jpg"
+    ],
+    "sort_order": 6
+  },
+  {
+    "id": "discord-2026-09-modern-imperial-troopers",
+    "name": "Modern Imperial Troopers",
+    "name_raw": "Modern Imperial Troopers",
+    "release_id": "discord-2026-09",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "star wars",
+    "image_refs": [
+      "images/2026/09/modern_imperial_troopers.jpg"
+    ],
+    "sort_order": 7
+  },
+  {
+    "id": "discord-2026-09-the-exiled-noble",
+    "name": "The Exiled Noble",
+    "name_raw": "The Exiled Noble",
+    "release_id": "discord-2026-09",
+    "store_url": "",
+    "tags": [],
+    "collection": "Gambits Edge",
+    "type": "",
+    "notes": "star wars",
+    "image_refs": [
+      "images/2026/09/the_exiled_noble.jpg"
+    ],
+    "sort_order": 8
+  },
+  {
+    "id": "discord-2026-09-zero-squad-recruits-vol-2",
+    "name": "Zero Squad Recruits Vol 2",
+    "name_raw": "Zero Squad Recruits Vol 2",
+    "release_id": "discord-2026-09",
+    "store_url": "",
+    "tags": [],
+    "collection": "",
+    "type": "",
+    "notes": "zero squad star wars",
+    "image_refs": [
+      "images/2026/09/zero_squad_recruits_vol_2.jpg"
+    ],
+    "sort_order": 9
+  },
+  {
+    "id": "discord-2026-10-protocol-team-oni-zero-heads",
+    "name": "Protocol Team Oni Zero Heads",
+    "name_raw": "Protocol Team Oni Zero Heads",
+    "release_id": "discord-2026-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "Protocol",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/10/PROTOCOL_TEAM_ONI_ZERO_HEADS.png"
+    ],
+    "sort_order": 1
+  },
+  {
+    "id": "discord-2026-10-protocol-annelid-harvesters",
+    "name": "Protocol Annelid Harvesters",
+    "name_raw": "Protocol Annelid Harvesters",
+    "release_id": "discord-2026-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "Protocol",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/10/PROTOCOL_annelid_harvesters.png"
+    ],
+    "sort_order": 2
+  },
+  {
+    "id": "discord-2026-10-protocol-annelid-thralls",
+    "name": "Protocol Annelid Thralls",
+    "name_raw": "Protocol Annelid Thralls",
+    "release_id": "discord-2026-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "Protocol",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/10/PROTOCOL_annelid_THRALLS.png"
+    ],
+    "sort_order": 3
+  },
+  {
+    "id": "discord-2026-10-protocol-annelid-wardens",
+    "name": "Protocol Annelid Wardens",
+    "name_raw": "Protocol Annelid Wardens",
+    "release_id": "discord-2026-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "Protocol",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/10/PROTOCOL_ANNELID_WARDENS.png"
+    ],
+    "sort_order": 4
+  },
+  {
+    "id": "discord-2026-10-protocol-control-team-oni-zero",
+    "name": "Protocol Control Team Oni Zero",
+    "name_raw": "Protocol Control Team Oni Zero",
+    "release_id": "discord-2026-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "Protocol",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/10/PROTOCOL_CONTROL_TEAM_ONI_ZERO.png"
+    ],
+    "sort_order": 5
+  },
+  {
+    "id": "discord-2026-10-protocol-manifest-operators",
+    "name": "Protocol Manifest Operators",
+    "name_raw": "Protocol Manifest Operators",
+    "release_id": "discord-2026-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "Protocol",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/10/PROTOCOL_MANIFEST_OPERATORS.png"
+    ],
+    "sort_order": 6
+  },
+  {
+    "id": "discord-2026-10-protocol-mass-annelid",
+    "name": "Protocol Mass Annelid",
+    "name_raw": "Protocol Mass Annelid",
+    "release_id": "discord-2026-10",
+    "store_url": "",
+    "tags": [],
+    "collection": "Protocol",
+    "type": "",
+    "notes": "",
+    "image_refs": [
+      "images/2026/10/PROTOCOL_mass_annelid.png"
+    ],
+    "sort_order": 7
   }
 ]
